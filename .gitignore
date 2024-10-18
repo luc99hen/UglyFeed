@@ -1,1 +1,7 @@
 __pycache__/rss_reader.cpython-312.pyc
+output
+rewritten
+*.log
+.streamlit
+config.yaml
+uglyfeeds/*

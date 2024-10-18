@@ -7,6 +7,7 @@ import json
 import logging
 import argparse
 import yaml
+import markdown
 import os
 import time
 from pathlib import Path
@@ -206,6 +207,44 @@ def read_content_prefix(prefix_file_path):
         logger.error("Error reading content prefix file %s: %s", prefix_file_path, e)
         return ""
 
+def process_contents(json_data, api_url, model, api_key, content_prefix, api_type):
+     # Ensure 'content' key exists in each dictionary
+    combined_content = content_prefix + "\n" + json_data["content"]
+
+    logger.info("Summarizing: %s", json_data["title"])
+
+    if estimate_token_count(combined_content) > MAX_TOKENS:
+        logger.info("Truncating content to fit within %s tokens.", MAX_TOKENS)
+        combined_content = truncate_content(combined_content, MAX_TOKENS)
+
+    if api_type == "openai":
+        rewritten_content = call_openai_api(api_url, combined_content, model, api_key)
+    elif api_type == "groq":
+        rewritten_content = call_groq_api(api_url, combined_content, model, api_key)
+    elif api_type == "anthropic":
+        rewritten_content = call_anthropic_api(api_url, combined_content, model, api_key)
+    else:
+        rewritten_content = call_ollama_api(api_url, combined_content, model)
+
+    if rewritten_content:
+        
+        html_content = markdown.markdown(rewritten_content)
+        current_datetime = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+        return {
+            'title': json_data["title"],
+            'content': html_content,
+            'processed_at': current_datetime,
+            'api': api_type,
+            'model': model,
+            'uri': json_data["uri"]
+        }
+
+    else:
+        logger.error("Failed to get rewritten content from LLM API.")
+        logger.debug("Rewritten content: %s", rewritten_content)
+
+
 def process_json_file(filepath, api_url, model, api_key, content_prefix, rewritten_folder, api_type):
     """Process a JSON file using the specified API."""
     try:
@@ -225,10 +264,10 @@ def process_json_file(filepath, api_url, model, api_key, content_prefix, rewritt
 
     # Ensure 'content' key exists in each dictionary
     combined_content = content_prefix + "\n".join(
-        f"[source {idx + 1}] {item.get('content', 'No content provided')}" for idx, item in enumerate(json_data))
+        f"[source {idx + 1}] {str(item)}" for idx, item in enumerate(json_data))
 
     logger.info("Processing %s - combined content prepared.", filepath)
-    logger.debug("Combined content: %s", combined_content)
+    logger.info("Combined content: %s", combined_content)
 
     if estimate_token_count(combined_content) > MAX_TOKENS:
         logger.info("Truncating content to fit within %s tokens.", MAX_TOKENS)
@@ -294,6 +333,31 @@ def validate_config(api_config):
     missing_keys = [key for key in required_keys if not api_config.get(key)]
     if missing_keys:
         raise ValueError(f"The selected API configuration is incomplete. Missing keys: {', '.join(missing_keys)}")
+
+def llm_processor(config, articleContents, prompt_path=None, api=None, api_key=None, model=None, api_url=None):
+    api_config = config.get('api_config', {})
+    folder_config = config.get('folders', {})
+    prompt_file_path = prompt_path or config.get('prompt_file', "")
+
+    # Override with environment variables if present
+    selected_api = api or os.getenv('API_TYPE', api_config.get('selected_api'))
+    model = model or os.getenv('API_MODEL', api_config.get(f'{selected_api.lower()}_model'))
+    api_key = api_key or os.getenv('API_KEY', api_config.get(f'{selected_api.lower()}_api_key'))
+    api_url = api_url or os.getenv('API_URL', api_config.get(f'{selected_api.lower()}_api_url'))
+    prompt_file_path = prompt_path or os.getenv('PROMPT_FILE', prompt_file_path)
+    content_prefix = read_content_prefix(prompt_file_path) if prompt_file_path else config.get('content_prefix', "")
+
+    validate_config({
+        'selected_api': selected_api,
+        f'{selected_api.lower()}_model': model,
+        f'{selected_api.lower()}_api_key': api_key,
+        f'{selected_api.lower()}_api_url': api_url
+    })
+
+    summarized_articles = []
+    for article in articleContents:
+        summarized_articles.append(process_contents(article, api_url, model, api_key, content_prefix, selected_api.lower())) 
+    return summarized_articles
 
 def main(config_path, prompt_path=None, api=None, api_key=None, model=None, api_url=None, output_folder=None, rewritten_folder=None):
     """Main function to process JSON files with LLM API."""

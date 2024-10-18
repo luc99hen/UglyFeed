@@ -3,12 +3,15 @@ This script processes RSS feeds and groups similar articles based on a similarit
 """
 
 import os
+import threading
 import argparse
 import time
+from datetime import datetime, timedelta
+from dateutil import parser as dateparser
+import pytz
 import sys
 import json
 import re
-
 
 from typing import List, Dict, Any, Optional, Tuple
 import yaml
@@ -23,6 +26,10 @@ from sklearn.cluster import AgglomerativeClustering, DBSCAN, KMeans
 from nltk.stem import WordNetLemmatizer, SnowballStemmer
 from nltk.corpus import stopwords
 from logging_setup import setup_logging
+
+from llm_processor import llm_processor
+from json2rss import create_rss_feed
+from server import start_http_server
 
 # Setup logging
 logger = setup_logging()
@@ -78,6 +85,20 @@ def merge_configs(yaml_cfg: Dict[str, Any], env_cfg: Dict[str, Any], cli_cfg: Di
 
     return final_config
 
+#  "Fri, 11 Oct 2024 06:09:21 GMT" "%a, %d %b %Y %H:%M:%S %Z" GMT
+# '2024-10-18T09:37:14Z' '%Y-%m-%dT%H:%M:%SZ' UTC
+def is_within_24_hour(update_time, timezone) -> bool:
+    parsed_time = dateparser.parse(update_time, fuzzy=True, ignoretz=True)
+
+    gmt_timezone = pytz.timezone(timezone)
+    parsed_time = gmt_timezone.localize(parsed_time)
+
+    # 获取当前时间并设置时区为 GMT
+    current_time = datetime.now(gmt_timezone)
+    time_difference = current_time - parsed_time
+
+    return time_difference <= timedelta(hours=24)
+        
 
 def fetch_feeds_from_file(file_path: str) -> List[Dict[str, str]]:
     """Fetch and parse RSS feeds from a file containing URLs."""
@@ -89,11 +110,27 @@ def fetch_feeds_from_file(file_path: str) -> List[Dict[str, str]]:
         for url in urls:
             logger.info("Fetching feed from %s", url)
             feed = feedparser.parse(url)
-            articles.extend([{
-                'title': entry.title,
-                'content': entry.description if hasattr(entry, 'description') else '',
-                'link': entry.link
-            } for entry in feed.entries])
+            if hasattr(feed, 'updated') and not is_within_24_hour(str(feed.updated), "GMT"):
+                logger.info("%s update at %s, not within 24 hour", url, feed.updated)
+                continue
+            for entry in feed.entries:
+                if hasattr(entry, 'updated') and not is_within_24_hour(str(entry.updated), "UTC"):
+                    continue
+                if hasattr(entry, 'content'):
+                    if isinstance(entry.content, list):
+                        content = entry.content[0].value
+                    else:
+                        content = entry.content
+                elif hasattr(entry, 'description'):
+                    content =  entry.description
+                # skip too few contents
+                if len(content) < 800:
+                    continue
+                articles.append({
+                    'title': entry.title,
+                    'content': content,
+                    'link': entry.link,
+                })
 
         logger.info("Total articles fetched and parsed: %d", len(articles))
     except FileNotFoundError as e:
@@ -217,7 +254,7 @@ def save_grouped_articles(grouped_articles_with_scores: List[Tuple[List[Dict[str
     ensure_directory_exists(output_dir)
     saved_files_count = 0
     for i, (group, avg_similarity) in enumerate(grouped_articles_with_scores):
-        if len(group) > 1:  # Only save groups with more than one article
+        if len(group) > 0:  # Only save groups with more than one article
             filename = f"group_{i}.json"
             file_path = os.path.join(output_dir, filename)
             try:
@@ -270,26 +307,34 @@ def main(config: Dict[str, Any]) -> None:
     logger.info("Preprocessing texts...")
     languages = [detect_language(f"{article['title']} {article['content']}") for article in articles]
     preprocessed_texts = [
-        preprocess_text(f"{article['title']} {article['content']}", lang, config.get('preprocessing', {}))
+        {
+            "uri": article['link'] ,
+            "title": article['title'] ,
+            "content":preprocess_text(f"title: {article['title']}\n contents: {article['content']}", lang, config.get('preprocessing', {}))
+        }
         for article, lang in zip(articles, languages)
     ]
 
-    logger.info("Vectorizing texts...")
-    vectors = vectorize_texts(preprocessed_texts, config.get('vectorization', {}))
+    # logger.info("Vectorizing texts...")
+    # vectors = vectorize_texts(preprocessed_texts, config.get('vectorization', {}))
 
-    logger.info("Computing similarity matrix...")
-    similarity_matrix = cosine_similarity(vectors)
+    # logger.info("Computing similarity matrix...")
+    # similarity_matrix = cosine_similarity(vectors)
 
-    logger.info("Clustering texts...")
-    grouped_articles_with_scores = aggregate_similar_articles(articles, similarity_matrix, config.get('similarity_threshold', 0.66))
+    # logger.info("Clustering texts...")
+    # grouped_articles_with_scores = aggregate_similar_articles(articles, similarity_matrix, config.get('similarity_threshold', 0.66))
 
-    logger.info("Saving grouped articles to JSON files...")
-    saved_files_count = save_grouped_articles(grouped_articles_with_scores, output_directory)
-    logger.info("Total number of JSON files generated: %d", saved_files_count)
-
+    # logger.info("Saving grouped articles to JSON files...")
+    # saved_files_count = save_grouped_articles(grouped_articles_with_scores, output_directory)
+    # logger.info("Total number of JSON files generated: %d", saved_files_count)
     elapsed_time = time.time() - start_time
     logger.info("RSS feed processing complete in %.2f seconds", elapsed_time)
 
+    summarized_contents = llm_processor(config, preprocessed_texts)
+
+    output_path = os.path.join(config.get('output_dir', 'uglyfeeds'), 'uglyfeed.xml')
+    create_rss_feed(summarized_contents, output_path, config)
+    # threading.Thread(target=start_http_server, args=(8081,), daemon=True).start()
 
 def build_env_config(yaml_cfg: Dict[str, Any]) -> Dict[str, Any]:
     """Build configuration from environment variables."""
