@@ -29,7 +29,10 @@ from logging_setup import setup_logging
 
 from llm_processor import llm_processor
 from json2rss import create_rss_feed
-from server import start_http_server
+from web_scrapper import get_url_content
+
+time_threshold = 6.2
+length_threshold = 800
 
 # Setup logging
 logger = setup_logging()
@@ -87,7 +90,7 @@ def merge_configs(yaml_cfg: Dict[str, Any], env_cfg: Dict[str, Any], cli_cfg: Di
 
 #  "Fri, 11 Oct 2024 06:09:21 GMT" "%a, %d %b %Y %H:%M:%S %Z" GMT
 # '2024-10-18T09:37:14Z' '%Y-%m-%dT%H:%M:%SZ' UTC
-def is_within_24_hour(update_time, timezone) -> bool:
+def is_within_n_hour(update_time, timezone, n) -> bool:
     parsed_time = dateparser.parse(update_time, fuzzy=True, ignoretz=True)
 
     gmt_timezone = pytz.timezone(timezone)
@@ -97,7 +100,7 @@ def is_within_24_hour(update_time, timezone) -> bool:
     current_time = datetime.now(gmt_timezone)
     time_difference = current_time - parsed_time
 
-    return time_difference <= timedelta(hours=24)
+    return time_difference <= timedelta(hours=n)
         
 
 def fetch_feeds_from_file(file_path: str) -> List[Dict[str, str]]:
@@ -110,12 +113,19 @@ def fetch_feeds_from_file(file_path: str) -> List[Dict[str, str]]:
         for url in urls:
             logger.info("Fetching feed from %s", url)
             feed = feedparser.parse(url)
-            if hasattr(feed, 'updated') and not is_within_24_hour(str(feed.updated), "GMT"):
-                logger.info("%s update at %s, not within 24 hour", url, feed.updated)
+            if hasattr(feed, 'updated') and not is_within_n_hour(str(feed.updated), "GMT", time_threshold):
+                logger.warning("skip url (updated not satified) %s", url)
                 continue
             for entry in feed.entries:
-                if hasattr(entry, 'updated') and not is_within_24_hour(str(entry.updated), "UTC"):
-                    continue
+
+                if hasattr(entry, 'published') and not is_within_n_hour(str(entry.published), "UTC", time_threshold):
+                    logger.warning("skip article (published not satisfied) %s", entry.title)
+                    break
+                if hasattr(entry, 'updated') and not is_within_n_hour(str(entry.updated), "UTC", time_threshold):
+                    logger.warning("skip article (updated not satisfied) %s", entry.title)
+                    break
+            
+                content = ""
                 if hasattr(entry, 'content'):
                     if isinstance(entry.content, list):
                         content = entry.content[0].value
@@ -123,9 +133,13 @@ def fetch_feeds_from_file(file_path: str) -> List[Dict[str, str]]:
                         content = entry.content
                 elif hasattr(entry, 'description'):
                     content =  entry.description
-                # skip too few contents
-                if len(content) < 800:
+                if len(content) < length_threshold:
+                    content = get_url_content(entry.link)
+                if len(content) < length_threshold:
+                    logger.warning("skip article (length not satisfied) %s", entry.title)
                     continue
+                
+                logger.info("Add article %s, len: %d", entry.title, len(content))
                 articles.append({
                     'title': entry.title,
                     'content': content,
@@ -334,7 +348,6 @@ def main(config: Dict[str, Any]) -> None:
 
     output_path = os.path.join(config.get('output_dir', 'uglyfeeds'), 'uglyfeed.xml')
     create_rss_feed(summarized_contents, output_path, config)
-    # threading.Thread(target=start_http_server, args=(8081,), daemon=True).start()
 
 def build_env_config(yaml_cfg: Dict[str, Any]) -> Dict[str, Any]:
     """Build configuration from environment variables."""
