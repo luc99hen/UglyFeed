@@ -1,5 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>异步事件模型的 Self-pipe trick</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>特殊的 ARP 用法：Gratuitous ARP, ARP Probe 和 ARP Announce</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ARP (Address Resolution Protocol)&lt;/li&gt;
+&lt;li&gt;Gratuitous ARP&lt;/li&gt;
+&lt;li&gt;ARP Probe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 谁可能会对这些内容感兴趣&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;网络工程师&lt;/li&gt;
+&lt;li&gt;系统管理员&lt;/li&gt;
+&lt;li&gt;网络安全专家&lt;/li&gt;
+&lt;li&gt;网络编程开发者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. 摘要&lt;/h3&gt;
+&lt;p&gt;本文详细介绍了 Ethernet 环境中的三种特殊 ARP 用法：Gratuitous ARP、ARP Probe 和 ARP Announce。Gratuitous ARP 用于更新其他设备的 ARP 缓存或交换机的 MAC 地址表，常用于 VRRP 和 Linux 的 balance-alb 模式。ARP Probe 用于在分配 IP 后检查该 IP 是否已被使用，避免误更新其他主机的 ARP 缓存。ARP Announce 在 ARP Probe 确认 IP 可用后，再次确认其唯一性，并更新其他设备的 ARP 缓存。这些特殊用法基于基本的 ARP 协议，通过调整某些字段实现特定功能，有助于提高网络的可靠性和安全性。&lt;/p&gt;
+&lt;h3&gt;4. 推荐等级&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;：
+- 文章内容详尽，解释清晰，涵盖了三种特殊 ARP 用法的背景、目的和具体实现。
+- 提供了具体的字段配置，帮助读者理解和应用这些技术。
+- 引用了多个参考资料，增加了内容的可信度和深度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;：
+- 部分术语和技术细节可能对初学者来说较为复杂，建议增加一些基础概念的解释。
+- 文章结构较为紧凑，可以适当增加段落间的过渡，提高可读性。&lt;/p&gt;
+&lt;h3&gt;5. 大纲&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;引言&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;介绍 Ethernet 环境中的数据传输和 ARP 协议的基本作用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;普通 ARP 请求和响应&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解释普通 ARP 请求和响应的过程及其字段。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gratuitous ARP&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;介绍 Gratuitous ARP 的目的和应用场景。&lt;/li&gt;
+&lt;li&gt;详细说明 VRRP 和 balance-alb 模式中的使用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARP Probe&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;介绍 ARP Probe 的作用和实现方式。&lt;/li&gt;
+&lt;li&gt;解释如何避免误更新 ARP 缓存。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARP Announce&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;介绍 ARP Announce 的作用和实现方式。&lt;/li&gt;
+&lt;li&gt;与 ARP Probe 的区别。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参考资料&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;列出相关的参考资料和进一步阅读材料。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;6. 引人思考的问题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Gratuitous ARP 和普通 ARP 请求有什么不同？它们分别用于什么场景？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARP Probe 的主要目的是什么？为什么需要将 Src IP 设置为 0.0.0.0？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARP Announce 和 ARP Probe 有什么区别？为什么 ARP Announce 会更新其他设备的 ARP 缓存？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 05 Nov 2024 09:37:43 GMT</pubDate><guid>https://www.kawabangga.com/posts/6698</guid></item><item><title>异步事件模型的 Self-pipe trick</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;异步事件模型&lt;/li&gt;
 &lt;li&gt;Self-pipe trick&lt;/li&gt;
