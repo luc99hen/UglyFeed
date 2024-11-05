@@ -1,4 +1,4 @@
-name: Rewrite Feeds and Deploy
+name: Update Feeds
 
 on:
   schedule:
@@ -65,6 +65,11 @@ jobs:
       run: |
         echo "Contents of config.yaml after overriding with secrets:"
         cat UglyFeed/config.yaml
+
+    - name: remove uglyfeeds/uglyfeed.xml
+      run: |
+        echo "remove uglyfeeds/uglyfeed.xml"
+        rm -f UglyFeed/uglyfeeds/uglyfeed.xml
 
     - name: Run main.py
       run: |
