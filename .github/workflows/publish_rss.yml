@@ -3,7 +3,10 @@ name: Rewrite Feeds and Deploy
 on:
   schedule:
     - cron: '30 3,9,15,21 * * *'  # Schedule to run daily at 07:00 UTC
-  workflow_dispatch:  # Allow manual triggering 
+  workflow_dispatch:  # Allow manual triggering
+  push:
+    branches:
+      - develop
 
 jobs:
   rewrite-and-deploy:
@@ -76,6 +79,6 @@ jobs:
         cd ${{ github.workspace }}/UglyFeed
         git config --local user.name "luc99hen"
         git config --local user.email "luc99.en@gmail.com"
-        git add uglyfeeds/uglyfeed.xml
-        git commit -m "Deploy rewritten RSS feed - $(date +'%Y-%m-%d %H:%M:%S') [Model: ${{ vars.GROQ_MODEL }}, API: ${{ vars.SELECTED_API }}]"
-        git push https://x-access-token:${{ secrets.GENERATOR_TOKEN }}@github.com/luc99hen/UglyFeed.git HEAD:develop
+        git add uglyfeeds/uglyfeed.xml || true 
+        git commit -m "Deploy rewritten RSS feed - $(date +'%Y-%m-%d %H:%M:%S') [Model: ${{ vars.GROQ_MODEL }}, API: ${{ vars.SELECTED_API }}]" || true
+        git push https://x-access-token:${{ secrets.GENERATOR_TOKEN }}@github.com/luc99hen/UglyFeed.git HEAD:develop || true
