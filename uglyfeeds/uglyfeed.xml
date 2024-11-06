@@ -1,2 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Unwanted Surprises</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Type Coercion&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;User Input&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the issue of type coercion in JavaScript, particularly in the context of setting timeouts. The author, KV, expresses surprise and concern over the behavior where non-numeric input values are silently converted to numbers, leading to unexpected results. This can cause issues when user input is involved, such as in a banking website where users specify wait times. The article argues that while type coercion can be helpful in some cases, it often leads to errors and should be handled more carefully. The broader question raised is whether loosely typed languages and their coercion mechanisms are a good idea in the first place.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: KV introduces a surprise found in JavaScript documentation regarding type coercion in timeout functions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type Coercion Explanation&lt;/strong&gt;: The article explains how JavaScript converts non-numeric strings to numbers in timeout functions, leading to unexpected results.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Example and Implications&lt;/strong&gt;: An example is given of a banking website where user input for wait times could be misinterpreted due to type coercion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Broader Question&lt;/strong&gt;: The article raises the question of whether type coercion in loosely typed languages is a good practice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The author suggests putting protections around APIs to avoid the pitfalls of type coercion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Clearly explains the issue of type coercion in JavaScript.
+- Provides a practical example to illustrate the problem.
+- Raises a broader question about the design of loosely typed languages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article could benefit from more technical depth and examples.
+- The argument against type coercion is somewhat subjective and lacks a comprehensive analysis of its benefits and drawbacks.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Web developers and software engineers working with JavaScript.&lt;/li&gt;
+&lt;li&gt;Programmers interested in language design and type systems.&lt;/li&gt;
+&lt;li&gt;Technical writers and documentation specialists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential risks of allowing type coercion in user input for timeout functions in JavaScript?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can developers mitigate the issues caused by type coercion in loosely typed languages like JavaScript?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the advantages and disadvantages of type coercion in programming languages, and how do they impact code reliability and maintainability?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Wed, 06 Nov 2024 21:35:34 GMT</pubDate><guid>https://cacm.acm.org/opinion/unwanted-surprises/</guid></item></channel></rss>
