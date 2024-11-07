@@ -1,37 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Unwanted Surprises</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Linux 内核将支持开箱即用的实时调度特性</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Extract 3 Keywords of the Article&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Type Coercion&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;li&gt;User Input&lt;/li&gt;
+&lt;li&gt;PREEMPT_RT&lt;/li&gt;
+&lt;li&gt;Real-Time Scheduling&lt;/li&gt;
+&lt;li&gt;Linux 6.12&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the issue of type coercion in JavaScript, particularly in the context of setting timeouts. The author, KV, expresses surprise and concern over the behavior where non-numeric input values are silently converted to numbers, leading to unexpected results. This can cause issues when user input is involved, such as in a banking website where users specify wait times. The article argues that while type coercion can be helpful in some cases, it often leads to errors and should be handled more carefully. The broader question raised is whether loosely typed languages and their coercion mechanisms are a good idea in the first place.&lt;/p&gt;
-&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;h3&gt;2. Concise and Informative Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the upcoming integration of real-time scheduling features into the Linux 6.12 kernel through the PREEMPT_RT patch. This enhancement, which has been in development since 2005, will enable Linux to support deterministic time guarantees, crucial for applications in aviation, robotics, automotive, and communication sectors. It also improves desktop user experiences by reducing latency. The integration requires resolving issues like optimizing the &lt;code&gt;printk&lt;/code&gt; function to ensure low-latency performance. Users can now enable real-time capabilities by simply setting the &lt;code&gt;CONFIG_PREEMPT*&lt;/code&gt; option during compilation. Running real-time Linux has previously been simplified with Ubuntu Pro, but the mainstream integration marks a significant milestone in making real-time computing more accessible and reliable.&lt;/p&gt;
+&lt;h3&gt;3. Outline of the Whole Article&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Linux 6.12 will include official support for real-time scheduling via PREEMPT_RT.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: PREEMPT_RT has been developed since 2005 to enable hard and soft real-time computing on various architectures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: Real-time scheduling is crucial for applications requiring deterministic time guarantees and can improve desktop user experiences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration Challenges&lt;/strong&gt;: Issues like optimizing the &lt;code&gt;printk&lt;/code&gt; function need to be addressed to ensure low latency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Previous Solutions&lt;/strong&gt;: Ubuntu Pro has simplified running real-time Linux, but mainstream integration is a significant step forward.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-Time vs. Performance&lt;/strong&gt;: Real-time focuses on predictable task preemption, not just performance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Experiences&lt;/strong&gt;: Real-time Linux can reduce interrupt latency and improve user experiences in various applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Release&lt;/strong&gt;: Linux 6.12 is expected to release in late November 2024, with candidate versions available for testing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. Overall Recommendation Degree&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;:
+- &lt;strong&gt;Pros&lt;/strong&gt;:
+  - The article provides a comprehensive overview of the integration of PREEMPT_RT into Linux 6.12.
+  - It clearly explains the benefits and technical challenges of real-time scheduling.
+  - The information is well-organized and easy to understand.
+  - It includes practical examples and user experiences to illustrate the impact of real-time scheduling.
+- &lt;strong&gt;Cons&lt;/strong&gt;:
+  - The article could provide more technical details about the specific changes made to the &lt;code&gt;printk&lt;/code&gt; function.
+  - It briefly mentions Ubuntu Pro but does not delve into its limitations or advantages in detail.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: KV introduces a surprise found in JavaScript documentation regarding type coercion in timeout functions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Type Coercion Explanation&lt;/strong&gt;: The article explains how JavaScript converts non-numeric strings to numbers in timeout functions, leading to unexpected results.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Example and Implications&lt;/strong&gt;: An example is given of a banking website where user input for wait times could be misinterpreted due to type coercion.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Broader Question&lt;/strong&gt;: The article raises the question of whether type coercion in loosely typed languages is a good practice.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The author suggests putting protections around APIs to avoid the pitfalls of type coercion.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- Clearly explains the issue of type coercion in JavaScript.
-- Provides a practical example to illustrate the problem.
-- Raises a broader question about the design of loosely typed languages.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could benefit from more technical depth and examples.
-- The argument against type coercion is somewhat subjective and lacks a comprehensive analysis of its benefits and drawbacks.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Web developers and software engineers working with JavaScript.&lt;/li&gt;
-&lt;li&gt;Programmers interested in language design and type systems.&lt;/li&gt;
-&lt;li&gt;Technical writers and documentation specialists.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software Developers&lt;/strong&gt;: Especially those working on real-time systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Administrators&lt;/strong&gt;: Interested in improving system performance and reliability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embedded Systems Engineers&lt;/strong&gt;: Working in industries like aviation, robotics, and automotive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux Enthusiasts&lt;/strong&gt;: Curious about the latest developments in the Linux kernel.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential risks of allowing type coercion in user input for timeout functions in JavaScript?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How can developers mitigate the issues caused by type coercion in loosely typed languages like JavaScript?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the advantages and disadvantages of type coercion in programming languages, and how do they impact code reliability and maintainability?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Wed, 06 Nov 2024 21:35:34 GMT</pubDate><guid>https://cacm.acm.org/opinion/unwanted-surprises/</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the key differences between hard real-time and soft real-time systems, and how does PREEMPT_RT support both?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the optimization of the &lt;code&gt;printk&lt;/code&gt; function contribute to achieving low-latency performance in real-time Linux?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways can the integration of PREEMPT_RT into the Linux 6.12 kernel benefit desktop users beyond just reducing latency?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 03:43:08 GMT</pubDate><guid>https://www.infoq.cn/article/amdpGsMxHON00NNHAUjE</guid></item></channel></rss>
