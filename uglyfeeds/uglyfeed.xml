@@ -1,44 +1,119 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Linux 内核将支持开箱即用的实时调度特性</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Extract 3 Keywords of the Article&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>适配 Follow</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;PREEMPT_RT&lt;/li&gt;
-&lt;li&gt;Real-Time Scheduling&lt;/li&gt;
-&lt;li&gt;Linux 6.12&lt;/li&gt;
+&lt;li&gt;RSS阅读器&lt;/li&gt;
+&lt;li&gt;文章类型&lt;/li&gt;
+&lt;li&gt;延迟加载&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. Concise and Informative Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the upcoming integration of real-time scheduling features into the Linux 6.12 kernel through the PREEMPT_RT patch. This enhancement, which has been in development since 2005, will enable Linux to support deterministic time guarantees, crucial for applications in aviation, robotics, automotive, and communication sectors. It also improves desktop user experiences by reducing latency. The integration requires resolving issues like optimizing the &lt;code&gt;printk&lt;/code&gt; function to ensure low-latency performance. Users can now enable real-time capabilities by simply setting the &lt;code&gt;CONFIG_PREEMPT*&lt;/code&gt; option during compilation. Running real-time Linux has previously been simplified with Ubuntu Pro, but the mainstream integration marks a significant milestone in making real-time computing more accessible and reliable.&lt;/p&gt;
-&lt;h3&gt;3. Outline of the Whole Article&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Linux 6.12 will include official support for real-time scheduling via PREEMPT_RT.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: PREEMPT_RT has been developed since 2005 to enable hard and soft real-time computing on various architectures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: Real-time scheduling is crucial for applications requiring deterministic time guarantees and can improve desktop user experiences.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integration Challenges&lt;/strong&gt;: Issues like optimizing the &lt;code&gt;printk&lt;/code&gt; function need to be addressed to ensure low latency.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Previous Solutions&lt;/strong&gt;: Ubuntu Pro has simplified running real-time Linux, but mainstream integration is a significant step forward.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Real-Time vs. Performance&lt;/strong&gt;: Real-time focuses on predictable task preemption, not just performance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;User Experiences&lt;/strong&gt;: Real-time Linux can reduce interrupt latency and improve user experiences in various applications.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Future Release&lt;/strong&gt;: Linux 6.12 is expected to release in late November 2024, with candidate versions available for testing.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. Overall Recommendation Degree&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;:
-- &lt;strong&gt;Pros&lt;/strong&gt;:
-  - The article provides a comprehensive overview of the integration of PREEMPT_RT into Linux 6.12.
-  - It clearly explains the benefits and technical challenges of real-time scheduling.
-  - The information is well-organized and easy to understand.
-  - It includes practical examples and user experiences to illustrate the impact of real-time scheduling.
-- &lt;strong&gt;Cons&lt;/strong&gt;:
-  - The article could provide more technical details about the specific changes made to the &lt;code&gt;printk&lt;/code&gt; function.
-  - It briefly mentions Ubuntu Pro but does not delve into its limitations or advantages in detail.&lt;/p&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the integration and optimization of Follow, a modern RSS reader, with SimpleJoy, a browser extension. It highlights that SimpleJoy primarily supports article-type pages from Follow, such as those with URLs like &lt;code&gt;https://app.follow.is/feeds/xxx/pending?type=rss&amp;amp;view=0&lt;/code&gt;. While podcast and notification categories can also be viewed in reading mode, the experience is not as optimal. To improve performance, users are advised to add &lt;code&gt;app.follow.is&lt;/code&gt; to the delayed loading list in SimpleJoy’s advanced settings and to restart their browser after making changes.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article explains the purpose of integrating Follow with SimpleJoy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supported Content Types&lt;/strong&gt;: Article-type pages are well-supported, while podcast and notification categories have limited support.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimization Steps&lt;/strong&gt;: Users should add &lt;code&gt;app.follow.is&lt;/code&gt; to the delayed loading list and restart their browser to ensure changes take effect.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Clear and concise instructions for optimizing the integration.
+- Useful information for users of both Follow and SimpleJoy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- Limited discussion on why certain content types are less supported.
+- No mention of potential issues or troubleshooting steps.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Software Developers&lt;/strong&gt;: Especially those working on real-time systems.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;System Administrators&lt;/strong&gt;: Interested in improving system performance and reliability.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embedded Systems Engineers&lt;/strong&gt;: Working in industries like aviation, robotics, and automotive.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Linux Enthusiasts&lt;/strong&gt;: Curious about the latest developments in the Linux kernel.&lt;/li&gt;
+&lt;li&gt;Users of Follow and SimpleJoy who want to optimize their reading experience.&lt;/li&gt;
+&lt;li&gt;Developers interested in browser extension integrations and optimizations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the key differences between hard real-time and soft real-time systems, and how does PREEMPT_RT support both?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How does the optimization of the &lt;code&gt;printk&lt;/code&gt; function contribute to achieving low-latency performance in real-time Linux?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways can the integration of PREEMPT_RT into the Linux 6.12 kernel benefit desktop users beyond just reducing latency?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 03:43:08 GMT</pubDate><guid>https://www.infoq.cn/article/amdpGsMxHON00NNHAUjE</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;Why might the reading experience for podcast and notification categories be less optimal compared to article-type pages?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential benefits and drawbacks of adding &lt;code&gt;app.follow.is&lt;/code&gt; to the delayed loading list?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can users troubleshoot if the optimization steps do not improve their browsing experience?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 09:37:41 GMT</pubDate><guid>https://zhuanlan.zhihu.com/p/5547778445</guid></item><item><title>方佳瑞赞同了回答: 大家能分享一下当前博士就业的情况吗？</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;音乐生成&lt;/li&gt;
+&lt;li&gt;博士就业&lt;/li&gt;
+&lt;li&gt;工业界 vs 学术界&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 精炼摘要&lt;/h3&gt;
+&lt;p&gt;本文作者是一位在英国攻读音乐生成方向博士学位的博士生，详细分享了其博士毕业后在工业界和学术界的就业情况。作者提到，尽管音乐生成方向曾经较为冷门，但随着大模型和生成式AI的兴起，该领域变得炙手可热。作者最终选择了字节跳动的Seed团队，主要原因是该团队在音乐生成和MIR（音乐信息检索）方向上的长期竞争力、丰富的算力资源以及良好的科研氛围。文章还探讨了工业界和学术界在资源、工作环境和职业发展方面的差异，强调了个人选择的重要性。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;背景介绍&lt;/strong&gt;：作者是一名音乐生成方向的博士生，今年顺利毕业。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;行业变化&lt;/strong&gt;：音乐生成方向从冷门到热门的变化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;找工作的过程&lt;/strong&gt;：作者通过建立的行业联系顺利找到了多个工作机会。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工业界 vs 学术界&lt;/strong&gt;：探讨了工业界和学术界在资源、工作环境和职业发展方面的差异。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最终选择&lt;/strong&gt;：作者选择了字节跳动的Seed团队，原因包括方向匹配、资源丰富和良好的科研氛围。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工作强度&lt;/strong&gt;：字节跳动的工作强度较高，但与其他大厂相比并不突出。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建议和展望&lt;/strong&gt;：作者鼓励读者根据自己的兴趣和职业规划选择合适的职业道路。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. 推荐度&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
+- &lt;strong&gt;优点&lt;/strong&gt;：文章内容详实，逻辑清晰，提供了大量关于音乐生成方向博士就业的实用信息。作者结合自身经历，客观分析了工业界和学术界的优缺点，具有很高的参考价值。
+- &lt;strong&gt;缺点&lt;/strong&gt;：文章较长，部分细节可能对非专业人士来说略显冗余。此外，作者对某些观点的表述较为主观，但整体上不影响文章的质量。&lt;/p&gt;
+&lt;h3&gt;5. 可能感兴趣的群体&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;计算机音乐方向的博士生和研究生&lt;/li&gt;
+&lt;li&gt;对音乐生成和MIR领域感兴趣的研究人员&lt;/li&gt;
+&lt;li&gt;正在考虑博士后或工业界工作的博士毕业生&lt;/li&gt;
+&lt;li&gt;对AI和音乐交叉领域感兴趣的科技从业者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;音乐生成方向为何在近年来变得炙手可热？&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个问题要求读者理解大模型和生成式AI的发展对音乐生成领域的影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;作者为什么选择字节跳动的Seed团队而不是其他公司？&lt;/strong&gt;  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个问题要求读者综合考虑作者提到的各种因素，包括方向匹配、资源丰富和科研氛围等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;工业界和学术界在资源、工作环境和职业发展方面有哪些主要差异？&lt;/strong&gt;  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;这个问题要求读者总结文章中关于工业界和学术界优缺点的论述，理解不同选择的利弊。&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 09:37:25 GMT</pubDate><guid>https://www.zhihu.com/question/559157484/answer/25240942309</guid></item><item><title>😺What Prez Trump means for AI</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI Regulation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Donald Trump&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;China Competition&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the potential implications of a potential second term for former President Donald Trump on artificial intelligence (AI) regulations. Trump's AI philosophy is characterized by a "light-touch" regulatory approach, aiming to reduce government oversight and promote industry-led safety testing. Key points include:
+- &lt;strong&gt;Deregulation&lt;/strong&gt;: Trump plans to repeal Biden's AI executive order and implement industry-led safety testing, potentially narrowing existing rules.
+- &lt;strong&gt;Military Focus&lt;/strong&gt;: He proposes launching a "Manhattan Project" for AI defense, benefiting defense contractors and focusing on competing with China.
+- &lt;strong&gt;Consequences&lt;/strong&gt;: A Trump presidency could lead to reduced censorship of AI, decreased focus on AI safety, tighter export controls to China, and increased state-level regulation, particularly in Democratic states.
+- &lt;strong&gt;Economic Impact&lt;/strong&gt;: Easier startup capital and faster tech deployment are expected, but tariffs on imports could increase costs for the AI sector.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Brief overview of the article's focus on President Trump's potential impact on AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trump's AI Philosophy&lt;/strong&gt;: Emphasis on less regulation and competition with China.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plans for AI Regulation&lt;/strong&gt;: Commitment to tear down Biden's AI rules and launch a military-focused AI project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consequences of Trump's Win&lt;/strong&gt;: Potential outcomes in terms of AI censorship, safety, export controls, and economic impacts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Perspective&lt;/strong&gt;: Views from C-suite executives and VCs on the benefits and risks of Trump's regulatory approach.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Tension between acknowledging AI's risks and pushing for deregulation, with a nod to Trump's previous AI policies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- &lt;strong&gt;Comprehensive Analysis&lt;/strong&gt;: The article provides a detailed breakdown of Trump's potential AI policies and their implications.
+- &lt;strong&gt;Balanced View&lt;/strong&gt;: It presents both the positive and negative aspects of Trump's approach, offering a nuanced perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- &lt;strong&gt;Lack of Depth&lt;/strong&gt;: While the article covers key points, it could delve deeper into specific examples or case studies to strengthen its arguments.
+- &lt;strong&gt;Potential Bias&lt;/strong&gt;: The article's tone slightly leans towards a favorable view of deregulation, which might influence readers' perceptions.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tech Industry Professionals&lt;/strong&gt;: Particularly those involved in AI development and regulation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Political Analysts&lt;/strong&gt;: Interested in the intersection of politics and technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy Makers&lt;/strong&gt;: Those involved in crafting AI policies and regulations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Leaders&lt;/strong&gt;: Especially those in sectors heavily impacted by AI, such as tech and defense.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential long-term effects of reducing government oversight on AI development, and how might this impact public safety and ethical standards?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How could Trump's proposed "Manhattan Project" for AI defense influence the global AI arms race, and what are the potential geopolitical implications?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways might increased state-level regulation of AI in Democratic states compensate for federal deregulation, and what challenges could arise from this patchwork of regulations?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 09:36:58 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/j93yx8i4t054tis64krq.html</guid></item></channel></rss>
