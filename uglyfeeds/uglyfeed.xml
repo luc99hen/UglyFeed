@@ -1,74 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Update README.md</title><description>&lt;br/&gt;&lt;br/&gt;&lt;p&gt;It seems like the provided content is not a typical article but rather a technical note or metadata about a Git commit. However, I'll attempt to summarize it as requested:&lt;/p&gt;
-&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Empower Diversity in AI Development</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;README.md&lt;/li&gt;
-&lt;li&gt;Commit&lt;/li&gt;
-&lt;li&gt;Repository&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diversity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Development&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Biases&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The content describes a commit action in a Git repository, specifically updating the README.md file. This commit is associated with a particular branch and may also be part of a forked repository. The note emphasizes the ability to browse files and repository history, while also noting that certain actions cannot be performed at the current time.&lt;/p&gt;
-&lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Commit Action&lt;/strong&gt;: The commit updates the README.md file.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Repository Information&lt;/strong&gt;: The commit belongs to a specific branch and may be part of a forked repository.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;File Browsing&lt;/strong&gt;: Users can browse files and repository history.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Action Restrictions&lt;/strong&gt;: Certain actions cannot be performed at the current time.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. Overall Recommendation Degree: C&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
-- Provides clear and concise information about the commit and repository.
-- Useful for developers and contributors who need to understand the changes made.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
-- Lacks depth and context, which could be important for a more comprehensive understanding.
-- Does not provide any analysis or reasoning behind the changes.
-- Limited in scope and does not address broader issues or implications.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Developers and contributors working on the same or related repositories.&lt;/li&gt;
-&lt;li&gt;Project managers who need to track changes and updates.&lt;/li&gt;
-&lt;li&gt;Technical writers who maintain documentation for software projects.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What specific changes were made to the README.md file, and why were these changes necessary?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How does the inclusion of this commit in a forked repository affect the main project?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential consequences of the restrictions on performing certain actions at the current time?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If a reader can answer these questions accurately, it indicates a thorough understanding of the commit and its implications.&lt;/p&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 15:38:32 GMT</pubDate><guid>https://github.com/dibingfa/flash-linux0.11-talk/commit/0d79ce1ae4bd7acc4b46e96975c657119baeb828</guid></item><item><title>Update README.md</title><description>&lt;br/&gt;&lt;br/&gt;&lt;p&gt;It seems like the provided content is not a typical article but rather a description of a Git commit or repository action. However, I will attempt to summarize it as requested:&lt;/p&gt;
-&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Git&lt;/li&gt;
-&lt;li&gt;Repository&lt;/li&gt;
-&lt;li&gt;Commit&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The content describes a Git commit action, which updates the README.md file in a specific branch of a repository. This commit could be part of a forked repository, and it provides a permalink to the commit. The content also mentions browsing files and repository history, indicating the ability to navigate through different versions of the project.&lt;/p&gt;
+&lt;p&gt;The article "Empower Diversity AI Development" argues that the lack of diversity in the AI field exacerbates social biases in AI systems. Technical solutions alone are insufficient to address these biases, as they often stem from the social structures and backgrounds of AI developers. The authors advocate for a social view in AI development to tackle the root causes of biases. They present practical recommendations for organizations to increase diversity, including cultivating diversity skills, mirroring target stakeholders' compositions, promoting inclusive knowledge sharing, fostering a sustainable talent pipeline, and establishing a diversity charter. These steps aim to ensure that AI systems are fair and reflective of a broader range of perspectives.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Describes the action of updating the README.md file.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Commit Details&lt;/strong&gt;: Provides a permalink to the specific commit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Repository Navigation&lt;/strong&gt;: Explains how to browse files and repository history.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Branch Information&lt;/strong&gt;: Notes that the commit belongs to a specific branch and may be part of a forked repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article suggests that social biases in AI are exacerbated by a lack of diversity in the AI field.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lack of Diversity in AI Development&lt;/strong&gt;: The lack of diversity among AI developers leads to the codification of social biases in AI systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benefits of Diversity&lt;/strong&gt;: Diversity in AI development teams improves requirement specification, project performance, and innovation while reducing biases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges in Empowering Diversity&lt;/strong&gt;: Empowering diversity is challenging due to limited access and opportunities for marginalized groups.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical Recommendations&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cultivating Diversity Skills&lt;/strong&gt;: Managers should train AI developers to recognize and avoid cognitive biases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mirroring Target Stakeholders' Compositions&lt;/strong&gt;: AI development teams should reflect the diversity of the stakeholders they serve.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Promoting Inclusive Knowledge Sharing&lt;/strong&gt;: Organizations should facilitate the sharing of both positive and negative experiences to raise awareness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fostering Long-Term Sustainability&lt;/strong&gt;: Organizations should develop a sustainable talent pipeline by collaborating with educational institutions and supporting underrepresented groups.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Establishing a Diversity Charter&lt;/strong&gt;: Organizations should proactively embrace diversity through a formal charter and task forces.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description of Social Biases&lt;/strong&gt;: The article describes various social biases, including availability biases, confirmation biases, bounded awareness, and affective emotional biases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About the Authors&lt;/strong&gt;: Brief biographies of the authors and their affiliations.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4. Overall Recommendation Degree: C&lt;/h3&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- Clear and concise in describing the Git commit action.
-- Provides useful links for further navigation and context.&lt;/p&gt;
+- The article provides a comprehensive analysis of the issue of social biases in AI and offers practical recommendations.
+- It highlights the importance of a social view in AI development, which is often overlooked.
+- The recommendations are well-thought-out and actionable.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- Lacks depth and context about the changes made in the README.md file.
-- Does not provide any analysis or reasoning behind the commit.
-- Limited information on the broader implications or significance of the update.&lt;/p&gt;
+- The article could benefit from more empirical evidence to support its claims.
+- Some of the recommendations, while valuable, may be challenging to implement in real-world settings.
+- The article does not delve deeply into the potential downsides or unintended consequences of the proposed solutions.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Developers and contributors working on the same or similar repositories.&lt;/li&gt;
-&lt;li&gt;Project managers and team leads overseeing version control and documentation.&lt;/li&gt;
-&lt;li&gt;Anyone interested in understanding Git commit practices and repository management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Developers and Researchers&lt;/strong&gt;: Those working in AI development will find the article useful for understanding the impact of diversity on AI systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organizational Leaders&lt;/strong&gt;: Managers and executives in tech companies can use the recommendations to improve diversity in their teams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy Makers&lt;/strong&gt;: Government officials and regulators can use the insights to craft policies that promote diversity in AI development.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;What specific changes were made to the README.md file in this commit?&lt;/li&gt;
-&lt;li&gt;How does this commit contribute to the overall development and documentation of the project?&lt;/li&gt;
-&lt;li&gt;What are the potential benefits and drawbacks of making such changes in a forked repository versus the main repository?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If a reader can answer these questions accurately, it indicates a thorough understanding of the commit and its implications.&lt;/p&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 15:38:11 GMT</pubDate><guid>https://github.com/dibingfa/flash-linux0.11-talk/commit/3ab194e13a9b11ad72c714f3f8c6dd8b4b3813e7</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;How can organizations ensure that their AI development teams are truly representative of the diverse communities they serve?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential risks and challenges of implementing the recommended diversity practices in AI development, and how can these be mitigated?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways can the concepts of social biases and diversity in AI development be integrated into educational curricula to prepare future AI professionals?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 21:34:34 GMT</pubDate><guid>https://cacm.acm.org/opinion/empower-diversity-in-ai-development/</guid></item></channel></rss>
