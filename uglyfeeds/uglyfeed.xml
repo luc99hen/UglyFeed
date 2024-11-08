@@ -1,45 +1,127 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Empower Diversity in AI Development</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>科技爱好者周刊（第 324 期）：人类已知的最大质数</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Diversity&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Development&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Social Biases&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;最大质数&lt;/li&gt;
+&lt;li&gt;梅森质数&lt;/li&gt;
+&lt;li&gt;GPU 计算&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 摘要&lt;/h3&gt;
+&lt;p&gt;2024年10月10日，美国程序员卢克·杜兰特发现了一个新的最大质数，命名为M136279841，共有41,024,320个十进制位。这一发现是在他花费近一年时间和200万美元的GPU计算资源后取得的。杜兰特利用其在Nvidia公司的经验，成为第一个使用GPU进行梅森质数计算的人。梅森质数由17世纪数学家马林·梅森提出，目前人类已知的梅森质数有52个。尽管这些质数没有实际用途，但它们代表了数学探索的边界。杜兰特因这一发现获得了3000美元奖金，并将其捐赠给他的母校。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;封面图&lt;/strong&gt;：介绍阿联酋阿布扎比卢浮宫分馆的独特魅力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人类已知的最大质数&lt;/strong&gt;：详细讲述了卢克·杜兰特发现最大质数的过程及其背景。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;活动&lt;/strong&gt;：介绍了两个与AI和编程相关的活动，分别是豆包 MarsCode 校园发布会和扣子 AI 挑战赛。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;科技动态&lt;/strong&gt;：涵盖了旧金山胶囊旅馆、伯明翰的 Oracle 灾难、AI 生成的万圣节晚会等科技新闻。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文章&lt;/strong&gt;：推荐了几篇关于技术、工具和开发的文章。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具&lt;/strong&gt;：介绍了多个开源工具和软件，涵盖网页抓取、Python 包安装、TCP 数据包分析等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 相关&lt;/strong&gt;：推荐了一些AI工具和应用，如AI Hear、5ire、CR-Mentor等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资源&lt;/strong&gt;：提供了免费图片库、系统设计面试指南等资源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图片&lt;/strong&gt;：展示了太阳能板的发展趋势。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文摘&lt;/strong&gt;：分享了关于美国医院使用寻呼机的原因、现代硬件速度与应用性能的矛盾等观点。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;往年回顾&lt;/strong&gt;：回顾了过去几年的技术文章。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文档信息&lt;/strong&gt;：提供了版权声明和发表日期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. 推荐度&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;
+- &lt;strong&gt;优点&lt;/strong&gt;：
+  - 文章结构清晰，内容丰富，涵盖了多个领域的科技新闻和资源。
+  - 对卢克·杜兰特发现最大质数的过程进行了详细的描述，具有较高的信息价值。
+  - 提供了多个实用的工具和资源链接，对科技爱好者和开发者非常有用。
+- &lt;strong&gt;缺点&lt;/strong&gt;：
+  - 部分内容较为简略，缺乏深入分析。
+  - 一些科技动态的背景信息不够详尽，可能导致读者理解上的困难。&lt;/p&gt;
+&lt;h3&gt;5. 感兴趣的读者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;科技爱好者&lt;/li&gt;
+&lt;li&gt;程序员和开发者&lt;/li&gt;
+&lt;li&gt;数学和计算机科学领域的研究人员&lt;/li&gt;
+&lt;li&gt;对新兴技术和工具感兴趣的个人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;卢克·杜兰特为何选择使用GPU进行梅森质数的计算？相比CPU，GPU有哪些优势？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;梅森质数的实际用途是什么？为什么科学家和数学家仍然热衷于寻找新的梅森质数？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GIMPS 计划是如何运作的？参与这个计划的志愿者需要具备哪些条件和技术能力？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 08 Nov 2024 03:43:42 GMT</pubDate><guid>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html</guid></item><item><title>Kubernetes v1.32 sneak peek</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kubernetes v1.32&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Resource Allocation (DRA)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Deprecation&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article "Empower Diversity AI Development" argues that the lack of diversity in the AI field exacerbates social biases in AI systems. Technical solutions alone are insufficient to address these biases, as they often stem from the social structures and backgrounds of AI developers. The authors advocate for a social view in AI development to tackle the root causes of biases. They present practical recommendations for organizations to increase diversity, including cultivating diversity skills, mirroring target stakeholders' compositions, promoting inclusive knowledge sharing, fostering a sustainable talent pipeline, and establishing a diversity charter. These steps aim to ensure that AI systems are fair and reflective of a broader range of perspectives.&lt;/p&gt;
+&lt;p&gt;The blog post provides a sneak peek into the upcoming Kubernetes v1.32 release, highlighting planned changes and enhancements. Key points include the deprecation and removal of certain APIs, particularly the &lt;code&gt;flowcontrol.apiserver.k8s.io/v1beta3&lt;/code&gt; API version, which will be replaced by the &lt;code&gt;v1&lt;/code&gt; version. Significant changes are also noted in the Dynamic Resource Allocation (DRA) system, with the original implementation being removed due to incompatibilities with cluster autoscaling. The new DRA approach introduces a Structured Parameter model for better handling of hardware requirements. Other notable enhancements include adding resource health status to Pod status, supporting graceful shutdowns for Windows nodes, allowing special characters in environment variable names, making Kubernetes aware of LoadBalancer behavior, and improving the handling of name conflicts for resources.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article suggests that social biases in AI are exacerbated by a lack of diversity in the AI field.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lack of Diversity in AI Development&lt;/strong&gt;: The lack of diversity among AI developers leads to the codification of social biases in AI systems.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Benefits of Diversity&lt;/strong&gt;: Diversity in AI development teams improves requirement specification, project performance, and innovation while reducing biases.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Challenges in Empowering Diversity&lt;/strong&gt;: Empowering diversity is challenging due to limited access and opportunities for marginalized groups.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Practical Recommendations&lt;/strong&gt;:&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cultivating Diversity Skills&lt;/strong&gt;: Managers should train AI developers to recognize and avoid cognitive biases.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mirroring Target Stakeholders' Compositions&lt;/strong&gt;: AI development teams should reflect the diversity of the stakeholders they serve.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Promoting Inclusive Knowledge Sharing&lt;/strong&gt;: Organizations should facilitate the sharing of both positive and negative experiences to raise awareness.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fostering Long-Term Sustainability&lt;/strong&gt;: Organizations should develop a sustainable talent pipeline by collaborating with educational institutions and supporting underrepresented groups.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Establishing a Diversity Charter&lt;/strong&gt;: Organizations should proactively embrace diversity through a formal charter and task forces.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Description of Social Biases&lt;/strong&gt;: The article describes various social biases, including availability biases, confirmation biases, bounded awareness, and affective emotional biases.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;About the Authors&lt;/strong&gt;: Brief biographies of the authors and their affiliations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Overview of the upcoming Kubernetes v1.32 release and its significance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Removal and Deprecation&lt;/strong&gt;: Explanation of the deprecation policy and specific API removals, such as &lt;code&gt;flowcontrol.apiserver.k8s.io/v1beta3&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Resource Allocation (DRA) Changes&lt;/strong&gt;: Details on the removal of the old DRA implementation and introduction of the Structured Parameter model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notable Enhancements&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Health Status in Pod Status&lt;/strong&gt;: Proposal to expose device health via Pod status.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graceful Shutdowns for Windows Nodes&lt;/strong&gt;: Addition of support for graceful shutdowns on Windows nodes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Special Characters in Environment Variables&lt;/strong&gt;: Relaxation of restrictions on environment variable names.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LoadBalancer Behavior Awareness&lt;/strong&gt;: Introduction of the &lt;code&gt;ipMode&lt;/code&gt; field for LoadBalancer services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retry for Generate Name Conflicts&lt;/strong&gt;: Improvement in handling name conflicts for resources.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Reference to release notes for more detailed information on new features and deprecations.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article provides a comprehensive analysis of the issue of social biases in AI and offers practical recommendations.
-- It highlights the importance of a social view in AI development, which is often overlooked.
-- The recommendations are well-thought-out and actionable.&lt;/p&gt;
+- The article provides a comprehensive overview of the upcoming Kubernetes v1.32 release.
+- It clearly explains the deprecation and removal policies, which is crucial for maintaining the health of Kubernetes environments.
+- The enhancements are well-detailed, offering insights into how they improve the system's functionality.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could benefit from more empirical evidence to support its claims.
-- Some of the recommendations, while valuable, may be challenging to implement in real-world settings.
-- The article does not delve deeply into the potential downsides or unintended consequences of the proposed solutions.&lt;/p&gt;
+- Some technical terms and concepts might be difficult for beginners to understand without additional context.
+- The article could benefit from more examples or use cases to illustrate the impact of the changes.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI Developers and Researchers&lt;/strong&gt;: Those working in AI development will find the article useful for understanding the impact of diversity on AI systems.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Organizational Leaders&lt;/strong&gt;: Managers and executives in tech companies can use the recommendations to improve diversity in their teams.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Policy Makers&lt;/strong&gt;: Government officials and regulators can use the insights to craft policies that promote diversity in AI development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kubernetes Users and Administrators&lt;/strong&gt;: Those managing Kubernetes clusters will find the deprecation and enhancement information valuable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developers&lt;/strong&gt;: Developers working with Kubernetes, especially those dealing with specialized hardware or Windows nodes, will benefit from the new features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Architects&lt;/strong&gt;: Professionals designing and maintaining cloud infrastructure will find the LoadBalancer and resource management changes relevant.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;How can organizations ensure that their AI development teams are truly representative of the diverse communities they serve?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential risks and challenges of implementing the recommended diversity practices in AI development, and how can these be mitigated?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways can the concepts of social biases and diversity in AI development be integrated into educational curricula to prepare future AI professionals?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 07 Nov 2024 21:34:34 GMT</pubDate><guid>https://cacm.acm.org/opinion/empower-diversity-in-ai-development/</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the implications of the removal of the &lt;code&gt;flowcontrol.apiserver.k8s.io/v1beta3&lt;/code&gt; API version, and how should existing manifests and client software be updated to avoid disruptions?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the new Structured Parameter model in Dynamic Resource Allocation (DRA) improve the predictability and efficiency of resource claims in Kubernetes clusters?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what scenarios would the &lt;code&gt;ipMode&lt;/code&gt; field in LoadBalancer services be most beneficial, and how does it enhance the interaction between Kubernetes and cloud providers?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 08 Nov 2024 03:43:07 GMT</pubDate><guid>https://kubernetes.io/blog/2024/11/08/kubernetes-1-32-upcoming-changes/</guid></item><item><title>First artwork painted by humanoid robot to sell at auction fetches $1.3m</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Alan Turing&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ai-Da&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Art Auction&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;A portrait of Alan Turing, created by Ai-Da, the world's first ultra-realistic robot artist, was sold at a Sotheby's auction for $1.32 million, far exceeding pre-sale estimates. The 2.2-meter portrait, titled "A.I. God. Portrait Alan Turing," marks a significant moment in the intersection of AI technology and the art market. Ai-Da, designed to resemble Ada Lovelace, uses AI to generate ideas and engage in conversations, aiming to serve as a catalyst for discussions on the ethical and societal implications of AI advancements. The artwork's muted tones and broken facial planes reflect the challenges Turing warned about in managing AI. Aidan Meller, the creator of Ai-Da, emphasizes the importance of questioning societal shifts through art.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: A portrait of Alan Turing, created by Ai-Da, sold for $1.32 million at a Sotheby's auction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Details of the Sale&lt;/strong&gt;: The portrait, "A.I. God. Portrait Alan Turing," exceeded pre-sale expectations and received 27 bids.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Significance&lt;/strong&gt;: The sale marks a historical moment in the intersection of AI technology and the art market.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ai-Da's Role&lt;/strong&gt;: Ai-Da, designed to resemble Ada Lovelace, uses AI to generate ideas and engage in conversations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethical Implications&lt;/strong&gt;: The artwork aims to provoke reflection on the ethical and societal implications of AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background on Turing&lt;/strong&gt;: Alan Turing was a mathematician and early computer scientist who raised concerns about AI in the 1950s.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creation Process&lt;/strong&gt;: Ai-Da's team worked with AI specialists from Oxford and Birmingham universities to create the portrait.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artistic Vision&lt;/strong&gt;: The artwork's style and content reflect the struggles Turing warned about in managing AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interview&lt;/strong&gt;: Ai-Da discusses its approach to painting and its perspective on imagination and consciousness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article provides a comprehensive overview of the event and its significance.
+- It effectively highlights the intersection of AI and art, emphasizing the ethical and societal implications.
+- The background on Alan Turing and the creation process adds depth and context.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article could benefit from more detailed technical explanations of how Ai-Da operates.
+- Some readers might find the ethical implications discussed too briefly.
+- The article does not explore potential criticisms or controversies surrounding AI in art.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Art Enthusiasts&lt;/strong&gt;: Those interested in contemporary art and the intersection of technology and creativity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Professionals&lt;/strong&gt;: Individuals involved in AI development and its applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethicists and Philosophers&lt;/strong&gt;: People concerned with the ethical implications of AI and its impact on society.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Historians&lt;/strong&gt;: Those studying the legacy of Alan Turing and the evolution of computer science.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What specific ethical and societal implications does Ai-Da's artwork raise, and how do they relate to Alan Turing's concerns about AI?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the use of AI in creating art challenge traditional notions of creativity and authorship?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways does the high sale price of Ai-Da's portrait reflect the current state of the art market and the value placed on technological innovation?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 08 Nov 2024 03:42:26 GMT</pubDate><guid>https://www.theguardian.com/artanddesign/2024/nov/08/alan-turing-portrait-ai-da-robot-painting-sale-price-auction</guid></item></channel></rss>
