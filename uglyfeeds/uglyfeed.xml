@@ -1,77 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>方佳瑞赞同了文章: xDiT优化Mochi：单卡L40完成推理，多卡性能提升3.54倍！</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 AI's special forces unit</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Mochi&lt;/li&gt;
-&lt;li&gt;xDiT&lt;/li&gt;
-&lt;li&gt;并行推理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. 简明总结&lt;/h3&gt;
-&lt;p&gt;本文介绍了Genmo团队开发的Mochi，这是目前最先进的开源文生视频模型，拥有10B参数，能够生成高质量的视频。然而，Mochi的推理成本非常高，需要4张H100显卡才能完成单一视频的推理。为了降低推理成本，作者对Mochi的显存开销进行了深度优化，并利用xDiT框架提供了多维并行推理能力。优化后的Mochi可以在单张L40显卡上运行，并且通过并行推理，推理延迟缩短了3.54倍。作者详细介绍了优化的具体步骤，包括显存优化、并行推理的实现方法，以及性能展示。最终，优化后的Mochi在多卡条件下表现出显著的性能提升，为高质量视频生成模型的快速部署提供了可行性。&lt;/p&gt;
-&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;背景&lt;/strong&gt;：2024年AIGC领域最热门的话题之一是文生视频，Mochi作为参数最多的开源模型，显著提升了视频质量和流畅度，但推理成本高昂。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优化目标&lt;/strong&gt;：通过显存优化和并行推理，降低Mochi的推理成本，使其能够在单张L40显卡上运行，并提高多卡条件下的推理性能。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优化方法&lt;/strong&gt;：详细介绍了显存优化的具体步骤，包括精度调整、分块VAE解码和减少GPU缓存开销。同时，介绍了xDiT框架的并行逻辑和系统架构，以及如何通过调用xDiT API实现并行生成过程。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;性能展示&lt;/strong&gt;：对比了原始Mochi和优化后的Mochi在不同并行条件下的推理延迟，展示了优化后的显著性能提升。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;结论&lt;/strong&gt;：优化后的Mochi不仅降低了推理成本，还在多卡条件下表现出显著的性能提升，为高质量视频生成模型的快速部署提供了可行性。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. 推荐度&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;：
-- 文章详细介绍了Mochi的优化过程，逻辑清晰，内容全面。
-- 提供了具体的优化方法和技术细节，具有很高的实用价值。
-- 性能展示部分数据详实，对比清晰，验证了优化的有效性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;：
-- 部分技术细节较为复杂，可能对非专业人士来说难以理解。
-- 没有详细讨论优化后的模型在实际应用中的局限性和潜在问题。&lt;/p&gt;
-&lt;h3&gt;5. 目标读者&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;AI研究人员和工程师，特别是关注文生视频领域的专业人士。&lt;/li&gt;
-&lt;li&gt;对高性能计算和并行计算感兴趣的开发者。&lt;/li&gt;
-&lt;li&gt;企业级用户，希望降低大规模视频生成的推理成本。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. 思考题&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;为什么Mochi的推理成本如此之高？&lt;/strong&gt;&lt;br /&gt;
-   请解释Mochi模型的参数规模和推理过程中存在的主要瓶颈。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;xDiT框架是如何实现多维并行推理的？&lt;/strong&gt;&lt;br /&gt;
-   请详细描述xDiT框架的并行逻辑和系统架构，以及它是如何在不同硬件配置下实现最佳并行策略的。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优化后的Mochi在实际应用中有哪些潜在的优势和局限性？&lt;/strong&gt;&lt;br /&gt;
-   请结合文章中的性能展示数据，分析优化后的Mochi在不同场景下的表现和可能遇到的问题。&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 08 Nov 2024 09:37:17 GMT</pubDate><guid>https://zhuanlan.zhihu.com/p/5775345309</guid></item><item><title>AI may displace 3m jobs but long-term losses ‘relatively modest’, says Tony Blair’s thinktank</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Artificial Intelligence (AI)&lt;/li&gt;
-&lt;li&gt;Job Displacement&lt;/li&gt;
-&lt;li&gt;Tony Blair Institute&lt;/li&gt;
+&lt;li&gt;Palantir&lt;/li&gt;
+&lt;li&gt;AI Platform&lt;/li&gt;
+&lt;li&gt;Data Integration&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The Tony Blair Institute (TBI) has released a report suggesting that while artificial intelligence (AI) could displace between 1 million and 3 million private sector jobs in the UK over the next few decades, the ultimate rise in unemployment will likely be in the low hundreds of thousands. The report estimates that between 60,000 and 275,000 jobs could be displaced annually during the peak period of disruption. However, the TBI also notes that the growth of technology will create new roles, potentially offsetting some of the job losses. Overall, the long-term economic impact is expected to be relatively modest.&lt;/p&gt;
+&lt;p&gt;The article discusses Palantir, a company founded in 2003 by Alex Karp and Peter Thiel, which has become a leading force in enterprise AI. Unlike many AI companies focused on chatbots and image generators, Palantir specializes in building platforms that help organizations manage and analyze large datasets. Key products include Gotham, which aids intelligence agencies, and Foundry, which supports business operations. Palantir's unique approach involves embedding engineers directly with clients to create custom solutions. Recent partnerships with Anthropic and Amazon highlight its growing influence, but the company faces challenges such as maintaining growth and addressing privacy concerns. Despite strong Q3 earnings, financial analysts question its valuation and sustainability.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The Tony Blair Institute (TBI) releases a report on the potential impact of AI on employment in the UK.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Job Displacement Estimates&lt;/strong&gt;: AI could displace between 1 million and 3 million private sector jobs in the UK over the next few decades.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Annual Displacement&lt;/strong&gt;: Between 60,000 and 275,000 jobs could be displaced annually during the peak period of disruption.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;New Roles Creation&lt;/strong&gt;: The growth of technology will create new roles, potentially offsetting some of the job losses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Economic Impact&lt;/strong&gt;: The long-term economic impact is expected to be relatively modest, with the ultimate rise in unemployment in the low hundreds of thousands.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Briefly mentions the trendiness of Palantir and its unique position in the AI industry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Palantir's Background&lt;/strong&gt;: Founded in 2003, Palantir has specialized in data integration and analysis platforms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Products&lt;/strong&gt;: Describes Gotham (for intelligence agencies) and Foundry (for businesses).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Platform&lt;/strong&gt;: Explains how Palantir integrates various AI models and systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Highlights the company's strategy of embedding engineers with clients.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recent Developments&lt;/strong&gt;: Discusses partnerships with Anthropic and Amazon, and the potential role in Trump's "AI Manhattan Project."&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial Performance&lt;/strong&gt;: Reports on strong Q3 earnings but notes concerns about overvaluation and future growth.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges&lt;/strong&gt;: Addresses issues such as privacy concerns and ties to the military.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Summarizes the company's current status and future prospects.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The report provides a balanced view of the potential impacts of AI on employment, considering both job displacement and the creation of new roles.
-- It offers specific estimates and a timeframe, which adds credibility to the analysis.&lt;/p&gt;
+- Comprehensive overview of Palantir's unique position and offerings.
+- Clear explanation of the company's approach and recent developments.
+- Balanced discussion of both strengths and challenges.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The report does not delve deeply into the specific sectors or types of jobs that will be most affected.
-- It lacks a detailed discussion on the policies needed to mitigate the negative impacts of job displacement.
-- The term "relatively modest" is somewhat vague and could benefit from more concrete data or examples.&lt;/p&gt;
+- Some sections could be more detailed, especially regarding specific technical aspects of their platforms.
+- The article could benefit from more critical analysis of the ethical implications of Palantir's work with intelligence agencies and the military.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Policymakers and government officials&lt;/li&gt;
-&lt;li&gt;Economists and researchers studying the impact of technology on employment&lt;/li&gt;
-&lt;li&gt;Business leaders and HR professionals in industries likely to be affected by AI&lt;/li&gt;
-&lt;li&gt;Workers and unions concerned about job security&lt;/li&gt;
+&lt;li&gt;Tech enthusiasts and professionals interested in AI and data management.&lt;/li&gt;
+&lt;li&gt;Investors and financial analysts looking at emerging trends in the tech industry.&lt;/li&gt;
+&lt;li&gt;Policymakers and ethicists concerned with the implications of AI in government and business.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What specific sectors or types of jobs are most likely to be displaced by AI, and what new roles might emerge as a result?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How can policymakers and businesses work together to mitigate the negative impacts of job displacement caused by AI?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What skills and training programs will be most effective in preparing the workforce for the new roles created by technological advancements?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 08 Nov 2024 09:36:45 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/nov/08/ai-may-displace-3m-jobs-but-long-term-losses-relatively-modest-says-thinktank</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the potential ethical implications of Palantir's deep involvement with intelligence agencies and military operations?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does Palantir's approach of embedding engineers with clients compare to traditional software-as-a-service (SaaS) models in terms of effectiveness and scalability?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Given the financial analysts' concerns about Palantir's valuation, what strategies could the company adopt to ensure long-term profitability and sustainability?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 08 Nov 2024 15:38:32 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/i0lnmcoco9zdspbc1c0q.html</guid></item></channel></rss>
