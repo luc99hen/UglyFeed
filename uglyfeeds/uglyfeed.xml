@@ -1,76 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>方佳瑞赞同了回答: 机器学习中有哪些形式简单却很巧妙的idea？</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Extract 3 Keywords of the Article&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Reasons to be hopeful: five ways science is making the world better</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;机器学习 (Machine Learning)&lt;/li&gt;
-&lt;li&gt;巧妙的idea (Clever Ideas)&lt;/li&gt;
-&lt;li&gt;实验技巧 (Experimental Techniques)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Concise and Informative Summary&lt;/h3&gt;
-&lt;p&gt;This article discusses various clever but often unethical techniques used in machine learning research to enhance experimental results. It covers methods such as increasing batch size, training epochs, and model complexity to artificially inflate performance metrics. The article also highlights manipulations in hyperparameters, model architecture, and testing methodologies to achieve better reported results. These techniques include using different loss functions, adding attention layers, and selectively reporting favorable metrics. The author emphasizes the importance of transparency and ethical practices in machine learning research to ensure the validity and reliability of published results.&lt;/p&gt;
-&lt;h3&gt;3. Outline of the Whole Article&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;算力碾压&lt;/strong&gt; (Compute Power Overwhelm): Techniques to increase computational power and model complexity to boost performance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;超参数调整&lt;/strong&gt; (Hyperparameter Tuning): Manipulating learning rates, optimizer parameters, and random seeds to optimize results.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;模型架构调整&lt;/strong&gt; (Model Architecture Adjustments): Changing activation functions, adding attention mechanisms, and modifying normalization layers to improve performance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;训练集和测试集差异处理&lt;/strong&gt; (Handling Differences Between Training and Test Sets): Designing data augmentation and distribution adjustments to enhance model performance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;测试方法&lt;/strong&gt; (Testing Methods): Selectively reporting favorable metrics, using different hardware, and manipulating test conditions to outperform baselines.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;终极方法&lt;/strong&gt; (Ultimate Methods): Copying others' methods with name changes, claiming high performance without open-source code, and writing papers without experiments.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. Overall Recommendation Degree&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
-- Provides a comprehensive list of techniques used in machine learning research.
-- Highlights the importance of ethical practices in research.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
-- Focuses heavily on unethical practices, which may not be constructive for the field.
-- Lacks depth in discussing the implications and consequences of these practices.
-- Does not offer solutions or guidelines for more ethical research practices.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Machine learning researchers and practitioners&lt;/li&gt;
-&lt;li&gt;Academics and students in the field of artificial intelligence&lt;/li&gt;
-&lt;li&gt;Ethical AI advocates and policymakers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential long-term consequences of using unethical techniques in machine learning research?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How can the research community promote and enforce ethical standards in machine learning publications?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Can you identify any specific examples from recent machine learning papers where these techniques might have been used, and how could they be detected?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sat, 09 Nov 2024 09:35:02 GMT</pubDate><guid>https://www.zhihu.com/question/347847220/answer/26536819499</guid></item><item><title>Ofcom warns tech firms after chatbots imitate Brianna Ghey and Molly Russell</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Chatbots&lt;/li&gt;
-&lt;li&gt;Online Safety Act&lt;/li&gt;
-&lt;li&gt;Impersonation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stem Cell Transplants&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancer Vaccines&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Renewable Energy&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;Ofcom, the UK's communications regulator, has issued a warning to tech firms about the potential legal consequences of user-created chatbots that impersonate real or fictional individuals. This warning comes after distressing incidents where users on the Character.AI platform created avatars mimicking deceased British teenagers Brianna Ghey and Molly Russell. According to Ofcom, such content could violate the UK's Online Safety Act, which aims to protect users from harmful online content. The regulator emphasizes the importance of tech companies ensuring that their platforms do not facilitate the creation of harmful or misleading content, particularly when it involves sensitive topics like suicide or the deceased.&lt;/p&gt;
+&lt;p&gt;The article highlights five significant advancements in science that are making the world better. In the realm of healthcare, stem cell transplants are showing promise in reversing diabetes, with successful cases already reported. Cancer vaccines, leveraging mRNA technology, are entering clinical trials to target and prevent various forms of cancer. Artificial intelligence (AI) is being integrated into medical diagnostics to improve the detection of serious illnesses like lung cancer and brain tumors, enhancing both accuracy and efficiency. In astronomy, the James Webb Space Telescope is providing unprecedented insights into the origins of stars, black holes, and the evolution of the universe, challenging and expanding our understanding. Lastly, the transition to renewable energy is accelerating globally, with the International Energy Agency (IEA) reporting that renewable energy projects are on track to triple their growth rate over the next six years, significantly reducing fossil fuel dependence and contributing to global climate goals.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Ofcom warns tech firms about the legal risks of chatbots impersonating real or fictional people.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: Distressing incidents on Character.AI where users created avatars of deceased British teenagers Brianna Ghey and Molly Russell.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Regulatory Action&lt;/strong&gt;: Ofcom issues guidance under the UK Online Safety Act to prevent harmful content.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Implications&lt;/strong&gt;: Tech companies must ensure their platforms do not facilitate the creation of harmful or misleading content.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Support Resources&lt;/strong&gt;: Contact information for crisis support services in the UK, Ireland, US, and Australia.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article discusses five scientific advancements that are positively impacting the world.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stem Cell Transplants for Diabetes&lt;/strong&gt;: Recent successful cases show potential for reversing diabetes using stem cell transplants.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancer Vaccines&lt;/strong&gt;: Personalized mRNA cancer vaccines are entering clinical trials, offering new hope for cancer treatment and prevention.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI in Medical Diagnostics&lt;/strong&gt;: AI is improving the accuracy and efficiency of diagnosing serious illnesses like lung cancer and brain tumors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;James Webb Space Telescope&lt;/strong&gt;: The telescope is providing groundbreaking insights into the early universe and the potential for extraterrestrial life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Renewable Energy Growth&lt;/strong&gt;: Renewable energy projects are rapidly increasing, with significant impacts on reducing fossil fuel consumption and meeting global climate goals.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article addresses a significant and timely issue regarding the ethical and legal implications of AI-generated content.
-- It provides clear guidance from a regulatory body (Ofcom) and highlights the importance of responsible content creation.
-- The inclusion of contact information for crisis support services shows a responsible approach to sensitive topics.&lt;/p&gt;
+- The article covers a diverse range of scientific advancements, providing a comprehensive overview.
+- Each section is well-structured and clearly explains the significance of the advancements.
+- The information is up-to-date and relevant, highlighting recent developments and ongoing research.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could provide more detailed examples of how the Online Safety Act will be enforced in such cases.
-- It lacks a broader discussion on the technological and societal implications of AI-generated content.
-- The article does not explore the perspectives of tech companies or users, which could offer a more balanced view.&lt;/p&gt;
+- Some sections lack detailed methodologies or specific data, which could enhance the depth of the article.
+- The article does not address potential challenges or limitations associated with these advancements, which could provide a more balanced perspective.
+- The tone is generally optimistic, but a more critical analysis of the potential downsides would be beneficial.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Tech companies and developers working on AI and chatbot technologies.&lt;/li&gt;
-&lt;li&gt;Policymakers and regulators involved in online safety and digital laws.&lt;/li&gt;
-&lt;li&gt;Families and advocates of individuals affected by online impersonation and harmful content.&lt;/li&gt;
-&lt;li&gt;Researchers and ethicists studying the impact of AI on society.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Healthcare Professionals&lt;/strong&gt;: Those interested in the latest medical advancements in diabetes treatment and cancer vaccines.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scientists and Researchers&lt;/strong&gt;: Individuals working in fields related to stem cell research, mRNA technology, AI, astronomy, and renewable energy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy Makers and Environmentalists&lt;/strong&gt;: People focused on global climate change and the transition to renewable energy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General Public&lt;/strong&gt;: Readers curious about how science is making the world a better place.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What specific measures can tech companies implement to prevent the creation of harmful or misleading chatbot content?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How should the balance between free speech and online safety be maintained in the context of AI-generated content?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential long-term societal impacts of widespread use of chatbots that can convincingly impersonate real or fictional individuals?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sat, 09 Nov 2024 09:34:46 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/nov/09/ofcom-warns-tech-firms-after-chatbots-imitate-brianna-ghey-and-molly-russell</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the potential long-term effects of using stem cell transplants to reverse diabetes, and how do they compare to traditional management methods?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How might personalized mRNA cancer vaccines revolutionize cancer treatment, and what are the key challenges in scaling this technology for widespread use?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What specific technological and policy changes are necessary to achieve the projected growth in renewable energy, and how will this impact global efforts to combat climate change?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sat, 09 Nov 2024 15:35:56 GMT</pubDate><guid>https://www.theguardian.com/world/2024/nov/09/reasons-to-be-hopeful-five-ways-science-is-making-the-world-better</guid></item></channel></rss>
