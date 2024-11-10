@@ -1,77 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>简悦发布频道 RSS 优化</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 OpenAI's $100B problem</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;RSS 订阅&lt;/li&gt;
-&lt;li&gt;Telegram Channel&lt;/li&gt;
-&lt;li&gt;简悦&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Orion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scaling Laws&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compute Allocation&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. 摘要&lt;/h3&gt;
-&lt;p&gt;本文介绍了简悦发布频道的 RSS 订阅优化，旨在为无法使用 Telegram Channel 的用户提供更便捷的订阅体验。简悦的 Telegram Channel 已经积累了超过 6,000 名用户，而 RSS 版本自 2022 年推出以来也进行了多次改进。此次优化包括：适合国内用户直接访问的题图、可点击的标签、更合理的标题显示以及题图默认出现在文章前面。尽管 RSS 订阅源地址未变，但内容的更改可能导致某些 RSS 阅读器出现重复或无法订阅的问题。&lt;/p&gt;
-&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the challenges and advancements in the development of OpenAI's new language model, code-named Orion. Despite initial optimism, Orion has shown only marginal improvements over its predecessor, GPT-4, challenging the industry's assumption of consistent exponential AI improvement through increased compute and data. OpenAI faces significant financial and technical hurdles, including the high cost of data centers and the diminishing returns from additional compute. The company is exploring alternative approaches, such as improving models without new data and leveraging reasoning models like o1. The article also touches on the broader implications of these developments for the AI industry, including the skepticism of longtime AI critics and the potential for new scaling paradigms.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;引言&lt;/strong&gt;：介绍简悦发布频道的重要性和用户基数。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;背景&lt;/strong&gt;：简悦的 Telegram Channel 是主要的信息发布渠道，已积累超过 6,000 名用户。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;问题&lt;/strong&gt;：部分用户无法使用 Telegram Channel。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;解决方案&lt;/strong&gt;：简悦于 2022 年推出了 RSS 版本，并在最近进行了优化。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优化内容&lt;/strong&gt;：详细列举了 RSS 版本的优化点，包括题图、标签、标题和布局。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;注意事项&lt;/strong&gt;：提醒用户可能遇到的重复和无法订阅的问题。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;结语&lt;/strong&gt;：庆祝简悦发布频道的第 600 次发布。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Teachers are finding innovative ways to catch students using AI, such as specific writing assignments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenAI's New Model&lt;/strong&gt;: Orion, the new model, shows impressive initial performance but only marginally outperforms GPT-4 at full training.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges with Scaling Laws&lt;/strong&gt;: The assumption that more compute and data lead to exponential AI improvement is being questioned.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial and Technical Hurdles&lt;/strong&gt;: OpenAI faces significant costs and technical limitations, including the high cost of data centers and the diminishing returns from additional compute.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alternative Approaches&lt;/strong&gt;: OpenAI is exploring methods to improve models without new data and leveraging reasoning models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Implications&lt;/strong&gt;: The article discusses the broader impact on the AI industry, including skepticism from AI critics and the potential for new scaling paradigms.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4. 推荐度&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
-- &lt;strong&gt;优点&lt;/strong&gt;：文章清晰地介绍了简悦发布频道的 RSS 订阅优化，解决了部分用户的实际问题。优化内容具体且实用，有助于提升用户体验。
-- &lt;strong&gt;缺点&lt;/strong&gt;：文章缺乏对优化效果的具体数据支持，例如用户反馈或使用率的变化。此外，对于可能遇到的问题，虽然有提及，但没有提供具体的解决方法。&lt;/p&gt;
-&lt;h3&gt;5. 目标读者&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;使用简悦工具的用户&lt;/li&gt;
-&lt;li&gt;对 RSS 订阅感兴趣的用户&lt;/li&gt;
-&lt;li&gt;无法使用 Telegram 的用户&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. 思考题&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;为什么简悦选择在 2022 年推出 RSS 版本？&lt;/li&gt;
-&lt;li&gt;优化后的 RSS 版本有哪些具体改进？这些改进如何提升用户体验？&lt;/li&gt;
-&lt;li&gt;如果你在使用 RSS 订阅时遇到了重复或无法订阅的问题，你会如何解决？&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sun, 10 Nov 2024 09:35:11 GMT</pubDate><guid>https://zhuanlan.zhihu.com/p/6041066507</guid></item><item><title>ARP Flux 问题和解决方法</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Extract 3 Keywords of the Article&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ARP Flux&lt;/li&gt;
-&lt;li&gt;Interface Configuration&lt;/li&gt;
-&lt;li&gt;ARP Ignore&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Concise and Informative Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the ARP Flux problem, which occurs when a Linux system with multiple interfaces on the same broadcast domain receives and responds to ARP requests from both interfaces, leading to inconsistent MAC addresses. The author explains the underlying logic of ARP handling in Linux and provides several solutions to mitigate this issue. These solutions include configuring different IP subnets, hiding one interface, using the &lt;code&gt;arp_ignore&lt;/code&gt; parameter to control ARP responses, and employing the &lt;code&gt;arp_filter&lt;/code&gt; parameter to ensure only the correct interface replies. The article also touches on the behavior of loopback interfaces in ARP responses and how routing configurations affect this behavior.&lt;/p&gt;
-&lt;h3&gt;3. Outline of the Whole Article&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article introduces the ARP Flux problem, where a Linux system with multiple interfaces on the same broadcast domain responds to ARP requests from both interfaces.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Problem Description&lt;/strong&gt;: It explains that when a Linux system receives an ARP request, it replies from the interface that received the request, leading to multiple responses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Experimental Setup&lt;/strong&gt;: The setup involves a Linux machine with two interfaces connected to the same switch, both configured in the same subnet.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Solution 0: Different IP Subnets&lt;/strong&gt;: Configuring different subnets for each interface prevents ARP Flux but is not always feasible.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Solution 1: Hiding One Interface&lt;/strong&gt;: Disabling ARP responses on one interface using &lt;code&gt;ip link set dev eth0 arp off&lt;/code&gt; can hide the interface, but it affects all IP addresses on that interface.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Solution 2: Using &lt;code&gt;arp_ignore&lt;/code&gt;&lt;/strong&gt;: This parameter controls ARP responses based on the interface configuration, ensuring only the correct interface replies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Solution 3: Using &lt;code&gt;arp_filter&lt;/code&gt;&lt;/strong&gt;: This parameter ensures that ARP responses are based on the routing table, preventing multiple responses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Loopback Interface Behavior&lt;/strong&gt;: The article discusses how loopback interfaces handle ARP requests and how routing configurations affect this behavior.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The article summarizes the solutions and their effectiveness in mitigating the ARP Flux problem.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. Overall Recommendation Degree&lt;/h3&gt;
+&lt;h3&gt;4. Recommendation Degree&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article clearly explains the ARP Flux problem and its causes.
-- It provides multiple solutions with detailed explanations and examples.
-- The experimental setup and results are well-documented.&lt;/p&gt;
+- The article provides a detailed overview of the challenges and advancements in AI development, particularly focusing on OpenAI's Orion model.
+- It highlights the financial and technical hurdles faced by the company, which is crucial for understanding the current state of AI research.
+- The exploration of alternative approaches adds depth to the discussion and offers a forward-looking perspective.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could benefit from more real-world scenarios and use cases.
-- Some technical terms and concepts are not fully explained, which might confuse less experienced readers.
-- The article does not discuss potential side effects or trade-offs of the solutions.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+- The article lacks concrete examples or case studies to illustrate the points, which could make the content more relatable and compelling.
+- Some technical terms and concepts are not fully explained, which might make it difficult for a general audience to understand.
+- The article does not provide a clear conclusion or actionable insights for readers.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Network administrators and engineers managing Linux systems with multiple network interfaces.&lt;/li&gt;
-&lt;li&gt;System administrators dealing with ARP issues in their network infrastructure.&lt;/li&gt;
-&lt;li&gt;Developers working on network-related applications that require a deep understanding of ARP behavior.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Researchers and Developers&lt;/strong&gt;: Those interested in the latest developments and challenges in AI technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Investors&lt;/strong&gt;: Individuals looking to understand the financial and technical landscape of AI startups.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educators&lt;/strong&gt;: Teachers and educators who want to stay informed about AI's impact on education and cheating prevention.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential security implications of the ARP Flux problem, and how do the solutions provided in the article address these concerns?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How would you modify the &lt;code&gt;arp_ignore&lt;/code&gt; parameter to ensure that only specific IP addresses on a multi-homed system respond to ARP requests?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what scenarios might the &lt;code&gt;arp_filter&lt;/code&gt; solution be less effective, and what alternative strategies could be employed to handle such cases?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sun, 10 Nov 2024 09:34:49 GMT</pubDate><guid>https://www.kawabangga.com/posts/6701</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the potential long-term implications of the diminishing returns from additional compute in AI development?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can alternative approaches, such as improving models without new data, revolutionize the AI industry?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways might the challenges faced by OpenAI in developing Orion influence the strategies of other AI companies?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sun, 10 Nov 2024 15:34:41 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/mnqrm23uj94o2xo8ibiw.html</guid></item></channel></rss>
