@@ -1,40 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 OpenAI's $100B problem</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>We don’t need to use what we make</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Orion&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Scaling Laws&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Compute Allocation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Dissonance&lt;/li&gt;
+&lt;li&gt;Profession&lt;/li&gt;
+&lt;li&gt;Personal Interests&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the challenges and advancements in the development of OpenAI's new language model, code-named Orion. Despite initial optimism, Orion has shown only marginal improvements over its predecessor, GPT-4, challenging the industry's assumption of consistent exponential AI improvement through increased compute and data. OpenAI faces significant financial and technical hurdles, including the high cost of data centers and the diminishing returns from additional compute. The company is exploring alternative approaches, such as improving models without new data and leveraging reasoning models like o1. The article also touches on the broader implications of these developments for the AI industry, including the skepticism of longtime AI critics and the potential for new scaling paradigms.&lt;/p&gt;
+&lt;p&gt;The article explores the dissonance between one's profession and personal interests, using the author's experience as a touring musician who disliked attending concerts as a starting point. The author highlights several examples of individuals whose professional activities do not align with their personal preferences, such as a vegetarian cattle farmer and a heart surgeon who has never needed heart surgery. The piece concludes with a reflection on the natural and acceptable nature of this dissonance, suggesting that it is a common and normal aspect of life, much like how we produce and consume salt water but do not drink it.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Teachers are finding innovative ways to catch students using AI, such as specific writing assignments.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;OpenAI's New Model&lt;/strong&gt;: Orion, the new model, shows impressive initial performance but only marginally outperforms GPT-4 at full training.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Challenges with Scaling Laws&lt;/strong&gt;: The assumption that more compute and data lead to exponential AI improvement is being questioned.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financial and Technical Hurdles&lt;/strong&gt;: OpenAI faces significant costs and technical limitations, including the high cost of data centers and the diminishing returns from additional compute.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Alternative Approaches&lt;/strong&gt;: OpenAI is exploring methods to improve models without new data and leveraging reasoning models.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry Implications&lt;/strong&gt;: The article discusses the broader impact on the AI industry, including skepticism from AI critics and the potential for new scaling paradigms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The author introduces the concept of dissonance between professional and personal interests through personal experience as a touring musician.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examples&lt;/strong&gt;: Several examples are provided to illustrate the theme, including a vegetarian cattle farmer, a masseuse who dislikes massages, and a heart surgeon who has never needed heart surgery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The author reflects on the naturalness of this dissonance, drawing a metaphor from the production and consumption of salt water.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4. Recommendation Degree&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article provides a detailed overview of the challenges and advancements in AI development, particularly focusing on OpenAI's Orion model.
-- It highlights the financial and technical hurdles faced by the company, which is crucial for understanding the current state of AI research.
-- The exploration of alternative approaches adds depth to the discussion and offers a forward-looking perspective.&lt;/p&gt;
+- The article effectively uses personal anecdotes and relatable examples to illustrate its point.
+- The metaphor of salt water is a creative and memorable way to convey the message.
+- The writing is clear and accessible, making it easy for readers to understand the main idea.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article lacks concrete examples or case studies to illustrate the points, which could make the content more relatable and compelling.
-- Some technical terms and concepts are not fully explained, which might make it difficult for a general audience to understand.
-- The article does not provide a clear conclusion or actionable insights for readers.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+- The article could benefit from more structured analysis or data to support the argument.
+- Some readers might find the examples too anecdotal and lacking in broader applicability.
+- The conclusion, while thoughtful, does not delve deeply into the implications of the dissonance discussed.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI Researchers and Developers&lt;/strong&gt;: Those interested in the latest developments and challenges in AI technology.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech Investors&lt;/strong&gt;: Individuals looking to understand the financial and technical landscape of AI startups.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Educators&lt;/strong&gt;: Teachers and educators who want to stay informed about AI's impact on education and cheating prevention.&lt;/li&gt;
+&lt;li&gt;Professionals who feel a disconnect between their job and personal interests.&lt;/li&gt;
+&lt;li&gt;Career counselors and life coaches.&lt;/li&gt;
+&lt;li&gt;Anyone reflecting on the alignment between their personal values and professional choices.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential long-term implications of the diminishing returns from additional compute in AI development?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How can alternative approaches, such as improving models without new data, revolutionize the AI industry?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways might the challenges faced by OpenAI in developing Orion influence the strategies of other AI companies?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sun, 10 Nov 2024 15:34:41 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/mnqrm23uj94o2xo8ibiw.html</guid></item></channel></rss>
+&lt;li&gt;How does the dissonance between your professional and personal interests impact your job satisfaction and overall well-being?&lt;/li&gt;
+&lt;li&gt;Can you think of other examples where people engage in activities professionally that they do not personally enjoy or consume?&lt;/li&gt;
+&lt;li&gt;What strategies can individuals use to reconcile the dissonance between their professional roles and personal preferences?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sun, 10 Nov 2024 21:34:27 GMT</pubDate><guid>https://sive.rs/salt</guid></item></channel></rss>
