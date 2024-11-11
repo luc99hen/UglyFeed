@@ -1,72 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>方佳瑞赞同了回答: 感觉很多企业都开始转向使用MLIR自行构建AI编译器了，TVM现在还有人用吗？</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 Your AI prompts = outdated</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;MLIR&lt;/li&gt;
-&lt;li&gt;TVM&lt;/li&gt;
-&lt;li&gt;AI Compiler&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prompt Engineering&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Models&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consistency&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the current trends in AI compiler development, focusing on the rise of MLIR and the continued relevance of TVM. MLIR aims to create a comprehensive ecosystem with flexible and reusable components, making it attractive for chip manufacturers due to its compatibility with LLVM. TVM, on the other hand, offers a more complete system solution for AI models, covering everything from front-end parsing to runtime optimization. Both tools have their strengths and can be used complementarily. The author advises students not to worry about choosing one over the other, as understanding both will provide a well-rounded perspective on AI compiler development.&lt;/p&gt;
-&lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The author addresses the student's confusion about the shift towards MLIR and the continued use of TVM.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Core Concepts&lt;/strong&gt;: Both AI compilers and traditional compilers focus on transforming high-level information into lower-level representations to optimize performance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MLIR Overview&lt;/strong&gt;: MLIR aims to build a robust ecosystem with reusable components and is popular among chip manufacturers due to its compatibility with LLVM.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TVM Overview&lt;/strong&gt;: TVM provides a comprehensive system solution for AI models, covering various stages from parsing to runtime optimization.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Complementary Nature&lt;/strong&gt;: MLIR and TVM can be used together, with TVM's IR potentially serving as an MLIR dialect or vice versa.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The choice between MLIR and TVM should be based on specific goals, and students should not worry about being limited by their choice.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article provides a balanced view of MLIR and TVM, highlighting their respective strengths and potential for complementary use.
-- It offers practical advice for students, emphasizing the importance of understanding both tools rather than being overly concerned about which one to choose.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could benefit from more concrete examples or case studies to illustrate the points made.
-- Some technical details are glossed over, which might leave readers wanting more in-depth information.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Students and researchers in AI and machine learning.&lt;/li&gt;
-&lt;li&gt;Developers working on AI compilers or related technologies.&lt;/li&gt;
-&lt;li&gt;Chip manufacturers and engineers looking to optimize AI model performance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the key differences between MLIR and TVM in terms of their design goals and functionalities?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How does the compatibility of MLIR with LLVM influence its adoption among chip manufacturers?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways can MLIR and TVM be used together to enhance the development of AI models?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If a reader can answer these questions accurately, it indicates a thorough understanding of the article's content.&lt;/p&gt;&lt;br/&gt;</description><pubDate>Mon, 11 Nov 2024 15:37:56 GMT</pubDate><guid>https://www.zhihu.com/question/3861009584/answer/28680558192</guid></item><item><title>‘It gets more and more confused’: can AI replace translators?</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;AI Translation&lt;/li&gt;
-&lt;li&gt;Literary Translation&lt;/li&gt;
-&lt;li&gt;Publisher&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the controversial decision by Dutch publisher Veen Bosch &amp;amp; Keuning to use AI for translating commercial fiction. While AI has made significant strides in practical translation scenarios, such as menu translations in foreign countries, its application in literary translation is met with skepticism and concern. Authors and translators are worried about the potential loss of nuance and artistic integrity, despite the publisher's assurances of careful checking and author consent. The debate highlights the tension between technological advancement and the preservation of human creativity and expertise.&lt;/p&gt;
+&lt;p&gt;The article discusses recent advancements in AI, particularly focusing on the effectiveness of prompt engineering with large language models (LLMs). A new study reveals that for knowledge-based questions, larger models tend to provide consistent answers regardless of how the question is phrased. However, for technical and creative tasks, specific prompting techniques still play a crucial role. The study also highlights the importance of gauging the AI's confidence level in its responses to determine when rephrasing might be necessary. Additionally, the article mentions the unveiling of a new robot, π0, by Physical Intelligence (PI), which can handle complex tasks like folding laundry and recovering from unexpected disruptions.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: A Dutch publisher announces the use of AI to translate books, sparking controversy in the industry.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Translation Progress&lt;/strong&gt;: Machine translation has improved significantly, especially in practical scenarios like translating menus.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Controversy in Literary Translation&lt;/strong&gt;: The proposed use of AI for literary translation is highly contentious, with authors and translators expressing concerns.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Publisher's Assurances&lt;/strong&gt;: The publisher claims that translations will be carefully checked and that authors will give consent.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry Reaction&lt;/strong&gt;: Despite reassurances, the industry remains wary of the potential consequences of AI in literary translation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Overview of recent AI advancements and the introduction of π0, a robot capable of handling complex tasks like folding laundry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prompt Engineering Study&lt;/strong&gt;: Discussion of a new study on the effectiveness of different prompts with large AI models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Findings&lt;/strong&gt;: Larger models are more consistent with knowledge-based questions, but specific prompting is still important for technical and creative tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Confidence Levels&lt;/strong&gt;: Importance of gauging AI's confidence in its responses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical Implications&lt;/strong&gt;: Advice on when to focus on prompt engineering and when to rely on plain language.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robotics Update&lt;/strong&gt;: Introduction of π0 by Physical Intelligence (PI) and its capabilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Legal and Ethical Considerations&lt;/strong&gt;: Brief mention of a legal win for OpenAI and concerns about AI-generated scientific data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Recap of key points and a call to support sponsors.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article provides a balanced view of the controversy, highlighting both the advancements in AI translation and the concerns of the literary community.
-- It offers specific examples and context, making the issue relatable and understandable.&lt;/p&gt;
+- The article provides valuable insights into the effectiveness of prompt engineering with large AI models.
+- It introduces a new and innovative robot, π0, which showcases advancements in robotics.
+- The study's findings are presented clearly and concisely.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could delve deeper into the technical aspects of AI translation and its limitations in literary contexts.
-- It lacks detailed information on the methods and criteria used by the publisher to ensure quality and author consent.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
+- The article could benefit from more detailed explanations of the methodologies used in the study.
+- Some sections, such as the legal and ethical considerations, are briefly mentioned and could be expanded for a more comprehensive understanding.
+- The article could include more examples or case studies to illustrate the practical implications of the findings.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Authors and literary translators concerned about the future of their profession.&lt;/li&gt;
-&lt;li&gt;Publishers and tech companies exploring the integration of AI in the publishing industry.&lt;/li&gt;
-&lt;li&gt;Readers interested in the intersection of technology and art.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Researchers and Developers&lt;/strong&gt;: Those interested in the latest advancements in AI models and prompt engineering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robotics Enthusiasts&lt;/strong&gt;: Individuals fascinated by the development of advanced robots like π0.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Professionals&lt;/strong&gt;: People looking to leverage AI for business improvements and decision-making.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the key differences between practical and literary translation, and why do these differences make AI translation more challenging in literary contexts?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How can publishers balance the benefits of AI translation with the need to preserve the artistic integrity of literary works?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What ethical considerations should be taken into account when using AI for literary translation, and how can these be addressed to gain the trust of authors and translators?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 11 Nov 2024 15:37:30 GMT</pubDate><guid>https://www.theguardian.com/books/2024/nov/11/it-gets-more-and-more-confused-can-ai-replace-translators</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the potential limitations of relying solely on large AI models for knowledge-based questions, and how can these be addressed?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the confidence level of an AI model affect the accuracy and reliability of its responses, and what methods can be used to gauge this confidence?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways can the capabilities of robots like π0 be extended to other household chores, and what challenges might arise in their implementation?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 11 Nov 2024 21:35:24 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/34ubbny196xzeii3ktnz.html</guid></item><item><title>Remembering Grace Hopper</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Grace Hopper&lt;/li&gt;
+&lt;li&gt;Computer Science Education Week&lt;/li&gt;
+&lt;li&gt;COBOL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article commemorates Grace Murray Hopper, a pioneering figure in computer science, during Computer Science Education Week, which is held in the second week of December to mark her birthday. Rear Admiral Hopper made significant contributions to computing, including the development of the first compiler and the creation of COBOL, a high-level programming language. Despite facing numerous obstacles as a woman in a male-dominated field, she earned a Ph.D. in mathematics from Yale in 1934 and joined the Navy during World War II. Hopper's work on the Mark I computer and her advocacy for user-friendly programming languages revolutionized the field. She was also a gifted speaker and educator, known for her ability to communicate complex ideas to diverse audiences. The article encourages readers to visit her gravesite at Arlington National Cemetery to honor her legacy.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The second week of December, Computer Science Education Week, celebrates Grace Murray Hopper's birthday.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: Rear Admiral Hopper is well-known in the CS community for her numerous contributions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Appearance&lt;/strong&gt;: A recommendation to watch her 1986 appearance on 'Late Night with David Letterman.'&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biographical Resources&lt;/strong&gt;: Books and her Wikipedia page provide detailed information about her life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grave Site&lt;/strong&gt;: Hopper is buried at Arlington National Cemetery, a somber and historical place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Finding the Grave&lt;/strong&gt;: Instructions on how to locate her grave using the cemetery's app and map.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Life Story&lt;/strong&gt;: Hopper's journey, including her Ph.D. in mathematics and entry into the Navy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mark I Computer&lt;/strong&gt;: Her work on the Mark I and the first instance of "debugging."&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Post-War Contributions&lt;/strong&gt;: Development of UNIVAC and prediction of Eisenhower's election win.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: Creation of MATH-MATIC and FLOW-MATIC, leading to COBOL.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Standards and Portability&lt;/strong&gt;: Efforts to create programming language standards.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Naval Career&lt;/strong&gt;: Multiple retirements and recalls, reaching the rank of Rear Admiral.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Later Life&lt;/strong&gt;: Work at Digital Equipment Corp. and her role as a technical ambassador.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Legacy&lt;/strong&gt;: Numerous awards, honors, and her impact on breaking conventions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Encouragement to visit her gravesite and remember her legacy.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Comprehensive coverage of Grace Hopper's life and achievements.
+- Clear and organized structure.
+- Engaging personal anecdotes and historical context.
+- Provides practical information for visiting her gravesite.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- Some sections could be more concise.
+- Lacks critical analysis of her methodologies or potential controversies.
+- Could benefit from more recent developments in computer science influenced by her work.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Students and educators in computer science.&lt;/li&gt;
+&lt;li&gt;Historians and enthusiasts of technology and military history.&lt;/li&gt;
+&lt;li&gt;Anyone interested in the history of women in STEM fields.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;How did Grace Hopper's development of the first compiler and COBOL change the landscape of computer programming?&lt;/li&gt;
+&lt;li&gt;What specific challenges did Grace Hopper face as a woman in a predominantly male field, and how did she overcome them?&lt;/li&gt;
+&lt;li&gt;In what ways has Grace Hopper's legacy influenced modern computing practices and the development of new programming languages?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 11 Nov 2024 21:34:54 GMT</pubDate><guid>https://cacm.acm.org/blogcacm/remembering-grace-hopper/</guid></item></channel></rss>
