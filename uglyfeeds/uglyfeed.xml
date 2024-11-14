@@ -1,98 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 Spies over data centers</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Distant Memories of the Near Future review – dating dystopia makes you glad to be alive now</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Data Centers&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Scaling Laws&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Elon Musk&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Dystopia&lt;/li&gt;
+&lt;li&gt;AI&lt;/li&gt;
+&lt;li&gt;Love&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the current state of AI development, particularly focusing on the plateau in AI scaling laws and the significant infrastructure builds planned by major tech companies. Despite hitting multiple limits such as data availability, architectural constraints, and economic challenges, companies like OpenAI and Google are still investing heavily in massive data centers. Elon Musk's rapid construction of the Colossus supercomputer has raised concerns among competitors, leading to increased scrutiny and strategic shifts. The article also highlights the exploration of alternative approaches to scaling, such as more processing time, expert-curated data, and multi-step reasoning. Additionally, the development of AI agents that can control computers, such as OpenAI's "Operator," is seen as a significant trend in the industry.&lt;/p&gt;
+&lt;p&gt;"Distant Memories Near Future" is a theatrical production at the Arcola Theatre in London, featuring four interconnected stories set in 2043. The play explores the themes of love and human connection in a world where an AI-driven dating app promises to find the perfect match for everyone, but with a dark twist: those deemed "undesirable" by the algorithm are excluded. The setting is dystopian, with mandatory advertisements and AI lessons on being human, reflecting a society where technology has encroached deeply into personal lives. The play is beautifully written but dramatically truncated, leaving much to the imagination and inviting deeper reflection on the implications of AI in human relationships.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Brief overview of recent AI developments and a new AI model called Vidu 1.5.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Giants Pivot&lt;/strong&gt;: Major AI companies are planning massive infrastructure builds despite the plateau in AI scaling laws.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plateau in AI Scaling Laws&lt;/strong&gt;: Explanation of the various limits affecting AI models, including data availability, architectural constraints, and economic challenges.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;OpenAI's Ambitious Plans&lt;/strong&gt;: OpenAI's pitch to the White House for a $100B data center and the specifics of the project.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Elon Musk's Colossus&lt;/strong&gt;: Description of Elon Musk's rapid construction of the Colossus supercomputer and its impact on competitors.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Alternative Approaches&lt;/strong&gt;: Exploration of new methods to scale AI, such as more processing time, expert-curated data, and multi-step reasoning.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Agents&lt;/strong&gt;: Development of AI agents that can control computers, with OpenAI's "Operator" set to launch in January.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry News&lt;/strong&gt;: Updates on other AI tools and developments, including Qwen2.5-Coder, Perplexity, and OpenAI's student writing guidelines.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Recap of the main points and a call to action for readers to engage with sponsors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: "Distant Memories Near Future" is a theatrical production at the Arcola Theatre in London, exploring love and connection in a dystopian future.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Setting and Context&lt;/strong&gt;: The year 2043, where a dating app uses AI to find the perfect match for everyone, but excludes those deemed undesirable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Themes and Stories&lt;/strong&gt;: Four interwoven stories highlight the impact of AI on human relationships and the dystopian elements of a society controlled by algorithms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dystopian Elements&lt;/strong&gt;: Mandatory advertisements and AI lessons on being human create an Orwellian atmosphere.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Critical Reception&lt;/strong&gt;: The play is praised for its beautiful writing but criticized for its truncated nature, which leaves room for interpretation and reflection.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article provides a comprehensive overview of the current state of AI development, covering both the challenges and the innovative solutions being explored.
-- It includes specific examples and data to support its claims, making the information more credible and informative.
-- The writing is clear and accessible, making complex technical concepts understandable to a general audience.&lt;/p&gt;
+- The play effectively explores complex themes of love, connection, and the role of AI in a dystopian future.
+- The writing is described as beautiful, engaging, and thought-provoking.
+- The setting and context provide a rich backdrop for deep reflection on current technological trends and their potential impacts.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- Some sections, particularly those discussing the technical details of AI models and infrastructure, could benefit from more detailed explanations or visual aids.
-- The article occasionally veers into promotional content, which can detract from its objectivity.
-- There is a lack of critical analysis of the long-term implications of these massive infrastructure builds and their environmental impact.&lt;/p&gt;
+- The stories are dramatically truncated, which may leave some audience members feeling unsatisfied or confused.
+- The dystopian elements, while powerful, might be too abstract or underdeveloped for some viewers to fully grasp the intended message.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI Researchers and Developers&lt;/strong&gt;: Those working in the field of AI will find the article valuable for staying updated on the latest trends and challenges.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech Enthusiasts&lt;/strong&gt;: Individuals interested in technology and its future developments will appreciate the insights into AI infrastructure and scaling.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Business Leaders&lt;/strong&gt;: Executives and decision-makers in tech companies can benefit from understanding the strategic shifts in the AI industry.&lt;/li&gt;
+&lt;li&gt;Theater enthusiasts interested in futuristic and dystopian themes.&lt;/li&gt;
+&lt;li&gt;Individuals curious about the intersection of technology and human relationships.&lt;/li&gt;
+&lt;li&gt;Students and scholars studying AI ethics, futurology, and social commentary in the arts.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential environmental impacts of building massive data centers, and how can these be mitigated?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How do alternative approaches to scaling AI, such as more processing time and expert-curated data, compare to simply increasing the size of AI models?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What ethical considerations should be taken into account when developing AI agents that can control computers, and how can these be addressed?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 14 Nov 2024 15:41:37 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/em0lwln9v185o6dcvx0o.html</guid></item><item><title>Belt and Braces: When Federated Learning Meets Differential Privacy</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;li&gt;How does the play's portrayal of AI in matchmaking reflect current concerns about technology's role in our personal lives?&lt;/li&gt;
+&lt;li&gt;What ethical implications arise from a society where certain individuals are deemed "undesirable" by an algorithm?&lt;/li&gt;
+&lt;li&gt;In what ways does the play suggest that human connection and love can resist the control of technology and AI?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 14 Nov 2024 21:36:38 GMT</pubDate><guid>https://www.theguardian.com/stage/2024/nov/14/distant-memories-of-the-near-future-review-arcola-theatre</guid></item><item><title>The AI Spy</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Federated Learning (FL)&lt;/li&gt;
-&lt;li&gt;Differential Privacy (DP)&lt;/li&gt;
-&lt;li&gt;Utility Optimization&lt;/li&gt;
+&lt;li&gt;OSINT (Open-Source Intelligence)&lt;/li&gt;
+&lt;li&gt;AI (Artificial Intelligence)&lt;/li&gt;
+&lt;li&gt;Digital Revolution&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article "Belt Braces: When Federated Learning Meets Differential Privacy" explores the integration of federated learning (FL) and differential privacy (DP) to address the challenges of data privacy and utility in large-scale machine learning. FL allows collaborative training of models across distributed datasets without exposing raw data, but it lacks rigorous privacy guarantees. DP, on the other hand, provides a mathematical framework to limit privacy leakage, though it can introduce noise that reduces model utility. The article reviews the benefits and challenges of combining FL and DP, categorizes existing paradigms, and discusses optimization principles to balance privacy and utility. It highlights the potential of this combination in various applications, such as large language models and online federated learning, while acknowledging the need for further research to address issues like robustness, fairness, and the right to be forgotten.&lt;/p&gt;
+&lt;p&gt;The article discusses the evolution and democratization of Open-Source Intelligence (OSINT), a practice traditionally reserved for intelligence agencies and law enforcement. With the advent of the internet and AI, OSINT has become accessible to ordinary citizens, who use it for various purposes, from solving crimes to verifying potential partners. Historically, OSINT has roots in World War II, where radio broadcasts were monitored to gather intelligence. Today, companies and organizations like Bellingcat use OSINT to gain market insights and conduct investigations. AI plays a crucial role by automating data collection and analysis, enabling the processing of vast amounts of information at high speeds. However, the integration of AI in OSINT also raises concerns about data security, privacy, and the potential for biased or inaccurate results. Despite these challenges, experts predict a future where OSINT will be a collaborative effort involving experts, crowds, and AI, each contributing their unique strengths.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article introduces the challenges of data privacy and utility in large-scale machine learning and the potential of combining federated learning (FL) and differential privacy (DP).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Federated Learning Overview&lt;/strong&gt;: Explains how FL works, its benefits, and the challenges it faces, particularly in terms of privacy.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Threats in Federated Learning&lt;/strong&gt;: Discusses various privacy threats in FL, including membership inference and class representative inference, and the role of adversaries.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Related Privacy-Preserving Techniques&lt;/strong&gt;: Reviews cryptographic techniques and their limitations in FL.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Differential Privacy Overview&lt;/strong&gt;: Provides an overview of DP, its mechanisms, and its application in machine learning.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Benefits of Combining FL and DP&lt;/strong&gt;: Highlights how FL and DP complement each other to achieve large-scale distributed learning with strong privacy guarantees.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Research Advances in FL and DP&lt;/strong&gt;: Systematically reviews advances in combining FL and DP, categorizing them into different paradigms and discussing their strengths and weaknesses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Platforms and Tools for FL and DP&lt;/strong&gt;: Lists and describes various software frameworks and platforms that support FL and DP.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Improving Model Utility in FL and DP&lt;/strong&gt;: Discusses optimization techniques to improve the trade-off between model utility and privacy in FL and DP.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Challenges and Discussions&lt;/strong&gt;: Addresses challenges in achieving usable FL and DP, including vertical and transfer federation, large language models, and online federated learning.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Summarizes the key points and emphasizes the need for further research to overcome the challenges in combining FL and DP.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: OSINT techniques are being used by ordinary citizens, often without their awareness, to solve crimes and verify information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Historical Context&lt;/strong&gt;: OSINT has a long history, with roots in World War II, where radio broadcasts were monitored to gather intelligence.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modern OSINT&lt;/strong&gt;: The digital revolution has propelled OSINT to a new level, making it more accessible and powerful.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI in OSINT&lt;/strong&gt;: AI is extending OSINT far beyond human capabilities by automating data collection and analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Expert Insights&lt;/strong&gt;: Experts like Sarah Cammarata and Kurt Luther discuss the benefits and challenges of integrating AI into OSINT.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaborative Future&lt;/strong&gt;: The future of OSINT is seen as a three-legged stool involving experts, crowds, and AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges and Concerns&lt;/strong&gt;: Security, privacy, and the potential for biased results are significant concerns in the integration of AI into OSINT.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Despite challenges, AI is making OSINT techniques increasingly accessible to ordinary citizens.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;4. Overall Recommendation Degree&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
-- Comprehensive overview of the integration of FL and DP.
-- Clear categorization of existing paradigms and research advances.
-- Detailed discussion of optimization principles and challenges.
-- Well-structured and accessible language.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
-- Some sections are dense and may be difficult for non-experts to follow.
-- Limited practical examples and case studies.
-- Some technical details could be more clearly explained.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Comprehensive overview of the evolution and current state of OSINT.
+- Detailed insights from experts in the field.
+- Balanced discussion of the benefits and challenges of integrating AI into OSINT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- Some technical aspects and potential pitfalls of AI in OSINT could be explored in more depth.
+- The article could benefit from more concrete examples of how AI is currently being used in OSINT.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Researchers and practitioners in machine learning and data privacy.&lt;/li&gt;
-&lt;li&gt;Developers working on federated learning and differential privacy systems.&lt;/li&gt;
-&lt;li&gt;Academics and students studying AI and privacy-preserving techniques.&lt;/li&gt;
-&lt;li&gt;Policy makers and regulators interested in data privacy and compliance.&lt;/li&gt;
+&lt;li&gt;Intelligence professionals and law enforcement officers.&lt;/li&gt;
+&lt;li&gt;Journalists and investigative reporters.&lt;/li&gt;
+&lt;li&gt;Tech enthusiasts and AI researchers.&lt;/li&gt;
+&lt;li&gt;Corporate intelligence analysts.&lt;/li&gt;
+&lt;li&gt;General readers interested in technology and its impact on society.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;How can we balance the trade-off between model utility and privacy in federated learning with differential privacy?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Answering this requires understanding the mechanisms of both FL and DP and exploring optimization techniques to minimize noise while maintaining model accuracy.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;What are the key challenges in implementing differential privacy in large-scale federated learning systems, and how can they be addressed?&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This question delves into practical issues such as communication overhead, client dropouts, and the need for robust and fair algorithms.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;How can the combination of federated learning and differential privacy be extended to handle vertical and transfer federated learning scenarios?&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;Addressing this involves understanding the unique challenges of these scenarios and developing specialized algorithms and techniques to ensure privacy and utility.&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 14 Nov 2024 15:40:55 GMT</pubDate><guid>https://cacm.acm.org/research/belt-and-braces-when-federated-learning-meets-differential-privacy/</guid></item></channel></rss>
+&lt;li&gt;How does the integration of AI in OSINT change the dynamics of information gathering and analysis compared to traditional methods?&lt;/li&gt;
+&lt;li&gt;What are the ethical implications of using AI in OSINT, particularly concerning data privacy and security?&lt;/li&gt;
+&lt;li&gt;In what ways can the collaboration between experts, crowds, and AI enhance the effectiveness of OSINT in solving complex problems?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 14 Nov 2024 21:36:11 GMT</pubDate><guid>https://cacm.acm.org/news/the-ai-spy/</guid></item></channel></rss>
