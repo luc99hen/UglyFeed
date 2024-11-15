@@ -1,77 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Distant Memories of the Near Future review – dating dystopia makes you glad to be alive now</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Dystopia&lt;/li&gt;
-&lt;li&gt;AI&lt;/li&gt;
-&lt;li&gt;Love&lt;/li&gt;
+&lt;li&gt;Zed 编辑器&lt;/li&gt;
+&lt;li&gt;VS Code&lt;/li&gt;
+&lt;li&gt;性能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 精炼摘要&lt;/h3&gt;
+&lt;p&gt;本文介绍了 Zed 编辑器作为 VS Code 的潜在替代品。Zed 由原 Atom 编辑器的作者开发，基于 Rust 语言，具有高性能、极简界面和丰富的内置功能。尽管 Zed 在性能上表现出色，但在跨平台支持、功能完整性、设置复杂度等方面仍存在问题。作者认为 Zed 适合那些重视性能且愿意自行解决问题的程序员，未来有可能挑战 VS Code 的主导地位。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;封面图&lt;/strong&gt;：温州江心屿改造工程完成。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VS Code 编辑器的下一站是 Zed？&lt;/strong&gt;：介绍 Zed 编辑器及其优势和问题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;本周软件&lt;/strong&gt;：302.AI 作为一个“AI 应用超市”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;科技动态&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;34阶魔方的3D打印。&lt;/li&gt;
+&lt;li&gt;Ping 时钟的制作。&lt;/li&gt;
+&lt;li&gt;麻雀用于监测铅污染。&lt;/li&gt;
+&lt;li&gt;其他科技新闻。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文章推荐&lt;/strong&gt;：涵盖环境变量管理、AppData 目录、蓝牙版本变化、数据库设计、SAML 协议、质能公式等内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具推荐&lt;/strong&gt;：包括剪贴板管理、Web 框架、翻译服务、网页终端、博客系统等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资源推荐&lt;/strong&gt;：逆向工程教程、iframe 生成器、Chromium 命令行开关、Typst 介绍等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图片&lt;/strong&gt;：犰狳化石和因纽特人的雪镜。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文摘&lt;/strong&gt;：讨论语音 UI 的局限性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;言论&lt;/strong&gt;：关于在线教育、哲学、德国医保、Keras 合并到 TensorFlow、创业文化等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;往年回顾&lt;/strong&gt;：涉及 AI 版权、人生意义、家庭太阳能发电、赛博朋克等话题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. 整体推荐度&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
+- &lt;strong&gt;优点&lt;/strong&gt;：文章结构清晰，内容丰富，涵盖了多个领域的科技动态和资源推荐，对技术爱好者有很高的参考价值。
+- &lt;strong&gt;缺点&lt;/strong&gt;：部分内容较为浅显，缺乏深入的技术分析和实证研究。例如，Zed 编辑器的评测虽然详细，但缺少与其他编辑器的对比数据和具体使用场景的分析。&lt;/p&gt;
+&lt;h3&gt;5. 感兴趣的读者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;程序员&lt;/strong&gt;：特别是对代码编辑器感兴趣的开发者。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;科技爱好者&lt;/strong&gt;：喜欢关注最新科技动态和技术工具的人群。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 研究者&lt;/strong&gt;：对 AI 模型和应用感兴趣的科研人员。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Zed 编辑器的优势和不足分别是什么？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;302.AI 作为一个“AI 应用超市”，其主要功能和应用场景有哪些？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语音 UI 的局限性有哪些？为什么作者认为语音 UI 不会成为通用界面？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 03:49:19 GMT</pubDate><guid>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html</guid></item><item><title>Companies building AI-powered tech are using your posts. Here’s how to opt out</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI-Powered Tech&lt;/li&gt;
+&lt;li&gt;Data Scraping&lt;/li&gt;
+&lt;li&gt;Online Privacy&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;"Distant Memories Near Future" is a theatrical production at the Arcola Theatre in London, featuring four interconnected stories set in 2043. The play explores the themes of love and human connection in a world where an AI-driven dating app promises to find the perfect match for everyone, but with a dark twist: those deemed "undesirable" by the algorithm are excluded. The setting is dystopian, with mandatory advertisements and AI lessons on being human, reflecting a society where technology has encroached deeply into personal lives. The play is beautifully written but dramatically truncated, leaving much to the imagination and inviting deeper reflection on the implications of AI in human relationships.&lt;/p&gt;
+&lt;p&gt;The article discusses the growing trend of companies using AI to build advanced technologies such as search engines, smart email composers, and chatbots. These companies often scrape personal data from social media posts and other online sources to train their AI systems, even when users have not explicitly opted in. This practice raises significant concerns about online privacy and the ethics of data collection. The article emphasizes the need for users to be aware of how their data is being used and provides guidance on how to opt out of data collection on various platforms.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: "Distant Memories Near Future" is a theatrical production at the Arcola Theatre in London, exploring love and connection in a dystopian future.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Setting and Context&lt;/strong&gt;: The year 2043, where a dating app uses AI to find the perfect match for everyone, but excludes those deemed undesirable.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Themes and Stories&lt;/strong&gt;: Four interwoven stories highlight the impact of AI on human relationships and the dystopian elements of a society controlled by algorithms.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dystopian Elements&lt;/strong&gt;: Mandatory advertisements and AI lessons on being human create an Orwellian atmosphere.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Critical Reception&lt;/strong&gt;: The play is praised for its beautiful writing but criticized for its truncated nature, which leaves room for interpretation and reflection.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article introduces the concept of companies using AI to build advanced technologies and the increasing demand for data to train these systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Scraping Practices&lt;/strong&gt;: It explains how companies scrape personal data from social media and other online sources, often without user consent.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Concerns&lt;/strong&gt;: The article highlights the ethical and privacy issues associated with data scraping and the lack of transparency in data collection practices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opt-Out Options&lt;/strong&gt;: It provides guidance on how users can opt out of data collection on various platforms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The article concludes by emphasizing the importance of user awareness and the need for better regulation and transparency in data collection practices.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The play effectively explores complex themes of love, connection, and the role of AI in a dystopian future.
-- The writing is described as beautiful, engaging, and thought-provoking.
-- The setting and context provide a rich backdrop for deep reflection on current technological trends and their potential impacts.&lt;/p&gt;
+- The article effectively raises awareness about the ethical and privacy issues surrounding data scraping for AI.
+- It provides practical steps for users to protect their data.
+- The writing is clear and accessible, making complex issues understandable.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The stories are dramatically truncated, which may leave some audience members feeling unsatisfied or confused.
-- The dystopian elements, while powerful, might be too abstract or underdeveloped for some viewers to fully grasp the intended message.&lt;/p&gt;
+- The article could benefit from more detailed examples of specific companies and their practices.
+- It lacks a deeper analysis of the regulatory landscape and potential solutions beyond individual opt-out options.
+- Some technical aspects of AI training and data scraping could be explained in more depth for a more comprehensive understanding.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Theater enthusiasts interested in futuristic and dystopian themes.&lt;/li&gt;
-&lt;li&gt;Individuals curious about the intersection of technology and human relationships.&lt;/li&gt;
-&lt;li&gt;Students and scholars studying AI ethics, futurology, and social commentary in the arts.&lt;/li&gt;
+&lt;li&gt;Individuals concerned about online privacy and data security.&lt;/li&gt;
+&lt;li&gt;Tech enthusiasts and professionals working in AI and data science.&lt;/li&gt;
+&lt;li&gt;Policymakers and regulators involved in digital privacy laws.&lt;/li&gt;
+&lt;li&gt;Social media users who want to understand how their data is being used.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;How does the play's portrayal of AI in matchmaking reflect current concerns about technology's role in our personal lives?&lt;/li&gt;
-&lt;li&gt;What ethical implications arise from a society where certain individuals are deemed "undesirable" by an algorithm?&lt;/li&gt;
-&lt;li&gt;In what ways does the play suggest that human connection and love can resist the control of technology and AI?&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 14 Nov 2024 21:36:38 GMT</pubDate><guid>https://www.theguardian.com/stage/2024/nov/14/distant-memories-of-the-near-future-review-arcola-theatre</guid></item><item><title>The AI Spy</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;OSINT (Open-Source Intelligence)&lt;/li&gt;
-&lt;li&gt;AI (Artificial Intelligence)&lt;/li&gt;
-&lt;li&gt;Digital Revolution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the evolution and democratization of Open-Source Intelligence (OSINT), a practice traditionally reserved for intelligence agencies and law enforcement. With the advent of the internet and AI, OSINT has become accessible to ordinary citizens, who use it for various purposes, from solving crimes to verifying potential partners. Historically, OSINT has roots in World War II, where radio broadcasts were monitored to gather intelligence. Today, companies and organizations like Bellingcat use OSINT to gain market insights and conduct investigations. AI plays a crucial role by automating data collection and analysis, enabling the processing of vast amounts of information at high speeds. However, the integration of AI in OSINT also raises concerns about data security, privacy, and the potential for biased or inaccurate results. Despite these challenges, experts predict a future where OSINT will be a collaborative effort involving experts, crowds, and AI, each contributing their unique strengths.&lt;/p&gt;
-&lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: OSINT techniques are being used by ordinary citizens, often without their awareness, to solve crimes and verify information.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Historical Context&lt;/strong&gt;: OSINT has a long history, with roots in World War II, where radio broadcasts were monitored to gather intelligence.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Modern OSINT&lt;/strong&gt;: The digital revolution has propelled OSINT to a new level, making it more accessible and powerful.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI in OSINT&lt;/strong&gt;: AI is extending OSINT far beyond human capabilities by automating data collection and analysis.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Expert Insights&lt;/strong&gt;: Experts like Sarah Cammarata and Kurt Luther discuss the benefits and challenges of integrating AI into OSINT.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Collaborative Future&lt;/strong&gt;: The future of OSINT is seen as a three-legged stool involving experts, crowds, and AI.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Challenges and Concerns&lt;/strong&gt;: Security, privacy, and the potential for biased results are significant concerns in the integration of AI into OSINT.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Despite challenges, AI is making OSINT techniques increasingly accessible to ordinary citizens.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- Comprehensive overview of the evolution and current state of OSINT.
-- Detailed insights from experts in the field.
-- Balanced discussion of the benefits and challenges of integrating AI into OSINT.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- Some technical aspects and potential pitfalls of AI in OSINT could be explored in more depth.
-- The article could benefit from more concrete examples of how AI is currently being used in OSINT.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Intelligence professionals and law enforcement officers.&lt;/li&gt;
-&lt;li&gt;Journalists and investigative reporters.&lt;/li&gt;
-&lt;li&gt;Tech enthusiasts and AI researchers.&lt;/li&gt;
-&lt;li&gt;Corporate intelligence analysts.&lt;/li&gt;
-&lt;li&gt;General readers interested in technology and its impact on society.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;How does the integration of AI in OSINT change the dynamics of information gathering and analysis compared to traditional methods?&lt;/li&gt;
-&lt;li&gt;What are the ethical implications of using AI in OSINT, particularly concerning data privacy and security?&lt;/li&gt;
-&lt;li&gt;In what ways can the collaboration between experts, crowds, and AI enhance the effectiveness of OSINT in solving complex problems?&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 14 Nov 2024 21:36:11 GMT</pubDate><guid>https://cacm.acm.org/news/the-ai-spy/</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the potential long-term consequences of companies scraping personal data for AI training without user consent?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can individuals balance the benefits of AI-powered technologies with the risks to their personal privacy?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What role should government and regulatory bodies play in overseeing and regulating data scraping practices?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 03:48:40 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/sep/27/gmail-meta-x-ai-data-privacy</guid></item></channel></rss>
