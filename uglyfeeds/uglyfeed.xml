@@ -1,81 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>更完善的「简悦 · 更新日志」</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Zed 编辑器&lt;/li&gt;
-&lt;li&gt;VS Code&lt;/li&gt;
-&lt;li&gt;性能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. 精炼摘要&lt;/h3&gt;
-&lt;p&gt;本文介绍了 Zed 编辑器作为 VS Code 的潜在替代品。Zed 由原 Atom 编辑器的作者开发，基于 Rust 语言，具有高性能、极简界面和丰富的内置功能。尽管 Zed 在性能上表现出色，但在跨平台支持、功能完整性、设置复杂度等方面仍存在问题。作者认为 Zed 适合那些重视性能且愿意自行解决问题的程序员，未来有可能挑战 VS Code 的主导地位。&lt;/p&gt;
-&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;封面图&lt;/strong&gt;：温州江心屿改造工程完成。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;VS Code 编辑器的下一站是 Zed？&lt;/strong&gt;：介绍 Zed 编辑器及其优势和问题。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;本周软件&lt;/strong&gt;：302.AI 作为一个“AI 应用超市”。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技动态&lt;/strong&gt;：&lt;/li&gt;
-&lt;li&gt;34阶魔方的3D打印。&lt;/li&gt;
-&lt;li&gt;Ping 时钟的制作。&lt;/li&gt;
-&lt;li&gt;麻雀用于监测铅污染。&lt;/li&gt;
-&lt;li&gt;其他科技新闻。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文章推荐&lt;/strong&gt;：涵盖环境变量管理、AppData 目录、蓝牙版本变化、数据库设计、SAML 协议、质能公式等内容。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;工具推荐&lt;/strong&gt;：包括剪贴板管理、Web 框架、翻译服务、网页终端、博客系统等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;资源推荐&lt;/strong&gt;：逆向工程教程、iframe 生成器、Chromium 命令行开关、Typst 介绍等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;图片&lt;/strong&gt;：犰狳化石和因纽特人的雪镜。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文摘&lt;/strong&gt;：讨论语音 UI 的局限性。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;言论&lt;/strong&gt;：关于在线教育、哲学、德国医保、Keras 合并到 TensorFlow、创业文化等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;往年回顾&lt;/strong&gt;：涉及 AI 版权、人生意义、家庭太阳能发电、赛博朋克等话题。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. 整体推荐度&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
-- &lt;strong&gt;优点&lt;/strong&gt;：文章结构清晰，内容丰富，涵盖了多个领域的科技动态和资源推荐，对技术爱好者有很高的参考价值。
-- &lt;strong&gt;缺点&lt;/strong&gt;：部分内容较为浅显，缺乏深入的技术分析和实证研究。例如，Zed 编辑器的评测虽然详细，但缺少与其他编辑器的对比数据和具体使用场景的分析。&lt;/p&gt;
-&lt;h3&gt;5. 感兴趣的读者&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;程序员&lt;/strong&gt;：特别是对代码编辑器感兴趣的开发者。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技爱好者&lt;/strong&gt;：喜欢关注最新科技动态和技术工具的人群。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI 研究者&lt;/strong&gt;：对 AI 模型和应用感兴趣的科研人员。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. 思考题&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Zed 编辑器的优势和不足分别是什么？&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;302.AI 作为一个“AI 应用超市”，其主要功能和应用场景有哪些？&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;语音 UI 的局限性有哪些？为什么作者认为语音 UI 不会成为通用界面？&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 03:49:19 GMT</pubDate><guid>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html</guid></item><item><title>Companies building AI-powered tech are using your posts. Here’s how to opt out</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;AI-Powered Tech&lt;/li&gt;
-&lt;li&gt;Data Scraping&lt;/li&gt;
-&lt;li&gt;Online Privacy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telegram Channel&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RSS Optimization&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Follow Subscription&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the growing trend of companies using AI to build advanced technologies such as search engines, smart email composers, and chatbots. These companies often scrape personal data from social media posts and other online sources to train their AI systems, even when users have not explicitly opted in. This practice raises significant concerns about online privacy and the ethics of data collection. The article emphasizes the need for users to be aware of how their data is being used and provides guidance on how to opt out of data collection on various platforms.&lt;/p&gt;
+&lt;p&gt;The article discusses the latest updates to the Jianyue (简悦) platform, which is primarily used for releasing changelogs and updates. Jianyue has introduced a new platform based on its Telegram Channel to enhance user experience across different network environments. This platform offers real-time updates, consistent content with the Telegram Channel, global CDN for faster access, support for images, permanent links, and search functionality. These improvements aim to make the update information more accessible and user-friendly for Jianyue's growing user base.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article introduces the concept of companies using AI to build advanced technologies and the increasing demand for data to train these systems.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Scraping Practices&lt;/strong&gt;: It explains how companies scrape personal data from social media and other online sources, often without user consent.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Concerns&lt;/strong&gt;: The article highlights the ethical and privacy issues associated with data scraping and the lack of transparency in data collection practices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Opt-Out Options&lt;/strong&gt;: It provides guidance on how users can opt out of data collection on various platforms.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The article concludes by emphasizing the importance of user awareness and the need for better regulation and transparency in data collection practices.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article effectively raises awareness about the ethical and privacy issues surrounding data scraping for AI.
-- It provides practical steps for users to protect their data.
-- The writing is clear and accessible, making complex issues understandable.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could benefit from more detailed examples of specific companies and their practices.
-- It lacks a deeper analysis of the regulatory landscape and potential solutions beyond individual opt-out options.
-- Some technical aspects of AI training and data scraping could be explained in more depth for a more comprehensive understanding.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Individuals concerned about online privacy and data security.&lt;/li&gt;
-&lt;li&gt;Tech enthusiasts and professionals working in AI and data science.&lt;/li&gt;
-&lt;li&gt;Policymakers and regulators involved in digital privacy laws.&lt;/li&gt;
-&lt;li&gt;Social media users who want to understand how their data is being used.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Jianyue's Telegram Channel is the primary channel for updates and changelogs, with over 6K users.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Previous Updates&lt;/strong&gt;: Jianyue has previously optimized RSS and added Follow subscription features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New Platform&lt;/strong&gt;: Introduction of a new platform based on the Telegram Channel, providing consistent and real-time updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Content consistency with the Telegram Channel.&lt;/li&gt;
+&lt;li&gt;Real-time updates.&lt;/li&gt;
+&lt;li&gt;Global CDN for fast access.&lt;/li&gt;
+&lt;li&gt;Support for images from the Telegram Channel.&lt;/li&gt;
+&lt;li&gt;Permanent links for specific posts.&lt;/li&gt;
+&lt;li&gt;Search functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The new platform aims to enhance user experience and accessibility for Jianyue's users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article clearly outlines the new features and improvements, making it easy for users to understand the benefits.
+- The introduction of a new platform based on the Telegram Channel addresses the needs of users in different network environments.
+- The addition of features like global CDN and search functionality enhances user experience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article lacks detailed technical explanations or user testimonials that could provide deeper insights into the effectiveness of the new features.
+- There is no mention of potential issues or limitations with the new platform.
+- The article does not discuss future plans or potential improvements, which could be useful for users and developers.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jianyue Users&lt;/strong&gt;: Current and potential users of the Jianyue platform who want to stay updated on the latest features and improvements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developers&lt;/strong&gt;: Developers interested in creating similar platforms for their own projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Enthusiasts&lt;/strong&gt;: Individuals interested in the latest updates and innovations in tech platforms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential long-term consequences of companies scraping personal data for AI training without user consent?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How can individuals balance the benefits of AI-powered technologies with the risks to their personal privacy?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What role should government and regulatory bodies play in overseeing and regulating data scraping practices?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 03:48:40 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/sep/27/gmail-meta-x-ai-data-privacy</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;How does the new platform based on the Telegram Channel improve the user experience compared to previous methods?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential limitations of the new platform, and how might they be addressed in future updates?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways could the search functionality and global CDN be further optimized to enhance the user experience?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 09:39:34 GMT</pubDate><guid>https://zhuanlan.zhihu.com/p/7035029609</guid></item><item><title>https://store.steampowered.com/app/2716400/The_Rise_of_the_Golden_Idol/ 已出已玩，比前作更上一层楼，冲！ 还可以买 DLC pass，包括 25 年 Q1 - Q3 会出的...</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Rise of the Golden Idol&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DLC Pass&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detective Saga&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;"The Rise of the Golden Idol" is a standalone sequel to the award-winning detective saga, set in the 1970s. The game offers players the opportunity to solve 20 strange cases involving crime, death, and depravity. It builds upon the success of its predecessor, offering enhanced gameplay and a more immersive experience. Additionally, players can purchase a DLC pass that includes four upcoming DLCs, each adding substantial content to the game. The DLC pass is priced the same as the base game, suggesting that the combined content of the DLCs is equivalent to another full game.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: "The Rise of the Golden Idol" is a standalone sequel to the award-winning detective saga.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game Overview&lt;/strong&gt;: Players will uncover the truth behind 20 strange cases of crime, death, and depravity in the 1970s.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhancements&lt;/strong&gt;: The game builds upon the success of its predecessor with improved gameplay and immersion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DLC Pass&lt;/strong&gt;: A DLC pass is available, including four upcoming DLCs that add significant content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pricing&lt;/strong&gt;: The DLC pass is priced the same as the base game, indicating substantial additional content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The game offers a rich and immersive detective experience with 20 unique cases.
+- The DLC pass provides substantial additional content, making it a good value for money.
+- Builds upon the success of its predecessor, enhancing the gameplay.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The summary does not provide detailed information about the specific improvements or new features in the game.
+- There is no mention of player reviews or critical reception, which could help gauge the game's quality.
+- The pricing comparison is somewhat vague and lacks concrete details.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fans of detective games and mystery-solving narratives.&lt;/li&gt;
+&lt;li&gt;Players who enjoyed the previous installment of the series.&lt;/li&gt;
+&lt;li&gt;Gamers looking for a rich and immersive single-player experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What specific improvements does "The Rise of the Golden Idol" offer compared to its predecessor?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How do the four upcoming DLCs enhance the overall gameplay experience, and what new elements do they introduce?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways does the game's setting in the 1970s contribute to the narrative and gameplay mechanics?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 09:39:02 GMT</pubDate><guid>https://t.me/LinghaoCh/895</guid></item></channel></rss>
