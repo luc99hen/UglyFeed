@@ -1,80 +1,125 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>更完善的「简悦 · 更新日志」</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺ChatGPT desktop, explained</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Telegram Channel&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RSS Optimization&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Follow Subscription&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ChatGPT&lt;/li&gt;
+&lt;li&gt;Desktop App&lt;/li&gt;
+&lt;li&gt;AI Integration&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the latest updates to the Jianyue (简悦) platform, which is primarily used for releasing changelogs and updates. Jianyue has introduced a new platform based on its Telegram Channel to enhance user experience across different network environments. This platform offers real-time updates, consistent content with the Telegram Channel, global CDN for faster access, support for images, permanent links, and search functionality. These improvements aim to make the update information more accessible and user-friendly for Jianyue's growing user base.&lt;/p&gt;
+&lt;p&gt;The article discusses recent updates to ChatGPT's desktop applications, particularly focusing on its Mac version. The Mac update allows ChatGPT to "see" and interact with the user's screen, enabling it to read and assist with various applications such as VS Code, Xcode, Terminal, and basic text editors. This integration is designed to enhance productivity by allowing users to receive real-time coding guidance, troubleshooting, and other forms of assistance. The update sets the stage for a more comprehensive "Operator" release in January, which aims to transform ChatGPT into a full-fledged agent capable of acting on behalf of the user. The article also mentions other AI-related news, including Anthropic's security testing with the National Nuclear Security Administration, Pony AI's planned IPO, and Virgin Media O2's AI bot to deter scammers.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Jianyue's Telegram Channel is the primary channel for updates and changelogs, with over 6K users.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Previous Updates&lt;/strong&gt;: Jianyue has previously optimized RSS and added Follow subscription features.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;New Platform&lt;/strong&gt;: Introduction of a new platform based on the Telegram Channel, providing consistent and real-time updates.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;:&lt;/li&gt;
-&lt;li&gt;Content consistency with the Telegram Channel.&lt;/li&gt;
-&lt;li&gt;Real-time updates.&lt;/li&gt;
-&lt;li&gt;Global CDN for fast access.&lt;/li&gt;
-&lt;li&gt;Support for images from the Telegram Channel.&lt;/li&gt;
-&lt;li&gt;Permanent links for specific posts.&lt;/li&gt;
-&lt;li&gt;Search functionality.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The new platform aims to enhance user experience and accessibility for Jianyue's users.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article clearly outlines the new features and improvements, making it easy for users to understand the benefits.
-- The introduction of a new platform based on the Telegram Channel addresses the needs of users in different network environments.
-- The addition of features like global CDN and search functionality enhances user experience.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article lacks detailed technical explanations or user testimonials that could provide deeper insights into the effectiveness of the new features.
-- There is no mention of potential issues or limitations with the new platform.
-- The article does not discuss future plans or potential improvements, which could be useful for users and developers.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Jianyue Users&lt;/strong&gt;: Current and potential users of the Jianyue platform who want to stay updated on the latest features and improvements.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developers&lt;/strong&gt;: Developers interested in creating similar platforms for their own projects.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech Enthusiasts&lt;/strong&gt;: Individuals interested in the latest updates and innovations in tech platforms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;How does the new platform based on the Telegram Channel improve the user experience compared to previous methods?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential limitations of the new platform, and how might they be addressed in future updates?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways could the search functionality and global CDN be further optimized to enhance the user experience?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 09:39:34 GMT</pubDate><guid>https://zhuanlan.zhihu.com/p/7035029609</guid></item><item><title>https://store.steampowered.com/app/2716400/The_Rise_of_the_Golden_Idol/ 已出已玩，比前作更上一层楼，冲！ 还可以买 DLC pass，包括 25 年 Q1 - Q3 会出的...</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The Rise of the Golden Idol&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DLC Pass&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Detective Saga&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;"The Rise of the Golden Idol" is a standalone sequel to the award-winning detective saga, set in the 1970s. The game offers players the opportunity to solve 20 strange cases involving crime, death, and depravity. It builds upon the success of its predecessor, offering enhanced gameplay and a more immersive experience. Additionally, players can purchase a DLC pass that includes four upcoming DLCs, each adding substantial content to the game. The DLC pass is priced the same as the base game, suggesting that the combined content of the DLCs is equivalent to another full game.&lt;/p&gt;
-&lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: "The Rise of the Golden Idol" is a standalone sequel to the award-winning detective saga.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Game Overview&lt;/strong&gt;: Players will uncover the truth behind 20 strange cases of crime, death, and depravity in the 1970s.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enhancements&lt;/strong&gt;: The game builds upon the success of its predecessor with improved gameplay and immersion.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DLC Pass&lt;/strong&gt;: A DLC pass is available, including four upcoming DLCs that add significant content.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pricing&lt;/strong&gt;: The DLC pass is priced the same as the base game, indicating substantial additional content.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Overview of recent AI developments, including ChatGPT's desktop app updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT Windows Update&lt;/strong&gt;: Availability and features of the Windows version.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT Mac Update&lt;/strong&gt;: Detailed explanation of the Mac version's ability to interact with the screen and specific applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Setup Instructions&lt;/strong&gt;: Step-by-step guide to installing and using the Mac update with VS Code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Plans&lt;/strong&gt;: Anticipation of the "Operator" release in January.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional AI News&lt;/strong&gt;: Brief mentions of other AI-related developments, such as Anthropic's security testing, Pony AI's IPO, and Virgin Media O2's AI bot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sponsored Content&lt;/strong&gt;: Recommendations for AI tools and services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Encouragement to support the newsletter and engage with sponsors.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The game offers a rich and immersive detective experience with 20 unique cases.
-- The DLC pass provides substantial additional content, making it a good value for money.
-- Builds upon the success of its predecessor, enhancing the gameplay.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The summary does not provide detailed information about the specific improvements or new features in the game.
-- There is no mention of player reviews or critical reception, which could help gauge the game's quality.
-- The pricing comparison is somewhat vague and lacks concrete details.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- Provides detailed and useful information about the latest updates to ChatGPT's desktop app.
+- Offers practical setup instructions for users.
+- Includes a variety of AI-related news, keeping readers informed about broader industry trends.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- Some sections, particularly the sponsored content, can be distracting and may reduce the article's focus on the main topic.
+- The article could benefit from more in-depth analysis of the implications and potential impact of the new features.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Fans of detective games and mystery-solving narratives.&lt;/li&gt;
-&lt;li&gt;Players who enjoyed the previous installment of the series.&lt;/li&gt;
-&lt;li&gt;Gamers looking for a rich and immersive single-player experience.&lt;/li&gt;
+&lt;li&gt;Developers and programmers looking to enhance their productivity with AI tools.&lt;/li&gt;
+&lt;li&gt;Tech enthusiasts interested in the latest AI developments.&lt;/li&gt;
+&lt;li&gt;Businesses exploring AI solutions for various applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What specific improvements does "The Rise of the Golden Idol" offer compared to its predecessor?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How do the four upcoming DLCs enhance the overall gameplay experience, and what new elements do they introduce?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways does the game's setting in the 1970s contribute to the narrative and gameplay mechanics?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 09:39:02 GMT</pubDate><guid>https://t.me/LinghaoCh/895</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;How might the integration of ChatGPT with development tools like VS Code and Xcode change the way developers approach coding and problem-solving?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential privacy and security concerns associated with an AI application that can 'see' and interact with your desktop?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways could the "Operator" feature, which aims to make ChatGPT a full-fledged agent, revolutionize the way we interact with AI in our daily lives?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 15:41:18 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/0q0y5h0rxv6ph4oviryh.html</guid></item><item><title>AI isn’t about unleashing our imaginations, it’s about outsourcing them. The real purpose is profit</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: AI, Creativity, Outsourcing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Concise Summary&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The article discusses how artificial intelligence (AI) is not merely eroding the rights of authors and creators but is fundamentally designed to replace creative workers. The author reflects on their early experiences with ChatGPT, noting that while the technology can generate various outputs, it lacks the emotional depth and originality that human creativity provides. The article argues that AI-generated content often mimics existing works rather than creating truly innovative or meaningful pieces, suggesting that this technology is more about profit than fostering genuine creativity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Outline&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The author introduces their early experiences with ChatGPT and the initial excitement and uncertainty surrounding AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI's Impact on Creativity&lt;/strong&gt;: The article argues that AI is designed to replace creative workers, not just assist them, and highlights the limitations of AI in producing emotionally resonant and original content.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The author emphasizes that AI-generated content often lacks the complexity and depth of human creativity, leading to a form of "self-murder" in the creative process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Overall Recommendation Degree&lt;/strong&gt;: B&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;ul&gt;
+&lt;li&gt;The article effectively highlights the limitations of AI in creative fields.&lt;/li&gt;
+&lt;li&gt;It provides a personal perspective that adds authenticity to the argument.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The article could benefit from more concrete examples and data to support its claims.&lt;/li&gt;
+&lt;li&gt;The argument could be more balanced by acknowledging potential positive aspects of AI in creativity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who May Be Interested&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Creative professionals (writers, artists, musicians)&lt;/li&gt;
+&lt;li&gt;Tech enthusiasts interested in AI and its applications&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Intellectual property lawyers and policymakers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Thought-Provoking Questions&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;How does the lack of emotional depth in AI-generated content affect its perceived value?&lt;/li&gt;
+&lt;li&gt;Can AI ever truly replicate the complexity and nuance of human creativity, or will it always be limited to mimicry?&lt;/li&gt;
+&lt;li&gt;What are the ethical implications of using AI to replace human creative workers in various industries?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 15:40:50 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit</guid></item><item><title>‘A fork in the road’: laundry-sorting robot spurs AI hopes and fears at Europe’s biggest tech event</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence (AI)&lt;/li&gt;
+&lt;li&gt;Job Displacement&lt;/li&gt;
+&lt;li&gt;Climate Impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;This article from the Web Summit in Lisbon discusses the current state and future implications of AI, focusing on a laundry-sorting robot named Digit. The demonstration showcased AI's advancements but also sparked discussions about its impact on jobs, the environment, and safety. Key debates included the potential displacement of entry-level jobs and the creation of new roles, the energy consumption of data centers, and the ethical concerns surrounding the development of artificial general intelligence (AGI). Experts like Sarah Franklin and Peggy Johnson discussed how AI could reshape workforces and create new job categories. Concerns were raised about the environmental impact, with warnings about the energy demands of AI data centers potentially competing with local communities. Safety and ethical issues were highlighted by Prof. Max Tegmark, who warned of a "fork road" where unrestrained AI development could lead to catastrophic outcomes. The article also touched on the creative industry's resistance to AI and the emergence of new AI-driven businesses.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The Web Summit in Lisbon featured a demonstration of Digit, a humanoid robot from Agility Robotics, showcasing AI's progress.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Security&lt;/strong&gt;: Debates focused on whether AI will displace millions of jobs or create new opportunities, particularly in professional industries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climate Impact&lt;/strong&gt;: Concerns were raised about the energy consumption of AI data centers and their potential to compete with local energy needs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety and Ethics&lt;/strong&gt;: Prof. Max Tegmark warned of the dangers of unrestrained AI development, including the possibility of AGI leading to a dystopian future.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creative Industry&lt;/strong&gt;: Creative professionals, like Steven Knight, discussed the challenges and opportunities AI presents for content creation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future of AI Boom&lt;/strong&gt;: Despite some reports of slowing progress, new AI-driven companies are emerging, creating new business models and opportunities.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Comprehensive coverage of various aspects of AI, including job displacement, climate impact, and ethical concerns.
+- Features expert opinions and real-world examples, providing a balanced view.
+- Highlights both the potential benefits and risks of AI, fostering a nuanced understanding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- Some sections could benefit from more detailed analysis, particularly regarding the technical aspects of AI and specific case studies.
+- The article occasionally touches on multiple topics without delving deeply into any one area, which might leave readers wanting more in-depth information.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tech enthusiasts and professionals in the AI field.&lt;/li&gt;
+&lt;li&gt;Policymakers and regulators concerned with the ethical and environmental impacts of AI.&lt;/li&gt;
+&lt;li&gt;Business leaders and entrepreneurs exploring AI-driven business models.&lt;/li&gt;
+&lt;li&gt;Educators and students studying the future of work and technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential long-term effects of AI on job markets, and how can society prepare for these changes?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can the energy consumption of AI data centers be managed sustainably to minimize environmental impact?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What ethical guidelines should be established to ensure the responsible development and deployment of AI, particularly in the context of AGI?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 15 Nov 2024 15:40:31 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/nov/15/laundry-sorting-robot-digit-web-summit-ai-future</guid></item></channel></rss>
