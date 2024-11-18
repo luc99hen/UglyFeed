@@ -1,2 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>一场泰森拳王比赛就能让上云鼻祖宕机，员工：周末不想加班修bug</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;并发问题&lt;/li&gt;
+&lt;li&gt;直播中断&lt;/li&gt;
+&lt;li&gt;自愈系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 简明总结&lt;/h3&gt;
+&lt;p&gt;文章讲述了Netflix在直播泰森对阵保罗的比赛时遭遇大规模瘫痪的情况，以及该公司在处理并发问题时采取的一种独特方法。尽管Netflix长期以来一直是云计算领域的先锋，但这次直播中断暴露了其在应对高流量场景时的不足。文章详细描述了2017年的一次重大生产事故，当时一个并发bug导致CPU使用率激增，Netflix的工程师通过随机终止实例的方法，成功避免了周末加班，最终在周一部署了修复补丁。这一案例展示了Netflix在面对突发问题时的实用主义和创新精神，但也引发了关于技术债务管理和系统稳定性的重要讨论。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;引言&lt;/strong&gt;：介绍泰森对阵保罗的比赛期间，Netflix平台遭遇大规模瘫痪。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;背景信息&lt;/strong&gt;：解释体育赛事直播在数字媒体时代的重要性，以及Netflix在直播领域的尝试。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;问题描述&lt;/strong&gt;：详细描述直播中断的具体情况和用户反馈。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;历史背景&lt;/strong&gt;：回顾Netflix在云计算领域的成就和地位。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术问题&lt;/strong&gt;：介绍2017年的一次重大生产事故，详细描述并发bug导致的CPU使用率激增。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;解决方案&lt;/strong&gt;：描述Netflix工程师通过随机终止实例的方法解决问题的过程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;企业文化&lt;/strong&gt;：探讨不同企业文化在应对技术问题时的不同反应。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;结论&lt;/strong&gt;：总结事件的意义，强调实用主义和创新精神在技术发展中的重要性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. 推荐等级&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
+- &lt;strong&gt;优点&lt;/strong&gt;：
+  - 文章结构清晰，逻辑严谨，提供了丰富的背景信息和技术细节。
+  - 通过具体案例展示了Netflix在面对技术问题时的实用主义和创新精神。
+  - 引发了关于技术债务管理和系统稳定性的深入讨论。
+- &lt;strong&gt;缺点&lt;/strong&gt;：
+  - 对于非技术读者来说，部分内容可能较为晦涩难懂。
+  - 缺乏对解决方案长期影响的评估，例如随机终止实例的方法是否会在其他场景下适用。&lt;/p&gt;
+&lt;h3&gt;5. 感兴趣的群体&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;技术工程师，特别是从事云计算和系统架构的工程师。&lt;/li&gt;
+&lt;li&gt;企业管理者，尤其是关注技术团队文化和应急响应策略的管理者。&lt;/li&gt;
+&lt;li&gt;对云计算和大型互联网公司技术实践感兴趣的读者。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;并发问题的根源是什么？&lt;/strong&gt;&lt;br /&gt;
+   如何在设计系统时避免类似的并发bug？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Netflix的随机终止实例方法是否适用于所有高并发场景？&lt;/strong&gt;&lt;br /&gt;
+   请分析其优缺点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;企业文化在技术问题解决中的作用是什么？&lt;/strong&gt;&lt;br /&gt;
+   你认为什么样的企业文化最有助于快速有效地解决问题？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 18 Nov 2024 03:50:55 GMT</pubDate><guid>https://www.infoq.cn/article/cjumNhFCeNdqMRUprlzY</guid></item><item><title>Dismissed!</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dismissal&lt;/li&gt;
+&lt;li&gt;Superiority&lt;/li&gt;
+&lt;li&gt;Understanding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the common human tendency to dismiss things or people quickly, often without firsthand experience, to feel superior. This behavior is often public to signal status but can be limiting. The author argues that taking the time to understand different perspectives, even those that initially seem foreign or wrong, can lead to personal growth and a broader appreciation of the world. By listening and engaging with others, one can discover new aspects of life that enrich their own experiences.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Dismissing things or people provides a quick feeling of superiority.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Public Dismissal&lt;/strong&gt;: Publicly dismissing something signals status and can be a social drag.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Hard Work of Understanding&lt;/strong&gt;: Listening to and understanding different perspectives is challenging but rewarding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Growth&lt;/strong&gt;: Engaging with diverse viewpoints expands one's horizons and enriches life.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article effectively highlights the common human behavior of dismissal and its negative impacts.
+- It provides a compelling argument for the importance of understanding and empathy.
+- The personal anecdotes make the article relatable and engaging.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article lacks a structured methodology or empirical evidence to support its claims.
+- The writing style is informal and may not appeal to all readers.
+- It does not provide concrete steps or strategies for overcoming the tendency to dismiss.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Individuals interested in personal development and self-improvement.&lt;/li&gt;
+&lt;li&gt;Psychologists and social scientists studying human behavior and social dynamics.&lt;/li&gt;
+&lt;li&gt;Educators and trainers looking to foster better communication and understanding in their communities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Why do people often feel the need to dismiss things or people they don't understand?&lt;/li&gt;
+&lt;li&gt;How can public dismissal be harmful to both the individual and the community?&lt;/li&gt;
+&lt;li&gt;What are some practical steps one can take to overcome the tendency to dismiss and instead seek to understand different perspectives?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 18 Nov 2024 03:50:24 GMT</pubDate><guid>https://sive.rs/dis</guid></item></channel></rss>
