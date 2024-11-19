@@ -1,37 +1,126 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>AI cloning of celebrity voices outpacing the law, experts warn</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Ignite 2024: Transform your workday with the latest Edge for Business features</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Voice Cloning&lt;/li&gt;
-&lt;li&gt;Fraud&lt;/li&gt;
-&lt;li&gt;Legal Outpacing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Edge Business&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybersecurity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Controls&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the growing issue of voice cloning, where AI technology is being used to mimic the voices of celebrities and public figures for fraudulent purposes. Notable individuals like Jennifer Aniston, Oprah Winfrey, and David Attenborough have had their voices cloned and used in misleading contexts. Experts warn that the rapid advancement in voice-cloning technology is outpacing legal frameworks, making it easier for fraudsters to exploit these sophisticated AI models. The technology has become so advanced that it can emulate even the subtlest nuances of human speech, including pauses and breathing patterns, raising significant ethical and legal concerns.&lt;/p&gt;
+&lt;p&gt;The article discusses the latest features of Microsoft Edge Business, designed to address the evolving challenges of modern work environments, particularly in terms of cybersecurity and AI management. It highlights how Edge Business provides a secure, business-ready browser that meets both security and productivity needs. Key features include robust management tools, AI controls to prevent unauthorized AI use, secure password deployment, and real-time scam detection. The article also emphasizes the importance of keeping the browser up-to-date and managing data security across various devices, including unmanaged ones. Additionally, it introduces new policies and tools for partners to manage customers at scale, such as Microsoft 365 Lighthouse. The article concludes with features like vertical tabs and workspaces to enhance user productivity.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Famous individuals like Jennifer Aniston, Oprah Winfrey, and David Attenborough have had their voices cloned and used fraudulently.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Examples of Misuse&lt;/strong&gt;: Online bloggers and scammers are using AI to create fake voices, such as Martin Lewis's Tiggerish tone and David Attenborough's voice for partisan news bulletins.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Expert Warnings&lt;/strong&gt;: Technological advancements in voice cloning are outpacing legal regulations, making it easier for fraudsters to exploit these tools.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technological Advancements&lt;/strong&gt;: Modern AI models can now replicate the subtlest aspects of human speech, including pauses and breathing patterns.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Modern work environments require flexible, secure, and AI-friendly solutions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Edge Business Secure Enterprise Browser&lt;/strong&gt;: Optimized for security and productivity, pre-installed on Windows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Management Made Simple&lt;/strong&gt;: Robust management solutions for configuring policies and managing Edge Business.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safely Introduce Control AI Organization&lt;/strong&gt;: Comprehensive AI controls and integrated Copilot experience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deploy Encrypted Shared Passwords Ease&lt;/strong&gt;: Secure password deployment to reduce unauthorized access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep Estate Up-to-Date&lt;/strong&gt;: Single view for managing and updating Edge instances.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Protect Microsoft Office Documents Web&lt;/strong&gt;: Enhanced protections for sensitive documents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Support Device, Anywhere&lt;/strong&gt;: Data security across personal and unmanaged devices using Intune MAM.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detect Scams Real Time Scareware Blocker&lt;/strong&gt;: Real-time scam detection using machine learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Management Partners Getting Easier New Policies Microsoft 365 Lighthouse&lt;/strong&gt;: New policies for partners to manage customers at scale.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calm Tab Chaos Clicks&lt;/strong&gt;: Features like vertical tabs and workspaces to enhance productivity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Edge Business is a comprehensive solution for modern work environments.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
-- The article effectively highlights a significant and timely issue.
-- It provides concrete examples of how voice cloning is being misused.
-- The expert warnings add credibility and urgency to the problem.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
-- The article could benefit from more detailed information on current legal efforts to address the issue.
-- It lacks a discussion on potential solutions or preventive measures.
-- The writing style is somewhat fragmented, which can make it harder to follow.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Comprehensive coverage of modern work challenges.
+- Detailed explanation of features and their benefits.
+- Clear and structured presentation of information.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- Some technical details could be more in-depth.
+- Limited discussion on potential drawbacks or limitations of the features.
+- Could benefit from more real-world examples or case studies.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Legal Professionals&lt;/strong&gt;: Those interested in the intersection of technology and law.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Celebrities and Public Figures&lt;/strong&gt;: Individuals concerned about the misuse of their identities.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technology Enthusiasts&lt;/strong&gt;: People interested in the latest developments in AI and their implications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IT Professionals&lt;/strong&gt;: Those responsible for managing enterprise-level cybersecurity and software.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Owners and Managers&lt;/strong&gt;: Individuals looking to improve their organization's digital security and productivity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technology Enthusiasts&lt;/strong&gt;: People interested in the latest advancements in browser technology and AI integration.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;What specific legal measures can be taken to protect individuals from the misuse of voice cloning technology?&lt;/li&gt;
-&lt;li&gt;How can the subtleties of human speech, such as pauses and breathing patterns, be accurately replicated by AI, and what are the ethical implications of this capability?&lt;/li&gt;
-&lt;li&gt;What role should tech companies play in regulating the use of voice cloning technology to prevent fraudulent activities?&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 19 Nov 2024 09:40:49 GMT</pubDate><guid>https://www.theguardian.com/technology/2024/nov/19/ai-cloning-of-celebrity-voices-outpacing-the-law-experts-warn</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;How does Microsoft Edge Business balance security and productivity, and what specific features contribute to this balance?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential risks and benefits of deploying encrypted shared passwords in an organization, and how does Edge Business mitigate these risks?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways does the integration of AI controls in Microsoft Edge Business address the challenges of unauthorized AI use, and how does it compare to other browser solutions?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 19 Nov 2024 15:42:35 GMT</pubDate><guid>https://blogs.windows.com/msedgedev/2024/11/19/microsoft-edge-for-business-transform-your-workday-ignite-2024/</guid></item><item><title>Exploring Gen AI: Copilot's new multi-file editing</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TDD (Test-Driven Development)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Copilot&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generative AI&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article explores the role of Test-Driven Development (TDD) in the era of AI coding assistants, particularly GitHub Copilot. It argues that TDD remains crucial for providing fast and accurate feedback, which is essential when working with AI-generated code. The author highlights how TDD helps in problem-solving through a divide-and-conquer approach, enabling continuous integration and delivery. Despite the capabilities of AI assistants, they often require iterative development and may not always provide the exact functionality needed from a single prompt. The article also provides practical tips for integrating TDD with GitHub Copilot, such as starting with a clear context, using descriptive test names, and leveraging the "red-green-refactor" cycle effectively. Overall, the article emphasizes that TDD complements AI coding assistants, enhancing code quality and maintainability.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article introduces the question of whether TDD will become obsolete with the advent of AI coding assistants like GitHub Copilot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TDD Provides Good Feedback&lt;/strong&gt;: TDD offers fast and accurate feedback, which is essential for both human-written and AI-generated code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TDD Enables Divide-and-Conquer Problem Solving&lt;/strong&gt;: TDD helps break down complex problems into manageable parts, facilitating continuous integration and delivery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Coding Assistants and Iterative Development&lt;/strong&gt;: AI assistants like GitHub Copilot often require iterative development and may not always provide the exact functionality needed from a single prompt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TDD Tips for GitHub Copilot&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Getting Started&lt;/strong&gt;: Start with a clear context and rough notes to guide Copilot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Red Phase&lt;/strong&gt;: Write descriptive test names and use the Given-When-Then structure for better code completion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Green Phase&lt;/strong&gt;: Use an existing expressive test suite to maximize Copilot's potential, and backfill missing tests if necessary.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Refactor Phase&lt;/strong&gt;: Copilot's ability to assist in refactoring is limited, but it can provide useful suggestions for small, localized changes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The article concludes that TDD remains essential for maintaining high code quality and leveraging the capabilities of AI coding assistants effectively.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article provides a comprehensive overview of how TDD and AI coding assistants can complement each other.
+- Practical tips and real-world examples are included, making the content valuable for developers.
+- The author addresses potential concerns about AI's limitations and offers solutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article could benefit from more detailed case studies or empirical data to support its claims.
+- Some sections, particularly those on the limitations of AI, could be expanded for a more balanced view.
+- The writing style is somewhat dense, which might make it challenging for readers unfamiliar with the topic.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software Developers&lt;/strong&gt; interested in integrating AI tools into their workflow.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project Managers&lt;/strong&gt; looking to understand the impact of AI on software development processes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Researchers&lt;/strong&gt; studying the intersection of AI and software engineering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;How does TDD enhance the accuracy and reliability of code generated by AI assistants like GitHub Copilot?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the specific challenges of using AI coding assistants in the "refactor" phase of TDD, and how can these be overcome?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can you provide an example where the "divide-and-conquer" approach in TDD significantly improved the development process when using an AI assistant?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 19 Nov 2024 15:41:59 GMT</pubDate><guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</guid></item><item><title>😺 France made AI free for all</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Le Chat&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mistral AI&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;France's Mistral AI has released a significant update to its AI platform, Le Chat, which includes a 124B parameter model capable of processing images, understanding documents, generating artwork, and even coding in real-time. The model is available for free, making it a powerful tool for developers and enthusiasts. However, early benchmarks suggest that smaller models like Alibaba Cloud's Qwen2-VL 72B might outperform it in certain areas. The article also highlights other AI advancements, such as the release of smaller, efficient models like SmolM2 from HuggingFace, and discusses the ongoing debate about the relationship between model size and performance. Additionally, the article touches on the ethical and practical implications of AI, including its use in creative industries and religious settings.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Overview of recent AI developments and a reminder of the mixed reception of Apple Intelligence's notification summaries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mistral's New AI Release&lt;/strong&gt;: Details about Mistral's 124B parameter model, Le Chat, and its various features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance Debate&lt;/strong&gt;: Discussion of early benchmarks comparing Mistral's model with Alibaba Cloud's Qwen2-VL 72B.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient Models&lt;/strong&gt;: Introduction to smaller, efficient models like SmolM2 from HuggingFace.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Findings&lt;/strong&gt;: Summary of recent research suggesting that larger models do not always perform better when precision is lowered.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethical and Practical Implications&lt;/strong&gt;: Examples of AI in creative industries and religious settings, including the creation of an AI Jesus in a Swiss chapel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional AI News&lt;/strong&gt;: Brief mentions of other AI tools and updates from companies like Adobe and AssemblyAI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Encouragement to support the newsletter and engage with sponsors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- Comprehensive coverage of recent AI developments.
+- Clear and concise explanations of technical aspects.
+- Interesting examples of AI applications in various fields.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- Some sections, particularly the performance debate, could benefit from more detailed analysis.
+- The article occasionally veers into promotional content, which can distract from the main narrative.
+- The ethical implications of AI, especially in sensitive areas like religion, are mentioned but not deeply explored.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI Developers and Enthusiasts&lt;/strong&gt;: Those interested in the latest AI models and platforms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Journalists and Bloggers&lt;/strong&gt;: Individuals covering the tech industry and AI advancements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Researchers and Academics&lt;/strong&gt;: Scholars studying AI ethics and performance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Creative Professionals&lt;/strong&gt;: Artists, musicians, and writers exploring AI tools for their work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential ethical concerns of using AI in religious settings, such as the AI Jesus in the Swiss chapel?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How do smaller, efficient AI models like SmolM2 compare to larger models in terms of performance and practical applications?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the implications of the research suggesting that lowering precision in large language models can lead to performance degradation?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 19 Nov 2024 15:41:26 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/xu8ozj0oxvxenglruqjt.html</guid></item></channel></rss>
