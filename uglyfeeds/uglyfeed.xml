@@ -1,2 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>异星工厂太空时代游戏总结</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;太空时代&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;异星工厂&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自动化&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 精炼总结&lt;/h3&gt;
+&lt;p&gt;本文作者详细回顾了《异星工厂》的最新扩展包“太空时代”，分享了自己300小时的游戏体验。文章首先介绍了2.0版本在基础系统上的改进，特别是远程操作模式和流体系统的优化。随后，作者探讨了品质系统对游戏的影响，以及五个不同星球的独特环境和挑战。整体来看，“太空时代”不仅丰富了游戏内容，还通过精细的设计提升了玩家的体验，解决了多个工厂管理的重复性和复杂性问题。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;引言&lt;/strong&gt;：介绍作者的游戏经历和对“太空时代”的初步感受。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.0 基础系统改进&lt;/strong&gt;：讨论远程操作模式、流体系统和信号控制的优化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;品质系统&lt;/strong&gt;：分析品质系统的特点和对游戏的影响。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;五个星球的探索&lt;/strong&gt;：详细介绍每个星球的独特环境和挑战。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;总结&lt;/strong&gt;：总结“太空时代”的整体体验和对游戏未来的期待。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. 推荐度&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;
+- &lt;strong&gt;优点&lt;/strong&gt;：
+  - 作者对游戏的深度理解和详细分析。
+  - 清晰地介绍了2.0版本的改进和新增功能。
+  - 对每个星球的独特挑战进行了细致的描述。
+- &lt;strong&gt;缺点&lt;/strong&gt;：
+  - 文章篇幅较长，可能对初学者不太友好。
+  - 缺乏对游戏潜在问题的批评和建议。&lt;/p&gt;
+&lt;h3&gt;5. 目标读者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;《异星工厂》的资深玩家&lt;/strong&gt;：对游戏的深度分析和新功能的介绍非常有价值。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;策略游戏爱好者&lt;/strong&gt;：对自动化生产和资源管理感兴趣的玩家。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;游戏开发者&lt;/strong&gt;：对游戏设计和系统优化感兴趣的开发者。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2.0 版本的远程操作模式是如何改善游戏体验的？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;品质系统对游戏的自动化生产线有什么影响？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在“太空时代”中，不同星球的环境设计如何影响玩家的策略选择？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Wed, 20 Nov 2024 09:41:03 GMT</pubDate><guid>https://blog.codingnow.com/2024/11/factorio_spaceage.html</guid></item><item><title>MPs to summon Elon Musk to testify about X’s role in UK summer riots</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Elon Musk&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generative AI&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UK Riots&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;MPs have summoned Elon Musk to testify about the role of X (formerly Twitter) in spreading disinformation during the UK summer riots. The parliamentary inquiry aims to investigate how generative AI and social media algorithms contribute to the spread of harmful content. Senior executives from Meta (Facebook and Instagram) and TikTok are also expected to be called for questioning. The inquiry follows the Southport killings, where false information incited Islamophobic protests. The committee will explore the business models of tech giants that "encourage the spread of content that misleads and harms" and the broader implications of rapid technological advancements on online safety laws. Musk, known for his strong views on free speech, has been critical of the UK government, and the inquiry aims to reconcile his stance with the promotion of disinformation.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: MPs summon Elon Musk to testify about X's role in spreading disinformation during UK summer riots.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The parliamentary inquiry investigates the impact of generative AI and social media algorithms on the spread of harmful content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Southport Killings&lt;/strong&gt;: False information incited Islamophobic protests leading to the deaths of three schoolgirls.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Committee's Focus&lt;/strong&gt;: The inquiry will examine the business models of tech companies and their role in spreading misleading content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Musk's Stance&lt;/strong&gt;: Musk is known for his strong views on free speech but has been critical of the UK government.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Political Context&lt;/strong&gt;: Former Labour minister Peter Mandelson calls for an end to the feud between Musk and the UK government.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platform Shifts&lt;/strong&gt;: Many X users are moving to Bluesky, a new platform, due to concerns over misinformation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Government Response&lt;/strong&gt;: Prime Minister Keir Starmer emphasizes the importance of reaching as many people as possible through social media.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regulatory Actions&lt;/strong&gt;: Ofcom will publish rules under the Online Safety Act to combat illegal harms and mitigate safety risks on social media platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article provides a comprehensive overview of the parliamentary inquiry and its focus on generative AI and social media algorithms.
+- It highlights the significant events, such as the Southport killings, and the role of misinformation in inciting violence.
+- The article includes diverse perspectives, including those of politicians and regulators.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article could benefit from more detailed analysis of the technical aspects of generative AI and how it specifically contributes to the spread of disinformation.
+- Some statements, particularly those attributed to Musk, lack context and could be misleading without additional explanation.
+- The article does not provide a clear conclusion or potential solutions to the issues raised.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Policy Makers and Regulators&lt;/strong&gt;: Those involved in crafting and enforcing online safety laws.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Industry Professionals&lt;/strong&gt;: Individuals working in social media and AI development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journalists and Media Analysts&lt;/strong&gt;: Those covering the intersection of technology and society.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General Public&lt;/strong&gt;: Anyone concerned about the impact of social media on public safety and discourse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;How do generative AI and social media algorithms specifically contribute to the spread of harmful content, and what measures can be taken to mitigate this?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the ethical implications of tech companies' business models that prioritize user engagement over content accuracy and safety?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How can governments balance the promotion of free speech with the need to prevent the spread of disinformation and harmful content on social media platforms?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Wed, 20 Nov 2024 09:40:33 GMT</pubDate><guid>https://www.theguardian.com/media/2024/nov/20/mps-summon-elon-musk-x-role-uk-summer-riots</guid></item></channel></rss>
