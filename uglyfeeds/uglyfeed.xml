@@ -1,2 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Highlighted code in slides</title><description>&lt;br/&gt;&lt;br/&gt;&lt;p&gt;It seems like the content provided is not a complete or coherent article but rather a snippet of text, possibly from a blog post or technical note about code syntax highlighting in slides. However, I will attempt to summarize and analyze the information as requested:&lt;/p&gt;
+&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Syntax Highlighting&lt;/li&gt;
+&lt;li&gt;Code Snippets&lt;/li&gt;
+&lt;li&gt;Slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The author discusses their experience with creating slides for a technical presentation, specifically focusing on the importance of syntax highlighting for code snippets. They mention using Rust as an example and express a desire for the code to be visually appealing and easy to read. The author emphasizes their perfectionism and the attention to detail required to make the slides effective for an audience.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The author introduces their obsession with perfecting slide content, particularly for a P99 CONF presentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Syntax Highlighting&lt;/strong&gt;: The author explains the importance of syntax highlighting for code snippets in slides, using a Rust code example.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perfectionism&lt;/strong&gt;: The author highlights their commitment to making the slides visually appealing and technically accurate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: C&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- The author clearly communicates the importance of syntax highlighting for code in presentations.
+- The use of a specific example (Rust code) helps illustrate the point effectively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- The content is incomplete and lacks depth, making it difficult to fully assess the quality.
+- There are grammatical errors and inconsistencies in the text, which affect readability and professionalism.
+- The article does not provide a comprehensive guide or detailed methodology for achieving syntax highlighting in slides.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Technical writers and presenters who frequently include code snippets in their slides.&lt;/li&gt;
+&lt;li&gt;Developers and programmers who value visual clarity in technical presentations.&lt;/li&gt;
+&lt;li&gt;Individuals preparing for technical conferences or workshops.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Why is syntax highlighting important in technical presentations?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are some tools or methods you can use to achieve syntax highlighting in your slides?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the visual appeal of code in slides impact the audience's understanding and engagement?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If a reader can answer these questions accurately, they have likely understood the key points of the article.&lt;/p&gt;&lt;br/&gt;</description><pubDate>Sat, 23 Nov 2024 21:36:35 GMT</pubDate><guid>https://fasterthanli.me/articles/highlighted-code-in-slides</guid></item></channel></rss>
