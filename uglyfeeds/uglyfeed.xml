@@ -1,2 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>是否应在 Kubernetes上运行Redis？快手这样做！</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;云原生化&lt;/li&gt;
+&lt;li&gt;Kubernetes (K8s)&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 精炼摘要&lt;/h3&gt;
+&lt;p&gt;本文探讨了快手在将 Redis 这类有状态服务迁移到 Kubernetes (K8s) 平台上的实践与思考。文章首先介绍了快手在云原生化方面的背景，指出了有状态服务在 K8s 上运行的潜在风险与收益，包括资源利用率提升、运维效率提高和运维成本降低。接着，文章详细讨论了有状态服务在 K8s 上运行的技术挑战，特别是数据状态和拓扑状态的管理，并介绍了 K8s 社区的解决方案如 StatefulSet 和自定义 Workload + Operator。最后，文章重点描述了快手如何通过 KubeBlocks 项目实现 Redis 在 K8s 上的大规模部署，解决了多分片、数据管理和动态拓扑关系等问题，并通过联邦集群架构降低了上云的复杂度。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;背景&lt;/strong&gt;：快手逐步迈向云原生化，无状态服务已全面实现 K8s 化，但有状态服务的云原生化面临挑战。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;有状态服务是否适合运行在 K8S 上&lt;/strong&gt;：讨论有状态服务在 K8s 上的收益与风险，包括资源利用率提升、运维效率提高和运维成本降低，但也存在性能下降、稳定性和运维复杂度增加的风险。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快手如何将 Redis 运行在 K8S 上&lt;/strong&gt;：介绍快手的 Redis 主从架构，详细描述了如何通过 KubeBlocks 项目实现 Redis 的云原生化，包括分层架构设计、生命周期钩子支持和动态拓扑感知等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;总结&lt;/strong&gt;：快手通过与 KubeBlocks 社区的合作，成功实现了 Redis 的云原生化，未来将继续推动更多有状态服务的云原生化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. 推荐等级&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
+- &lt;strong&gt;优点&lt;/strong&gt;：
+  - 文章内容详尽，逻辑清晰，从背景介绍到具体实施方案，再到最终的总结，结构合理。
+  - 详细讨论了有状态服务在 K8s 上运行的利弊，提供了丰富的技术细节和实际案例。
+  - 结合快手的实际经验，具有很高的参考价值。
+- &lt;strong&gt;缺点&lt;/strong&gt;：
+  - 部分技术细节较为复杂，对于初学者可能有一定的理解难度。
+  - 某些部分内容（如 kube-shield 系统）未做深入探讨，留有悬念。&lt;/p&gt;
+&lt;h3&gt;5. 感兴趣的读者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;云计算和 Kubernetes 技术爱好者&lt;/li&gt;
+&lt;li&gt;有状态服务（如数据库、缓存）的运维工程师&lt;/li&gt;
+&lt;li&gt;企业 IT 架构师和技术决策者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;为什么有状态服务在 Kubernetes 上运行会面临性能下降和稳定性影响的风险？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快手是如何通过 KubeBlocks 项目解决 Redis 多分片和动态拓扑关系管理的问题的？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在将有状态服务迁移到 Kubernetes 时，如何平衡资源利用率提升和运维复杂度增加的矛盾？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 25 Nov 2024 09:45:07 GMT</pubDate><guid>https://www.infoq.cn/article/EbcusQOquVDdJ4evSOjA</guid></item><item><title>Russia plotting to use AI to enhance cyber-attacks against UK, minister will warn</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cyber-attacks&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Russia&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;Cabinet Minister Pat McFadden warned at a NATO conference in London that Russia is planning to use artificial intelligence to enhance cyber-attacks against the UK's critical infrastructure, including the electricity grid. To counter this threat, the UK is establishing the Laboratory for AI Security Research (LASR) in London, funded with £8.2 million, in collaboration with GCHQ and other government agencies. McFadden emphasized that the UK is already engaged in a "daily reality" of cyberwar, with Russia stepping up its hacking efforts over the past year, particularly targeting NATO allies supporting Ukraine. He also noted that while Russia has previously conducted cyber-attacks on Ukrainian power networks, the UK must be prepared for similar threats, as AI could be weaponized to cause widespread disruptions.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Cabinet Minister Pat McFadden warns about Russia's plans to use AI to enhance cyber-attacks against the UK.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Threat Assessment&lt;/strong&gt;: Russia's recent increase in cyber-attacks and the potential for targeting critical infrastructure like the electricity grid.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Response&lt;/strong&gt;: The UK's creation of the Laboratory for AI Security Research (LASR) to combat emerging threats.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Historical Context&lt;/strong&gt;: Previous Russian cyber-attacks on Ukrainian power networks and the ongoing cyberwar between Russia and the UK.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Global Implications&lt;/strong&gt;: The broader threat of AI in cyber warfare and the involvement of other nations like North Korea.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration and Funding&lt;/strong&gt;: The role of GCHQ and the private sector in supporting the new lab.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article provides a clear and concise warning about the potential use of AI in cyber-attacks by Russia.
+- It highlights the UK's proactive measures, such as the establishment of LASR, to address these threats.
+- The historical context of Russian cyber-attacks on Ukraine adds credibility to the current warnings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article lacks detailed technical information on how AI might be used in these cyber-attacks.
+- It does not provide specific examples of recent Russian cyber-attacks on the UK.
+- The article could benefit from more expert opinions or data to support the claims.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Government Officials and Policymakers&lt;/strong&gt;: Those responsible for national security and cybersecurity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybersecurity Experts&lt;/strong&gt;: Professionals working in the field of cybersecurity and AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journalists and Media&lt;/strong&gt;: Reporters covering international relations and technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academics and Researchers&lt;/strong&gt;: Scholars studying cyber warfare and AI applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What specific ways can AI enhance the capabilities of cyber-attacks, and how can these be mitigated?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the UK's response to potential Russian cyber-attacks compare to other NATO countries' strategies?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the ethical implications of using AI in cyber warfare, and how should international laws adapt to address these issues?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Mon, 25 Nov 2024 09:44:33 GMT</pubDate><guid>https://www.theguardian.com/world/2024/nov/25/russia-plotting-to-use-ai-to-enhance-cyber-attacks-against-uk-minister-will-warn</guid></item></channel></rss>
