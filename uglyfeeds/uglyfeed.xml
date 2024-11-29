@@ -1,2 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>科技爱好者周刊（第 327 期）：没有链接的互联网</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;互联网平台&lt;/li&gt;
+&lt;li&gt;链接限制&lt;/li&gt;
+&lt;li&gt;生态变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 摘要&lt;/h3&gt;
+&lt;p&gt;本文探讨了互联网平台逐渐限制外部链接的现象及其潜在影响。自2017年起，Facebook等大型平台开始减少带有外部链接的帖子的曝光率，以防止用户跳转到其他网站。随后，Twitter和其他平台也采取了类似措施，进一步限制链接的使用。文章指出，这种趋势可能导致独立网站消失、数字出版行业终结、域名价值下降、网络托管业务收缩、独立广告业消失、SEO无用以及信息表面化等问题。未来，随着AI技术的发展，这种趋势可能会更加明显，彻底改变互联网生态。&lt;/p&gt;
+&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;封面图&lt;/strong&gt;：杭州“稻田CBD”迎来丰收，展示城市与田园的融合。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;没有链接的互联网&lt;/strong&gt;：介绍互联网平台限制外部链接的背景和原因。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;七大后果&lt;/strong&gt;：列举并解释没有链接的互联网可能带来的七种后果。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;本周软件&lt;/strong&gt;：介绍扣子Project IDE，一个低代码的AI应用开发平台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;科技动态&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;露西50周年&lt;/strong&gt;：回顾人类祖先化石“露西”的发现及其科学意义。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;鲨鱼皮飞机膜&lt;/strong&gt;：瑞士航空在飞机表面贴上鲨鱼皮膜，减少空气阻力，节省燃油。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;宽带标准&lt;/strong&gt;：FCC提高宽带标准，定义新的最低速度要求。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其他动态&lt;/strong&gt;：包括微软Teams克隆声音、Starlink手机卫星上网、新加坡推出净化污水啤酒等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文章推荐&lt;/strong&gt;：推荐多篇关于技术、工具和资源的文章。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具推荐&lt;/strong&gt;：介绍多个开源工具和插件。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI相关&lt;/strong&gt;：推荐几个AI相关的工具和插件。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资源推荐&lt;/strong&gt;：推荐GitHub Insights Pro等数据分析和可视化平台。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图片&lt;/strong&gt;：展示比亚迪工厂与特斯拉工厂的对比，以及1973年向M13星团发送的二进制消息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文摘&lt;/strong&gt;：讨论高效率时段的管理策略。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;言论&lt;/strong&gt;：引用几位专家的观点，涉及高铁计划、Linux支持期、法律语言、电视交响音乐和斐波那契数列。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;往年回顾&lt;/strong&gt;：回顾往期周刊的内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. 推荐度&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;
+- &lt;strong&gt;优点&lt;/strong&gt;：文章内容丰富，涵盖多个领域的最新动态和技术趋势，逻辑清晰，信息准确。
+- &lt;strong&gt;缺点&lt;/strong&gt;：部分段落较为简略，缺乏深入分析；某些观点可能过于悲观，需要更多实证支持。&lt;/p&gt;
+&lt;h3&gt;5. 目标读者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;科技爱好者&lt;/li&gt;
+&lt;li&gt;互联网从业者&lt;/li&gt;
+&lt;li&gt;AI开发者&lt;/li&gt;
+&lt;li&gt;数据分析师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. 思考题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;为什么大型互联网平台限制外部链接？&lt;/strong&gt; 这种做法对平台自身和用户分别有什么影响？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;没有链接的互联网会对哪些行业造成最大冲击？&lt;/strong&gt; 请列举并解释原因。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你认为未来互联网平台是否会继续加强对外部链接的限制？&lt;/strong&gt; 请结合AI技术的发展趋势进行分析。&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 29 Nov 2024 03:50:40 GMT</pubDate><guid>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html</guid></item></channel></rss>
