@@ -1,46 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>科技爱好者周刊（第 327 期）：没有链接的互联网</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>痛风</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;互联网平台&lt;/li&gt;
-&lt;li&gt;链接限制&lt;/li&gt;
-&lt;li&gt;生态变化&lt;/li&gt;
+&lt;li&gt;痛风&lt;/li&gt;
+&lt;li&gt;攀岩&lt;/li&gt;
+&lt;li&gt;尿酸&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. 摘要&lt;/h3&gt;
-&lt;p&gt;本文探讨了互联网平台逐渐限制外部链接的现象及其潜在影响。自2017年起，Facebook等大型平台开始减少带有外部链接的帖子的曝光率，以防止用户跳转到其他网站。随后，Twitter和其他平台也采取了类似措施，进一步限制链接的使用。文章指出，这种趋势可能导致独立网站消失、数字出版行业终结、域名价值下降、网络托管业务收缩、独立广告业消失、SEO无用以及信息表面化等问题。未来，随着AI技术的发展，这种趋势可能会更加明显，彻底改变互联网生态。&lt;/p&gt;
+&lt;h3&gt;2. 概要&lt;/h3&gt;
+&lt;p&gt;本文记录了作者因痛风导致的左脚大拇指疼痛及其对攀岩活动的影响。作者提到自己几年前体检发现尿酸过高，并已采取饮食控制措施。此次痛风发作与食用大闸蟹有关，症状持续约一周后逐渐缓解。作者随后参加了英西野攀活动，尽管左脚疼痛，但仍尝试了一些较为简单的攀岩线路。通过这次经历，作者意识到脚趾在攀岩中的重要性，并从中获得了一些新的攀岩技巧。&lt;/p&gt;
 &lt;h3&gt;3. 文章大纲&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;封面图&lt;/strong&gt;：杭州“稻田CBD”迎来丰收，展示城市与田园的融合。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;没有链接的互联网&lt;/strong&gt;：介绍互联网平台限制外部链接的背景和原因。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;七大后果&lt;/strong&gt;：列举并解释没有链接的互联网可能带来的七种后果。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;本周软件&lt;/strong&gt;：介绍扣子Project IDE，一个低代码的AI应用开发平台。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技动态&lt;/strong&gt;：&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;露西50周年&lt;/strong&gt;：回顾人类祖先化石“露西”的发现及其科学意义。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;鲨鱼皮飞机膜&lt;/strong&gt;：瑞士航空在飞机表面贴上鲨鱼皮膜，减少空气阻力，节省燃油。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;宽带标准&lt;/strong&gt;：FCC提高宽带标准，定义新的最低速度要求。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;其他动态&lt;/strong&gt;：包括微软Teams克隆声音、Starlink手机卫星上网、新加坡推出净化污水啤酒等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文章推荐&lt;/strong&gt;：推荐多篇关于技术、工具和资源的文章。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;工具推荐&lt;/strong&gt;：介绍多个开源工具和插件。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI相关&lt;/strong&gt;：推荐几个AI相关的工具和插件。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;资源推荐&lt;/strong&gt;：推荐GitHub Insights Pro等数据分析和可视化平台。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;图片&lt;/strong&gt;：展示比亚迪工厂与特斯拉工厂的对比，以及1973年向M13星团发送的二进制消息。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文摘&lt;/strong&gt;：讨论高效率时段的管理策略。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;言论&lt;/strong&gt;：引用几位专家的观点，涉及高铁计划、Linux支持期、法律语言、电视交响音乐和斐波那契数列。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;往年回顾&lt;/strong&gt;：回顾往期周刊的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;引言&lt;/strong&gt;：描述了作者在十月底带孩子去岩馆抱石时感到左脚大拇指疼痛。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;痛风症状及治疗&lt;/strong&gt;：详细描述了痛风的症状、可能的原因（如食用大闸蟹），以及症状的缓解过程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;英西野攀活动&lt;/strong&gt;：介绍了英西野攀的背景，包括一起安全事故导致的政策变化，以及作者参加此次活动的情况。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;攀岩经历&lt;/strong&gt;：详细描述了作者在英西野攀的具体经历，包括在不同线路上的表现和感受。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;总结与反思&lt;/strong&gt;：总结了此次攀岩活动的收获，特别是关于脚趾在攀岩中的重要性的认识。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;4. 推荐度&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;
-- &lt;strong&gt;优点&lt;/strong&gt;：文章内容丰富，涵盖多个领域的最新动态和技术趋势，逻辑清晰，信息准确。
-- &lt;strong&gt;缺点&lt;/strong&gt;：部分段落较为简略，缺乏深入分析；某些观点可能过于悲观，需要更多实证支持。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;：
+- &lt;strong&gt;优点&lt;/strong&gt;：文章内容丰富，结构清晰，详细记录了作者的个人经历和感受。通过具体的例子，展示了痛风对日常生活和运动的影响。
+- &lt;strong&gt;缺点&lt;/strong&gt;：文章缺乏对痛风的医学知识的深入探讨，例如痛风的成因、预防和治疗等。此外，文章在逻辑上有些跳跃，例如从痛风直接跳到攀岩活动，缺少过渡。部分描述过于个人化，可能对读者的普适性较低。&lt;/p&gt;
 &lt;h3&gt;5. 目标读者&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;科技爱好者&lt;/li&gt;
-&lt;li&gt;互联网从业者&lt;/li&gt;
-&lt;li&gt;AI开发者&lt;/li&gt;
-&lt;li&gt;数据分析师&lt;/li&gt;
+&lt;li&gt;对痛风有兴趣或受其影响的人&lt;/li&gt;
+&lt;li&gt;攀岩爱好者&lt;/li&gt;
+&lt;li&gt;喜欢户外活动和冒险的人&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. 思考题&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;为什么大型互联网平台限制外部链接？&lt;/strong&gt; 这种做法对平台自身和用户分别有什么影响？&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;没有链接的互联网会对哪些行业造成最大冲击？&lt;/strong&gt; 请列举并解释原因。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你认为未来互联网平台是否会继续加强对外部链接的限制？&lt;/strong&gt; 请结合AI技术的发展趋势进行分析。&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 29 Nov 2024 03:50:40 GMT</pubDate><guid>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;痛风的主要成因是什么？如何通过饮食控制来预防痛风发作？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者在攀岩过程中是如何克服左脚疼痛的？你认为这种应对方法是否有效？&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;为什么脚趾在攀岩中如此重要？你能想到哪些替代的方法来减少脚趾的负担？&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 29 Nov 2024 09:41:24 GMT</pubDate><guid>https://blog.codingnow.com/2024/11/podalgia.html</guid></item><item><title>Hum by Helen Phillips review – an all-too-plausible vision of the future</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hum&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adversarial AI&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental Degradation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;"Hum" by Helen Phillips presents a dystopian future where a family struggles to cope with environmental degradation and technological advancements. The protagonist, May, loses her job to humanoid robots called "hums" and agrees to participate in an experimental facial injection to earn money. The injection alters her appearance, making her unrecognizable to the hums, which are designed to process and recognize human faces. Her husband, Jem, works odd jobs through an app, while their children, Lu and Sy, are addicted to individual isolation chambers called "wooms." The city they live in is plagued by toxic air, contaminated water, and the extinction of flora and fauna, reflecting a world where technology has outpaced ethical considerations and environmental stewardship.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The novel introduces a dystopian future where a family tries to survive in a polluted city.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May's Job Loss&lt;/strong&gt;: May loses her office job due to the rise of humanoid robots called "hums."&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experimental Injection&lt;/strong&gt;: May agrees to an experimental facial injection to earn money, which alters her appearance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jem's Gig Work&lt;/strong&gt;: Jem takes on various odd jobs through an app to make ends meet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Family Dynamics&lt;/strong&gt;: The family's life is described, highlighting their addiction to devices and the impact of environmental degradation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental State&lt;/strong&gt;: The city is depicted as a toxic and dying place, with poisoned air, contaminated water, and extinct wildlife.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The novel explores the consequences of unchecked technological advancement and environmental neglect.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- The novel effectively paints a vivid and plausible dystopian future.
+- It raises important questions about the ethical implications of technology and environmental degradation.
+- The characters are well-developed, and their struggles are relatable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- Some readers might find the pacing slow, especially in the middle sections.
+- The resolution of the plot could be more satisfying or conclusive.
+- The novel sometimes delves into overly technical explanations of the technology, which might lose some readers.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fans of dystopian and speculative fiction.&lt;/li&gt;
+&lt;li&gt;Readers interested in the ethical implications of artificial intelligence and technology.&lt;/li&gt;
+&lt;li&gt;Environmentalists and those concerned about climate change and its impact on society.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What ethical considerations should guide the development and deployment of advanced technologies like the "hums"?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the novel explore the relationship between environmental degradation and societal collapse?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways does the family's reliance on devices and isolation chambers reflect broader societal trends in the real world?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 29 Nov 2024 09:40:58 GMT</pubDate><guid>https://www.theguardian.com/books/2024/nov/29/hum-by-helen-phillips-review-an-all-too-plausible-vision-of-the-future</guid></item></channel></rss>
