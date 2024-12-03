@@ -1,2 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Datagram Forwarding Considered Harmful</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Datagram Forwarding&lt;/li&gt;
+&lt;li&gt;Structured Networking&lt;/li&gt;
+&lt;li&gt;Invariants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article draws an analogy between the use of "go" statements in programming and datagram forwarding in network communication, both of which can introduce complexity and weaken invariants. Just as Dijkstra argued against the unbridled use of "go" statements, the author suggests that unstructured datagram forwarding can make it difficult to maintain correctness and security in network communications. The article explores how the lack of knowledge about datagram senders affects network operations and the need for structured networking to manage this complexity. The author discusses the role of Network Address Translation (NAT) in imposing a hierarchical structure on wide-area communication and the challenges of introducing more structured approaches like Content Centric Networking.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Draws an analogy between "go" statements in programming and datagram forwarding in network communication.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dijkstra's Argument&lt;/strong&gt;: Explains Dijkstra's critique of "go" statements and their impact on program complexity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Datagram as Mobile Process&lt;/strong&gt;: Compares datagrams to mobile processes, highlighting the role of header fields and the payload.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Invariants in Datagram Transmission&lt;/strong&gt;: Discusses the importance of invariants in datagram transmission and the challenges posed by unknown senders.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sender Knowledge in Different Network Contexts&lt;/strong&gt;: Examines how the level of knowledge about senders varies from local to wide-area networks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact of Lack of Sender Knowledge&lt;/strong&gt;: Outlines the benefits and drawbacks of not maintaining sender knowledge, particularly in terms of network cost and security.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structured vs. Unstructured Routing&lt;/strong&gt;: Suggests that structured networking, similar to structured programming, could help manage the complexity of datagram forwarding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network Address Translation (NAT)&lt;/strong&gt;: Discusses the role of NAT in imposing structure on wide-area communication and its implications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges of Structured Networking&lt;/strong&gt;: Highlights the intellectual and practical challenges of creating a structured wide-area network.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Calls for a reevaluation of unstructured routing and the potential for more structured approaches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article provides a thoughtful and well-structured comparison between programming concepts and network communication.
+- It effectively uses Dijkstra's argument to frame the discussion and highlight the importance of invariants in both domains.
+- The author raises important questions about the future of network design and the role of structured approaches.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article does not provide concrete solutions or detailed methodologies for implementing structured networking.
+- Some technical terms and concepts are not fully explained, which may make the article less accessible to a broader audience.
+- The discussion of NAT and its effects is somewhat brief and could benefit from more in-depth analysis.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Network engineers and researchers interested in network design and security.&lt;/li&gt;
+&lt;li&gt;Computer scientists and programmers familiar with structured programming concepts.&lt;/li&gt;
+&lt;li&gt;Policy makers and technology leaders concerned with the future of the internet and cybersecurity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;How does the lack of sender knowledge in datagram forwarding affect the security and reliability of network communications?&lt;/li&gt;
+&lt;li&gt;What are the potential benefits and drawbacks of introducing structured networking approaches like NAT or Content Centric Networking?&lt;/li&gt;
+&lt;li&gt;How can the principles of structured programming be applied to improve the design and management of wide-area networks?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 03 Dec 2024 03:52:20 GMT</pubDate><guid>https://cacm.acm.org/blogcacm/datagram-forwarding-considered-harmful/</guid></item><item><title>MIRI’s 2024 End-of-Year Update</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI Alignment&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Funding Reserves&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policymaker Awareness&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The Machine Intelligence Research Institute (MIRI) has shifted its focus from technical AI alignment research to raising awareness among policymakers and the public about the risks of advanced AI. This strategic pivot is driven by the belief that without international government intervention to pause frontier AI research, an extinction-level catastrophe is highly likely. MIRI has scaled back its alignment research program and is now investing in hiring and training new staff for communications and technical governance roles. Despite not running a formal fundraiser since 2019, MIRI has sufficient reserves to fund its activities for the next two years. However, the organization remains uncertain about future funding and is seeking donations and feedback from potential supporters to gauge interest in its new strategy.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: MIRI provides an end-of-year update on its current status, strategic shifts, and funding situation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About MIRI&lt;/strong&gt;: Overview of MIRI's 24-year history, focusing on the technical challenges of building safe AI systems and the shift towards raising awareness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Shifts&lt;/strong&gt;: MIRI has pivoted from technical alignment research to informing policymakers and the public about AI risks, due to the perceived likelihood of an extinction-level catastrophe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recent Developments&lt;/strong&gt;: Details on scaling back alignment research, hiring new staff, and developing new projects and resources.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Funding Status&lt;/strong&gt;: MIRI has not needed to raise additional funds since 2019 due to sufficient reserves, but remains uncertain about future funding and is soliciting donations and feedback.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: MIRI thanks contributors and encourages further support and engagement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article clearly outlines MIRI's strategic shift and provides a detailed explanation of the reasoning behind it.
+- It offers transparency regarding the organization's financial status and future plans.
+- The content is well-structured and easy to follow, making it accessible to a broad audience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article could benefit from more concrete examples or case studies to illustrate the new focus areas.
+- There is some repetition in the discussion of the funding situation, which could be streamlined.
+- The article does not provide a comprehensive list of the specific risks associated with advanced AI, which might be helpful for readers unfamiliar with the topic.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Policy Makers and Government Officials&lt;/strong&gt;: Those responsible for regulating AI development and implementation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Researchers and Ethicists&lt;/strong&gt;: Professionals and academics interested in the ethical implications of AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Donors and Philanthropists&lt;/strong&gt;: Individuals or organizations considering supporting AI safety initiatives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General Public&lt;/strong&gt;: People concerned about the future impacts of AI on society.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What specific steps can policymakers take to address the risks of advanced AI, as suggested by MIRI's new strategy?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does MIRI's shift from technical research to awareness-raising reflect broader changes in the AI safety community?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential challenges MIRI might face in transitioning to a new funding model focused on communications and policy efforts?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 03 Dec 2024 03:51:37 GMT</pubDate><guid>https://intelligence.org/2024/12/02/miris-2024-end-of-year-update/</guid></item></channel></rss>
