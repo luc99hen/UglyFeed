@@ -1,82 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Can We Predict Earthquakes?</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>相见恨晚！One of the best research into the fundamentals of LLM capabilities I’ve seen. This talk is a great summarized version. #llm https://youtu.b...</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Earthquake Prediction&lt;/li&gt;
-&lt;li&gt;Artificial Intelligence (AI)&lt;/li&gt;
-&lt;li&gt;Seismic Data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLM (Large Language Models)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Physics Language Models&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthetic Data&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article discusses the challenges and recent advancements in earthquake prediction. Despite the USGS's stance that earthquakes cannot be predicted, researchers from the University of Texas at Austin have used AI to predict earthquakes with 70% accuracy in southwestern China. The team utilized the AETA system, which collects real-time seismic data, and applied machine learning techniques to forecast the location and magnitude of earthquakes up to a week in advance. While this breakthrough is promising, it needs further testing in other seismically active regions to determine its generalizability. The USGS acknowledges the research as a first step but emphasizes the need for rigorous testing before any changes to their official stance on earthquake prediction.&lt;/p&gt;
+&lt;p&gt;The article discusses a tutorial from ICML 2024 that focuses on the capabilities of Large Language Models (LLMs) in understanding and generating physics-related content. The authors explore the concept of intelligence across multiple dimensions, such as language structures, knowledge, and reasoning. They propose using synthetic data for pre-training LLMs to enhance their understanding and performance in these dimensions. The project page provides additional resources and readings for those interested in delving deeper into the topic.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Earthquakes are among the deadliest natural disasters, causing significant loss of life and property.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Challenges in Prediction&lt;/strong&gt;: The USGS states that earthquakes cannot be predicted due to their sudden and complex nature.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Recent Breakthrough&lt;/strong&gt;: Researchers at the University of Texas at Austin used AI to predict earthquakes with 70% accuracy in southwestern China.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Methodology&lt;/strong&gt;: The team analyzed real-time seismic data from the AETA system, which uses acoustic and electromagnetic sensors.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt;: The AI models were able to predict the occurrence and magnitude of earthquakes up to a week in advance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Generalizability&lt;/strong&gt;: The method needs to be tested in other seismically active regions to determine its broader applicability.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;USGS Response&lt;/strong&gt;: The USGS acknowledges the research as a first step but emphasizes the need for further testing and validation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: While the results are promising, more research is needed to develop a reliable and globally applicable earthquake prediction system.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
-- The article provides a clear and detailed explanation of the recent breakthrough in earthquake prediction using AI.
-- It highlights the challenges and the current limitations of the research, maintaining a balanced perspective.
-- The inclusion of expert opinions and the USGS's response adds credibility and depth to the discussion.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
-- The article could benefit from more detailed technical explanations of the AI models and the AETA system.
-- The potential implications of the research for policy and public safety are not fully explored.
-- The article does not discuss the ethical considerations or potential misuses of earthquake prediction technology.&lt;/p&gt;
-&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Seismologists and geologists&lt;/li&gt;
-&lt;li&gt;Researchers in AI and machine learning&lt;/li&gt;
-&lt;li&gt;Government agencies responsible for disaster management&lt;/li&gt;
-&lt;li&gt;Environmental policymakers&lt;/li&gt;
-&lt;li&gt;General readers interested in natural disasters and technological advancements&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What are the key differences between the traditional methods of earthquake prediction and the AI-based approach described in the article?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How might the successful replication of this AI-based earthquake prediction method in other regions impact global disaster preparedness and response strategies?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What ethical considerations should be taken into account when developing and implementing earthquake prediction technologies?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Tue, 03 Dec 2024 21:38:14 GMT</pubDate><guid>https://cacm.acm.org/news/can-we-predict-earthquakes/</guid></item><item><title>Finding Roles in a Team with Generative AI</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Generative AI&lt;/li&gt;
-&lt;li&gt;Problem Solving&lt;/li&gt;
-&lt;li&gt;Roles&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;The article explores how Generative AI can be used as a tool to structure and solve complex problems by breaking them down into manageable parts. It highlights the evolution of internet search and how it has influenced our approach to finding information. The authors encourage readers to use Generative AI not just for quick answers but to explore different aspects of a problem or project, such as the various roles needed in product design. By considering multiple viewpoints and aspects, Generative AI can help ensure a more comprehensive and effective solution. The article also emphasizes the importance of understanding and taking responsibility for all parts of a project, even those that might be outsourced.&lt;/p&gt;
-&lt;h3&gt;3. Outline&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article begins by discussing the evolution of internet search and how it has shaped our approach to finding information.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Generative AI as a Structuring Tool&lt;/strong&gt;: It introduces Generative AI as a tool for structuring and solving problems by breaking them down into parts.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Example of Product Design&lt;/strong&gt;: The article provides a detailed example of how Generative AI can identify and explain the various roles needed in product design.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Importance of Understanding All Parts&lt;/strong&gt;: It emphasizes the importance of understanding and taking responsibility for all aspects of a project, even those that might be outsourced.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Encouragement for Problem Solvers&lt;/strong&gt;: The authors encourage problem solvers to use Generative AI to consider different perspectives and aspects of a problem.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The article concludes by summarizing the benefits of using Generative AI as a structuring tool and hints at future discussions on AI and problem-solving.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The article introduces a tutorial from ICML 2024 on Physics Language Models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dimensions of Intelligence&lt;/strong&gt;: It explores how intelligence can be divided into various dimensions like language structures, knowledge, and reasoning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthetic Data for Pre-training&lt;/strong&gt;: The article discusses the use of synthetic data to pre-train LLMs, enhancing their capabilities in understanding and generating physics-related content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project Resources&lt;/strong&gt;: It provides a link to the project page with additional readings and resources.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
-- The article provides a clear and practical example of how Generative AI can be used to break down complex problems.
-- It emphasizes the importance of considering multiple perspectives and aspects, which is valuable for problem-solving.
-- The writing is accessible and well-structured, making it easy to follow.&lt;/p&gt;
+- The article effectively summarizes a complex tutorial, making it accessible to a broader audience.
+- It provides a clear explanation of the dimensions of intelligence and the role of synthetic data in pre-training LLMs.
+- The inclusion of a project page with additional resources is valuable for further learning.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
-- The article could benefit from more concrete examples or case studies to illustrate the points further.
-- Some sections, particularly the introduction, could be more concise to maintain reader engagement.
-- The article does not delve deeply into the potential limitations or ethical considerations of using Generative AI in problem-solving.&lt;/p&gt;
+- The article could benefit from more detailed examples or case studies to illustrate the concepts.
+- The depth of technical detail is limited, which might not satisfy experts in the field.
+- There is no discussion of potential limitations or challenges associated with using synthetic data for pre-training.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Business Professionals&lt;/strong&gt;: Especially those involved in product development and team management.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Educators&lt;/strong&gt;: Those interested in integrating technology and AI into teaching methods.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technology Enthusiasts&lt;/strong&gt;: Individuals curious about the applications of Generative AI in various fields.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Problem Solvers&lt;/strong&gt;: Anyone looking for new tools and methods to approach complex tasks.&lt;/li&gt;
+&lt;li&gt;Researchers and practitioners in the field of artificial intelligence, particularly those working with large language models.&lt;/li&gt;
+&lt;li&gt;Students and academics studying machine learning and natural language processing.&lt;/li&gt;
+&lt;li&gt;Developers and engineers looking to apply LLMs in physics-related applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;How can Generative AI be used to identify and address potential gaps in a project's planning phase?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the ethical considerations of relying heavily on Generative AI for problem-solving and decision-making in a business context?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In what ways can the use of Generative AI to break down problems into parts enhance collaboration among team members with different expertise?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If a reader can answer these questions effectively, they will have a thorough understanding of the article's key points and implications.&lt;/p&gt;&lt;br/&gt;</description><pubDate>Tue, 03 Dec 2024 21:37:43 GMT</pubDate><guid>https://cacm.acm.org/blogcacm/finding-roles-in-a-team-with-generative-ai/</guid></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;What are the key dimensions of intelligence that the article discusses, and how do they contribute to the capabilities of LLMs?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does the use of synthetic data in pre-training LLMs enhance their performance in understanding and generating physics-related content?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are some potential limitations or challenges associated with using synthetic data for pre-training LLMs, and how might they be addressed?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Wed, 04 Dec 2024 03:51:52 GMT</pubDate><guid>https://t.me/LinghaoCh/898</guid></item><item><title>The End of Shame</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shame&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-awareness&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-love&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article explores the evolution of a child's mind from infancy to early childhood, highlighting how their emotional and social awareness develops. Initially, a newborn's mind focuses on basic biological needs, but as they grow, their mind begins to monitor psychological needs and develop a sense of self in relation to others. This awareness is shaped by social constructs and cultural norms, leading to a nuanced understanding of oneself in different contexts. However, this awareness can also lead to feelings of shame, which can be deeply rooted and long-lasting. The author argues that while shame can serve as a corrective mechanism, it often becomes chronic and detrimental to one's self-worth. The solution, according to the author, is to cultivate self-love, which empowers individuals to act authentically and confidently, free from the constraints of external judgments.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The author reflects on the development of a child's mind, starting from infancy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biological Needs to Psychological Awareness&lt;/strong&gt;: Transition from basic biological needs to more complex psychological needs as the child grows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Constructs and Self-Awareness&lt;/strong&gt;: How children begin to understand themselves in the context of social interactions and cultural norms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Burden of Shame&lt;/strong&gt;: The negative impact of shame on self-worth and how it can become deeply ingrained.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chronic Shame vs. Corrective Mechanism&lt;/strong&gt;: The difference between healthy and unhealthy forms of shame.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extinguishing Shame&lt;/strong&gt;: The importance of self-love in overcoming chronic shame and fostering authentic living.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Encouragement to embrace self-love and move beyond the constraints of shame.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- The article provides a clear and insightful exploration of the development of a child's mind and the role of social constructs in shaping self-awareness.
+- The discussion on the nature of shame and its impact on self-worth is well-articulated and supported with practical examples.
+- The solution of cultivating self-love is presented as a logical and empowering alternative to chronic shame.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- The article could benefit from more empirical evidence or references to psychological studies to strengthen its arguments.
+- The transition between some sections, particularly from the discussion of social constructs to the concept of shame, could be smoother.
+- The tone is somewhat repetitive in emphasizing the negative aspects of shame, which might be balanced with more positive examples of self-love in action.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Parents and Caregivers&lt;/strong&gt;: Those interested in understanding the psychological development of children.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Psychologists and Therapists&lt;/strong&gt;: Professionals who work with clients dealing with issues of self-worth and shame.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educators&lt;/strong&gt;: Teachers and educators who want to foster a positive and supportive environment for students.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General Readers&lt;/strong&gt;: Anyone looking to improve their mental health and self-esteem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;How does the development of social awareness in early childhood influence a person's ability to form healthy relationships later in life?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the key differences between healthy shame (as a corrective mechanism) and chronic shame (as a debilitating emotion)?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In what ways can cultivating self-love help individuals overcome the negative effects of chronic shame and lead more fulfilling lives?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Wed, 04 Dec 2024 03:51:23 GMT</pubDate><guid>https://moretothat.com/the-end-of-shame/</guid></item></channel></rss>
