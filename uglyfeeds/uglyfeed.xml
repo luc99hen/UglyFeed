@@ -1,2 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 AI training for beginners</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI Training&lt;/li&gt;
+&lt;li&gt;Model Fine-Tuning&lt;/li&gt;
+&lt;li&gt;Data Structuring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article provides a comprehensive guide for beginners interested in training their own AI models. It starts by addressing the common misconception that training an AI model is extremely difficult and highlights that it is more accessible than many people think. The core of the article consists of a curated list of YouTube videos that cover various aspects of AI training, from basic overviews to advanced topics like fine-tuning and hardware requirements. Key points include the importance of data structuring, the use of cloud platforms like Vertex AI and Amazon SageMaker, and the benefits of fine-tuning pre-existing models rather than training from scratch. The article also touches on the latest developments in AI, such as DeepMind's weather forecasting AI and OpenAI's collaboration with Anduril on drone defense. Overall, the article aims to demystify the process of training AI models and provide practical resources for those looking to get started.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Brief overview and introduction to the topic of training AI models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Common Misconception&lt;/strong&gt;: Addressing the belief that training AI models is too complex.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Curated Video Resources&lt;/strong&gt;: List of YouTube videos covering various aspects of AI training, including basics, data structuring, and advanced topics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Importance of data structuring.&lt;/li&gt;
+&lt;li&gt;Use of cloud platforms like Vertex AI and Amazon SageMaker.&lt;/li&gt;
+&lt;li&gt;Benefits of fine-tuning pre-existing models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest Developments&lt;/strong&gt;: Mention of recent advancements in AI, such as DeepMind's weather forecasting AI and OpenAI's collaboration with Anduril.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Encouragement to explore the provided resources and get started with AI training.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- Comprehensive and well-curated list of resources for beginners.
+- Clear and concise explanations of key concepts.
+- Up-to-date information on recent AI developments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- Some technical terms and concepts are not fully explained, which might be confusing for absolute beginners.
+- The article could benefit from more detailed examples and practical applications.
+- The structure could be improved for better readability and flow.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Beginners and intermediate learners interested in AI and machine learning.&lt;/li&gt;
+&lt;li&gt;Students and professionals looking to expand their knowledge in AI.&lt;/li&gt;
+&lt;li&gt;Developers and researchers working on AI projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What are the key differences between training an AI model from scratch and fine-tuning an existing model, and when might each approach be more appropriate?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How does data structuring impact the performance of an AI model, and what are some best practices for preparing training data?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential ethical considerations when using AI-generated content, and how can they be addressed?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Thu, 05 Dec 2024 15:42:08 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/w0looapon3kr1fulwf5e.html</guid></item></channel></rss>
