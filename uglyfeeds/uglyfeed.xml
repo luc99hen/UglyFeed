@@ -1,85 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>科技爱好者周刊（第 328 期）：AI 模型不是一门好生意</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. 关键词&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>Revealed: bias found in AI system used to detect UK benefits fraud</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;AI 模型&lt;/li&gt;
-&lt;li&gt;成本&lt;/li&gt;
-&lt;li&gt;商业模式&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. 精炼摘要&lt;/h3&gt;
-&lt;p&gt;本文探讨了AI模型行业的商业困境，指出尽管AI模型具有巨大的潜力，但高昂的成本和快速贬值的特点使其难以成为一个可持续的商业模式。文章提到微软和OpenAI等公司纷纷涨价，反映出AI模型的巨大开支。此外，AI模型缺乏规模经济效应，且需要不断更新以保持竞争力，这使得公司难以盈利。同时，开源模型的兴起也加剧了市场竞争，使得商业模型的垄断优势难以维持。因此，对于考虑进入AI模型领域的公司，文章建议应谨慎评估风险。&lt;/p&gt;
-&lt;h3&gt;3. 文章大纲&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;封面图&lt;/strong&gt;：上海南站正在改造，车站的北半部在施工，南半部正常运营。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI 模型不是一门好生意&lt;/strong&gt;：微软和OpenAI涨价，反映了AI模型的高昂成本。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高额投入&lt;/strong&gt;：AI模型需要大量资金，且投入巨大。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;缺乏规模经济&lt;/strong&gt;：AI模型越大，单位成本反而更高。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;快速贬值&lt;/strong&gt;：新模型不断推出，旧模型快速贬值。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;无法保持垄断优势&lt;/strong&gt;：云服务商的资源可以被任何人租用，难以形成持久的竞争优势。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;应对策略&lt;/strong&gt;：筹集更多资金，使模型差异化。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;豆包 MarsCode 系列活动&lt;/strong&gt;：介绍豆包 MarsCode 的编程助手及其即将举行的活动。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技动态&lt;/strong&gt;：介绍几项有趣的科技动态，包括树莓派掌上电脑、超声波洗澡机和升缩鞋。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文章推荐&lt;/strong&gt;：推荐几篇科技文章，涉及Astro框架、Phoenix LiveView、机上WiFi定位等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;工具推荐&lt;/strong&gt;：推荐一些实用的工具，如Bananas、jsontr.ee等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI 相关&lt;/strong&gt;：介绍一些AI相关的资源，如Bylo.ai、Color Diffusion等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;资源推荐&lt;/strong&gt;：推荐一些有用的资源，如Hi Speaking、In Pieces等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;图片&lt;/strong&gt;：展示乐高面板和老照片中人们不微笑的原因。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文摘&lt;/strong&gt;：讨论哺乳动物的心跳速率与体型的关系。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;言论&lt;/strong&gt;：引用几位名人的观点，涉及比特币、尼采、内部平台效应等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;往年回顾&lt;/strong&gt;：回顾过去几年的科技话题。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文档信息&lt;/strong&gt;：提供版权声明和发表日期。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;4. 推荐度&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;
-- &lt;strong&gt;优点&lt;/strong&gt;：文章内容丰富，涵盖了AI模型行业的多个方面，逻辑清晰，分析透彻，提供了丰富的数据和实例支持。
-- &lt;strong&gt;缺点&lt;/strong&gt;：部分内容较为简略，例如应对策略部分可以进一步展开；某些技术细节的解释不够深入，可能导致非专业人士理解困难。&lt;/p&gt;
-&lt;h3&gt;5. 感兴趣的读者&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI研究人员和开发者&lt;/strong&gt;：对AI模型的成本和商业模式感兴趣。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技投资者&lt;/strong&gt;：关注AI行业的投资前景和风险。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技爱好者&lt;/strong&gt;：对最新的科技动态和技术趋势感兴趣。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;6. 思考题&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;为什么AI模型的成本会随着模型规模的增大而增加？&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;这涉及到计算资源的需求和模型优化的难度。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;开源模型的兴起对商业AI模型公司有何影响？&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;开源模型的出现使得商业模型的竞争力下降，用户可能会转向免费的开源选项。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI模型公司如何在激烈的竞争中保持竞争优势？&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;除了筹集资金，公司还需要不断创新，使模型差异化，并提高用户体验。&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 06 Dec 2024 03:51:29 GMT</pubDate><guid>http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html</guid></item><item><title>Trump picks venture capitalist David Sacks as AI and crypto ‘czar’</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;David Sacks&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Crypto Czar&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Bias&lt;/li&gt;
+&lt;li&gt;AI System&lt;/li&gt;
+&lt;li&gt;Benefits Fraud&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Summary&lt;/h3&gt;
-&lt;p&gt;Donald Trump has nominated David Sacks, a venture capitalist and former PayPal COO, as the White House AI and crypto czar. This appointment continues Trump's pattern of rewarding significant donors with influential positions. Sacks, known for his Silicon Valley connections, hosted a fundraising event at his San Francisco mansion in June, which raised $12 million for Trump's campaign. The nomination highlights the importance Trump places on AI and cryptocurrency as key areas for future American competitiveness.&lt;/p&gt;
+&lt;p&gt;The Guardian has revealed that an AI system employed by the UK government to detect welfare fraud is exhibiting significant biases based on age, disability, marital status, and nationality. An internal assessment of the machine-learning program found that it incorrectly flags certain demographic groups for investigation more frequently than others, raising concerns about a "hurt first, fix later" approach. This bias could lead to unjust investigations and potential harm to vulnerable individuals, highlighting the need for more rigorous oversight and fairness in AI applications within governmental systems.&lt;/p&gt;
 &lt;h3&gt;3. Outline&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Donald Trump announces the nomination of David Sacks as the White House AI and crypto czar.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background on David Sacks&lt;/strong&gt;: Sacks is a venture capitalist and former PayPal COO who hosted a major fundraising event for Trump.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fundraising Event&lt;/strong&gt;: The event at Sacks' San Francisco mansion raised $12 million for Trump's campaign.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Trump's Pattern&lt;/strong&gt;: This nomination is part of Trump's trend of rewarding big donors with political power.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Significance&lt;/strong&gt;: The appointment underscores the importance of AI and cryptocurrency in future American competitiveness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The Guardian reports on the discovery of bias in an AI system used by the UK government to detect welfare fraud.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Main Findings&lt;/strong&gt;: The AI system shows bias against certain demographic groups, including age, disability, marital status, and nationality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Internal Assessment&lt;/strong&gt;: An internal evaluation found that the AI incorrectly selects individuals from these groups for fraud investigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concerns Raised&lt;/strong&gt;: The biased system could lead to unfair treatment and potential harm to vulnerable populations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: There is a need for better oversight and fairness in the use of AI in governmental systems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
-- The article provides a clear and concise overview of the nomination and its context.
-- It highlights the significance of AI and cryptocurrency in future American competitiveness.
-- The connection between political donations and appointments is well-explained.&lt;/p&gt;
+- The article effectively highlights a critical issue with the AI system used for detecting welfare fraud.
+- It provides concrete examples of the biases found and their potential impacts.
+- The article raises important ethical and practical concerns about the use of AI in governmental processes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
-- The article could provide more detailed information about Sacks' qualifications and experience in AI and cryptocurrency.
-- There is limited discussion on the potential implications of this appointment for policy and governance.
-- The article does not explore potential criticisms or alternative viewpoints.&lt;/p&gt;
+- The article does not provide detailed information on the methodology used in the internal assessment.
+- It lacks a comprehensive discussion on potential solutions or steps being taken to address the bias.
+- The article could benefit from more expert opinions or data to support its claims.&lt;/p&gt;
 &lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Political Analysts&lt;/strong&gt;: Those interested in the intersection of politics and technology.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech Enthusiasts&lt;/strong&gt;: Individuals following developments in AI and cryptocurrency.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Campaign Finance Experts&lt;/strong&gt;: People studying the influence of big donors in political appointments.&lt;/li&gt;
+&lt;li&gt;Policy makers and government officials involved in welfare programs.&lt;/li&gt;
+&lt;li&gt;Researchers and academics studying AI ethics and bias.&lt;/li&gt;
+&lt;li&gt;Advocates for social justice and equality.&lt;/li&gt;
+&lt;li&gt;Tech companies developing AI systems for governmental use.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;What specific qualifications does David Sacks bring to the role of AI and crypto czar, and how do they align with the challenges in these fields?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How might the appointment of a big donor as a high-ranking official impact public trust in government decisions related to AI and cryptocurrency?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What are the potential long-term implications of prioritizing AI and cryptocurrency as key areas for American competitiveness, and how might other countries respond?&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 06 Dec 2024 03:50:53 GMT</pubDate><guid>https://www.theguardian.com/us-news/2024/dec/05/trump-david-sacks-ai-crypto</guid></item></channel></rss>
+&lt;li&gt;What specific measures can be implemented to ensure that AI systems used in welfare fraud detection are fair and unbiased?&lt;/li&gt;
+&lt;li&gt;How might the biases identified in this AI system impact the trust and confidence of the public in governmental welfare programs?&lt;/li&gt;
+&lt;li&gt;What role should transparency and accountability play in the development and deployment of AI systems in sensitive areas like welfare fraud detection?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 06 Dec 2024 09:40:56 GMT</pubDate><guid>https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits</guid></item><item><title>How AI monitoring is cutting stillbirths and neonatal deaths in a clinic in Malawi</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI Monitoring&lt;/li&gt;
+&lt;li&gt;Neonatal Deaths&lt;/li&gt;
+&lt;li&gt;Malawi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses the implementation of AI-driven fetal safety software in a hospital in Malawi, which has led to a significant reduction in baby fatalities. Ellen Kaphamtengo, an 18-year-old first-time mother, experienced a sudden pain during her ninth month of pregnancy and was rushed to the hospital. Initially thought to be a false alarm, a routine ultrasound revealed that her baby was much smaller than expected and was suffering from asphyxia. The AI software helped the medical team quickly identify and address the issue, contributing to the overall success in reducing neonatal deaths by 82% over three years.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: The hospital in Malawi using AI-driven fetal safety software has seen a dramatic reduction in baby fatalities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Case Study&lt;/strong&gt;: Ellen Kaphamtengo, an 18-year-old first-time mother, experienced sudden pain and was rushed to the hospital.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Initial Assessment&lt;/strong&gt;: Initially thought to be a false alarm, a routine ultrasound revealed a critical issue with the baby.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Intervention&lt;/strong&gt;: The AI software helped the medical team diagnose and treat the baby's asphyxia.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt;: Over three years, the hospital has seen an 82% reduction in neonatal deaths.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: The AI monitoring system has proven effective in improving neonatal outcomes in Malawi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:
+- The article effectively highlights the success of AI-driven fetal safety software in reducing neonatal deaths.
+- It provides a real-life case study that illustrates the practical benefits of the technology.
+- The data presented (82% reduction in fatalities) is compelling and supports the effectiveness of the intervention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:
+- The article could benefit from more detailed information about the specific features and mechanisms of the AI software.
+- There is limited discussion on the challenges or limitations of implementing such technology in resource-constrained settings like Malawi.
+- The article does not explore potential ethical concerns or the broader impact on healthcare systems.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Healthcare professionals and policymakers in low-resource settings.&lt;/li&gt;
+&lt;li&gt;Researchers and technologists working on AI applications in healthcare.&lt;/li&gt;
+&lt;li&gt;Advocates for maternal and child health.&lt;/li&gt;
+&lt;li&gt;Journalists and media outlets covering health and technology innovations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;How does the AI-driven fetal safety software work, and what specific features make it effective in reducing neonatal deaths?&lt;/li&gt;
+&lt;li&gt;What are the potential challenges and limitations of implementing this technology in other low-resource settings, and how can they be addressed?&lt;/li&gt;
+&lt;li&gt;What ethical considerations should be taken into account when using AI in healthcare, particularly in vulnerable populations like pregnant women and newborns?&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Fri, 06 Dec 2024 09:40:37 GMT</pubDate><guid>https://www.theguardian.com/global-development/2024/dec/06/how-ai-monitoring-is-cutting-stillbirths-and-neonatal-deaths-in-a-clinic-in-malawi</guid></item></channel></rss>
