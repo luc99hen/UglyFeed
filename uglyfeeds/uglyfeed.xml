@@ -1,2 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UglyFeed RSS</title><link>https://github.com/fabriziosalmi/UglyFeed</link><description>A dynamically generated feed using UglyFeed.</description><language>en</language><atom:link href="https://raw.githubusercontent.com/fabriziosalmi/UglyFeed/main/examples/uglyfeed-source-1.xml" rel="self" type="application/rss+xml" /><author>UglyFeed</author><category>Technology</category><copyright>UglyFeed</copyright><item><title>😺 AI learns YOUR way</title><description>&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1. Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reinforcement Fine-Tuning (RFT)&lt;/li&gt;
+&lt;li&gt;Domain Expertise&lt;/li&gt;
+&lt;li&gt;OpenAI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Summary&lt;/h3&gt;
+&lt;p&gt;The article discusses OpenAI's new reinforcement fine-tuning (RFT) program, which allows AI models to become domain experts with minimal training data. Unlike traditional fine-tuning methods, RFT trains models to reason through problems and learn from graded feedback, leading to better generalization. A demonstration by a computational biologist showed that an RFT-trained model outperformed both its untrained version and a larger, more expensive model in identifying genes responsible for rare diseases. The program is currently in alpha, with early access available for researchers and professionals in fields such as legal research, financial modeling, and engineering. This advancement marks a significant shift towards more specialized and efficient AI systems, potentially revolutionizing how expertise is applied in various industries.&lt;/p&gt;
+&lt;h3&gt;3. Outline&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Brief mention of the new Star Wars show "Skeleton Crew" and a robot rat using AI to befriend real-life rats.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenAI's New Program&lt;/strong&gt;: Introduction to OpenAI's reinforcement fine-tuning (RFT) program, which allows models to become domain experts with minimal data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How RFT Works&lt;/strong&gt;: Explanation of the RFT process, contrasting it with traditional fine-tuning methods.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Demonstration&lt;/strong&gt;: Example of a computational biologist using RFT to improve a model's performance in identifying genes responsible for rare diseases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Early Uses and Applications&lt;/strong&gt;: Potential applications of RFT in legal research, financial modeling, engineering, and insurance underwriting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Access and Implementation&lt;/strong&gt;: Information on how to apply for early access and the resources provided by OpenAI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact and Future Outlook&lt;/strong&gt;: Discussion of the potential impact of RFT on the AI landscape, leading to more specialized and efficient systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional News&lt;/strong&gt;: Brief mentions of other AI and robotics developments, including Meta's new data center and various AI tools.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. Overall Recommendation Degree: B&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+- The article clearly explains the concept of reinforcement fine-tuning and its potential benefits.
+- It provides a concrete example of the technology's effectiveness.
+- The article highlights the broader implications for various industries.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+- The article lacks detailed technical explanations and methodologies.
+- It does not address potential limitations or challenges associated with RFT.
+- The writing style is somewhat casual, which may not suit all readers.&lt;/p&gt;
+&lt;h3&gt;5. Who May Be Interested in This Content?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI researchers and developers&lt;/li&gt;
+&lt;li&gt;Professionals in fields such as legal research, financial modeling, and engineering&lt;/li&gt;
+&lt;li&gt;Tech enthusiasts and industry analysts&lt;/li&gt;
+&lt;li&gt;Investors and business leaders interested in AI advancements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Thought-Provoking Questions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What are the potential ethical implications of using reinforcement fine-tuning to create domain-specific AI experts?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How might the availability of RFT impact the job market in industries where domain expertise is crucial?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are the limitations of RFT, and how can they be addressed to ensure the technology's widespread adoption?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;br/&gt;</description><pubDate>Sun, 08 Dec 2024 15:39:13 GMT</pubDate><guid>https://kill-the-newsletter.com/feeds/2svtdtb78fekpypu/entries/17x75isvoz88ae0bjcto.html</guid></item></channel></rss>
